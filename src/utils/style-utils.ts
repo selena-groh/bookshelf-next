@@ -1,14 +1,6 @@
 import Vibrant from "node-vibrant";
 import { Book as BookType, Series } from "./types";
 import { getRandomElement, getRandomInt } from "./utils";
-import {
-  bebas_neue,
-  besley,
-  cinzel,
-  gabriela,
-  gentium_book_plus,
-  kode_mono,
-} from "@/app/fonts";
 
 export const BOOK_BASE_HEIGHT = 200;
 export const BOOK_MAX_HEIGHT = 400;
@@ -27,26 +19,26 @@ export const LIGHT_COLORS = [OFF_WHITE, LIGHT_GOLD, DARK_GOLD, SILVER];
 export type LightColor = (typeof LIGHT_COLORS)[number];
 
 export const FONT_STYLES = [
-  { fontFamily: `var(${bebas_neue.variable})` },
+  { fontFamily: "var(--font-bebas-neue)" },
   {
-    fontFamily: `var(${gabriela.variable})`,
+    fontFamily: "var(--font-gabriela)",
     textTransform: "uppercase",
     letterSpacing: "0.5px",
   },
   {
-    fontFamily: `var(${gentium_book_plus.variable})`,
+    fontFamily: "var(--font-gentium-book-plus)",
     textTransform: "uppercase",
     letterSpacing: "0.5px",
   },
   {
-    fontFamily: `var(${cinzel.variable})`,
+    fontFamily: "var(--font-cinzel)",
     fontWeight: "bold",
   },
   {
-    fontFamily: `var(${besley.variable})`,
+    fontFamily: "var(--font-besley)",
   },
   {
-    fontFamily: `var(${kode_mono.variable})`,
+    fontFamily: "var(--font-kode-mono)",
   },
 ];
 
