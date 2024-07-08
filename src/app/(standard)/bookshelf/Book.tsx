@@ -71,6 +71,7 @@ const Book = (book: BookType) => {
           <Image
             src={book.coverImg}
             alt={book.title}
+            loading="eager"
             onLoad={(e) => {
               setImageElement(e.target as HTMLImageElement);
             }}
