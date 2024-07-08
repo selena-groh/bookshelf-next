@@ -52,4 +52,5 @@ export const kode_mono = Kode_Mono({
   subsets: ["latin"],
   variable: "--font-kode-mono",
   display: "swap",
+  adjustFontFallback: false,
 });

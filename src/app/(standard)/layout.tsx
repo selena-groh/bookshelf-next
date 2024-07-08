@@ -15,8 +15,10 @@ export default function StandardLayout({
   return (
     <div className="App">
       <header>
-        <h1 className="App-title">Colin's Bookshelf</h1>
-        <p className="App-subtitle">A visualization of Colin Groh's library</p>
+        <h1 className="App-title">Colin&rsquo;s Bookshelf</h1>
+        <p className="App-subtitle">
+          A visualization of Colin Groh&rsquo;s library
+        </p>
         <div className="App-navigation">
           <Link href="/bookshelf">Book Shelves</Link>
           <Link href="/booklist">Book List</Link>
