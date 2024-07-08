@@ -1,0 +1,79 @@
+.Book {
+  $root: &;
+  position: relative;
+  height: 200px;
+  max-width: 100vw;
+  background-color: lightgray;
+  border-radius: 4px 8px 4px 8px;
+  padding: 16px 2px 8px;
+  overflow: hidden;
+  display: flex;
+  text-decoration: none;
+  gap: 2px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: 1px;
+
+  // Shadows around the corners
+  // box-shadow: inset 0px 0px 8px 1px #1d1b18;
+
+  // Shadows around the corners
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 0px 0px 16px 4px rgb(41, 34, 34);
+    mix-blend-mode: soft-light;
+    clip-path: inset(0px -16px 0px -16px);
+  }
+
+  &-title {
+    flex-grow: 2;
+    font-size: 8px;
+    text-align: left;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-shadow: 1px 0px 2px rgb(41, 34, 34);
+
+    // #{$root}--isWide & {
+    //   font-size: 16px;
+    // }
+  }
+  &-author {
+    font-size: 8px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    #{$root}--hasSeries#{$root}--isWide & {
+      writing-mode: initial;
+      text-orientation: initial;
+      width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+  &-series {
+    min-width: 8px;
+    min-height: 8px;
+    font-size: 8px;
+  }
+  &-seriesNumber {
+    min-width: 8px;
+    min-height: 8px;
+    font-size: 8px;
+  }
+  &--isSkinny {
+    gap: 8px;
+    & #{$root}-author,
+    & #{$root}-series,
+    & #{$root}-seriesNumber {
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+    }
+  }
+}

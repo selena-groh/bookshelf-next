@@ -1,0 +1,6 @@
+.RatingStars {
+  min-width: 80px;
+  & > svg {
+    display: inline-block;
+  }
+}

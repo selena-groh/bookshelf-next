@@ -1,0 +1,8 @@
+.TabButton {
+  cursor: pointer;
+  padding: 4px;
+  &:hover,
+  &--isActive {
+    text-decoration: underline;
+  }
+}
