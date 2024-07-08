@@ -1,6 +1,7 @@
+"use client";
+
 import books from "@/data/books";
 import "./Bookshelf.scss";
-import Book from "./Book";
 import cx from "classnames";
 import {
   bebas_neue,
@@ -10,6 +11,9 @@ import {
   gentium_book_plus,
   kode_mono,
 } from "@/app/fonts";
+import dynamic from "next/dynamic";
+
+const Book = dynamic(() => import("./Book"), { ssr: false });
 
 export default function Bookshelf() {
   const allButLastThreeBooks = books.slice(0, -3);

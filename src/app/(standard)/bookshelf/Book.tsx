@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-// import Vibrant from "node-vibrant";
+import Vibrant from "node-vibrant";
 import "./Book.scss";
 import classNames from "classnames";
 import { Book as BookType } from "@/utils/types";
@@ -20,24 +20,26 @@ import {
   getAuthorLastName,
   getShortenedBookTitle,
 } from "@/utils/data-processing";
+import Image from "next/image";
 
 const BOOK_PAGE_THRESHOLD = 250;
 
 const Book = (book: BookType) => {
-  // const [palette, setPalette] = useState<PaletteType>(null);
+  const [palette, setPalette] = useState<PaletteType>(null);
+  const [imageElement, setImageElement] = useState<HTMLImageElement | null>(
+    null
+  );
 
-  // useEffect(() => {
-  //   if (book.coverImg && palette === null) {
-  //     Vibrant.from(book.coverImg)
-  //       .getPalette()
-  //       .then((calculatedPalette) => setPalette(calculatedPalette));
-  //   }
-  // }, [book]);
+  useEffect(() => {
+    if (book.coverImg && imageElement && palette === null) {
+      Vibrant.from(imageElement)
+        .getPalette()
+        .then((calculatedPalette) => setPalette(calculatedPalette));
+    }
+  }, [book, imageElement]);
 
-  // const backgroundColor = getBackgroundColor(palette);
-  // const textColor = getTextColor(palette);
-  const backgroundColor = "#000";
-  const textColor = "#FFF";
+  const backgroundColor = getBackgroundColor(palette);
+  const textColor = getTextColor(palette);
 
   const series = seriesMap[book.series];
   const shortenedBookTitle = getShortenedBookTitle(book);
@@ -64,6 +66,17 @@ const Book = (book: BookType) => {
       target="_blank"
       href={book.goodreadsUrl}
     >
+      {book.coverImg && (
+        <div style={{ display: "none" }}>
+          <Image
+            src={book.coverImg}
+            alt={book.title}
+            onLoad={(e) => {
+              setImageElement(e.target as HTMLImageElement);
+            }}
+          />
+        </div>
+      )}
       <span
         className="Book-title"
         style={{
