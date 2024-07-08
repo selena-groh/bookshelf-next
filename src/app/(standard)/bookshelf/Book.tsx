@@ -69,6 +69,7 @@ const Book = (book: BookType) => {
       {book.coverImg && (
         <div style={{ display: "none" }}>
           <Image
+            unoptimized
             src={book.coverImg}
             alt={book.title}
             loading="eager"

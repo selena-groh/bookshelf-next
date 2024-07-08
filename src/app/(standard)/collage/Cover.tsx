@@ -11,6 +11,7 @@ const Cover = (book: BookType) => {
   return (
     <a target="_blank" href={book.goodreadsUrl}>
       <Image
+        unoptimized
         src={book.coverImg}
         alt={book.title}
         sizes="(min-width: 960px) 5vw, (min-width: 640px) 10vw, 20vw"
