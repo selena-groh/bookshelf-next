@@ -1,6 +1,6 @@
 import books from "@/data/books";
 
-const BookStats = () => {
+const Stats = () => {
   const totalPages = books.reduce(
     (runningSum, book) => runningSum + Number(book.numberOfPages),
     0
@@ -17,4 +17,4 @@ const BookStats = () => {
   );
 };
 
-export default BookStats;
+export default Stats;

@@ -1,6 +1,3 @@
-"use client";
-
-import "./Cover.scss";
 import { Book as BookType } from "@/utils/types";
 import Image from "next/image";
 

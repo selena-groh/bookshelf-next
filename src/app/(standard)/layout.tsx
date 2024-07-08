@@ -3,8 +3,8 @@ import Link from "next/link";
 import "./Layout.scss";
 
 export const metadata: Metadata = {
-  title: "Bookshelf",
-  description: "A visualization of a bookshelf",
+  title: "Colin's Library",
+  description: "A visualization of a lifetime's worth of reading (so far)",
 };
 
 export default function StandardLayout({
@@ -15,14 +15,14 @@ export default function StandardLayout({
   return (
     <div className="App">
       <header>
-        <h1 className="App-title">Colin&rsquo;s Bookshelf</h1>
+        <h1 className="App-title">Colin&rsquo;s Library</h1>
         <p className="App-subtitle">
-          A visualization of Colin Groh&rsquo;s library
+          A visualization of a lifetime's worth of reading (so far)
         </p>
         <div className="App-navigation">
-          <Link href="/bookshelf">Book Shelves</Link>
-          <Link href="/booklist">Book List</Link>
-          <Link href="/collage">Book Collage</Link>
+          <Link href="/library">Library</Link>
+          <Link href="/ledger">Ledger</Link>
+          <Link href="/gallery">Gallery</Link>
         </div>
       </header>
       {children}

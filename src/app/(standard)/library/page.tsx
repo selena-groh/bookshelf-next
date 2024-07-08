@@ -1,7 +1,5 @@
-"use client";
-
 import books from "@/data/books";
-import "./Bookshelf.scss";
+import "./Library.scss";
 import cx from "classnames";
 import {
   bebas_neue,
@@ -12,17 +10,22 @@ import {
   kode_mono,
 } from "@/app/fonts";
 import dynamic from "next/dynamic";
+import { Metadata } from "next";
 
 const Book = dynamic(() => import("./Book"), { ssr: false });
 
-export default function Bookshelf() {
+export const metadata: Metadata = {
+  title: "Library",
+};
+
+export default function Library() {
   const allButLastThreeBooks = books.slice(0, -3);
   const lastThreeBooks = books.slice(-3);
 
   return (
     <div
       className={cx(
-        "Bookshelf",
+        "Library",
         bebas_neue.variable,
         gabriela.variable,
         gentium_book_plus.variable,
@@ -32,23 +35,23 @@ export default function Bookshelf() {
       )}
     >
       {allButLastThreeBooks.map((book, index) => (
-        <div key={book.bookId} className="Bookshelf-bookWrap">
+        <div key={book.bookId} className="Library-bookWrap">
           <Book {...book} />
         </div>
       ))}
-      <div className="Bookshelf-endOfBookshelf">
+      <div className="Library-endOfBookshelf">
         {lastThreeBooks.map((book, index) => (
           <div
             key={book.bookId}
-            className={cx("Bookshelf-bookWrap", {
-              "Bookshelf-bookWrap--isLastBook":
+            className={cx("Library-bookWrap", {
+              "Library-bookWrap--isLastBook":
                 index === lastThreeBooks.length - 1,
             })}
           >
             <Book {...book} />
           </div>
         ))}
-        <div className="Bookshelf-bookWrap Bookshelf-emptyBookShelfSpace"></div>
+        <div className="Library-bookWrap Library-emptyBookShelfSpace"></div>
       </div>
     </div>
   );
