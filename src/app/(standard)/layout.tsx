@@ -22,6 +22,7 @@ export default function StandardLayout({
         <div className="App-navigation">
           <Link href="/bookshelf">Book Shelves</Link>
           <Link href="/booklist">Book List</Link>
+          <Link href="/collage">Book Collage</Link>
         </div>
       </header>
       {children}
