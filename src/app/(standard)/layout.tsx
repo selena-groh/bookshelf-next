@@ -17,7 +17,7 @@ export default function StandardLayout({
       <header>
         <h1 className="App-title">Colin&rsquo;s Library</h1>
         <p className="App-subtitle">
-          A visualization of a lifetime's worth of reading (so far)
+          A visualization of a lifetime&rsquo;s worth of reading (so far)
         </p>
         <div className="App-navigation">
           <Link href="/library">Library</Link>
