@@ -13,7 +13,7 @@ export type Book = {
   rating: number;
   numberOfPages: number | "";
   dateFinished: string;
-  coverImg: any;
+  // coverImg: any;
   goodreadsUrl: string;
 };
 

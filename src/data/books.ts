@@ -1,655 +1,655 @@
-import Image65213543 from "./book-covers/65213543.jpg";
-import Image50403486 from "./book-covers/50403486.jpg";
-import Image214240402 from "./book-covers/214240402.jpg";
-import Image63341398 from "./book-covers/63341398.jpg";
-import Image206827931 from "./book-covers/206827931.jpg";
-import Image204788472 from "./book-covers/204788472.jpg";
-import Image204624720 from "./book-covers/204624720.jpg";
-import Image35659604 from "./book-covers/35659604.jpg";
-import Image127306588 from "./book-covers/127306588.jpg";
-import Image206312708 from "./book-covers/206312708.jpg";
-import Image181855822 from "./book-covers/181855822.jpg";
-import Image29227774 from "./book-covers/29227774.jpg";
-import Image29226553 from "./book-covers/29226553.jpg";
-import Image1953 from "./book-covers/1953.jpg";
-import Image32145 from "./book-covers/32145.jpg";
-import Image33257757 from "./book-covers/33257757.jpg";
-import Image25116966 from "./book-covers/25116966.jpg";
-import Image40895279 from "./book-covers/40895279.jpg";
-import Image40894343 from "./book-covers/40894343.jpg";
-import Image26836157 from "./book-covers/26836157.jpg";
-import Image25318363 from "./book-covers/25318363.jpg";
-import Image40882831 from "./book-covers/40882831.jpg";
-import Image24644922 from "./book-covers/24644922.jpg";
-import Image25540661 from "./book-covers/25540661.jpg";
-import Image40899385 from "./book-covers/40899385.jpg";
-import Image25460752 from "./book-covers/25460752.jpg";
-import Image24645006 from "./book-covers/24645006.jpg";
-import Image26720267 from "./book-covers/26720267.jpg";
-import Image25093183 from "./book-covers/25093183.jpg";
-import Image26670014 from "./book-covers/26670014.jpg";
-import Image40899589 from "./book-covers/40899589.jpg";
-import Image26836138 from "./book-covers/26836138.jpg";
-import Image25318337 from "./book-covers/25318337.jpg";
-import Image40899590 from "./book-covers/40899590.jpg";
-import Image25638329 from "./book-covers/25638329.jpg";
-import Image26177458 from "./book-covers/26177458.jpg";
-import Image18966806 from "./book-covers/18966806.jpg";
-import Image216363 from "./book-covers/216363.jpg";
-import Image175983 from "./book-covers/175983.jpg";
-import Image1008231 from "./book-covers/1008231.jpg";
-import Image1446826 from "./book-covers/1446826.jpg";
-import Image4617762 from "./book-covers/4617762.jpg";
-import Image6275767 from "./book-covers/6275767.jpg";
-import Image7937776 from "./book-covers/7937776.jpg";
-import Image30169100 from "./book-covers/30169100.jpg";
-import Image8855321 from "./book-covers/8855321.jpg";
-import Image12591698 from "./book-covers/12591698.jpg";
-import Image14069 from "./book-covers/14069.jpg";
-import Image91989 from "./book-covers/91989.jpg";
-import Image28876 from "./book-covers/28876.jpg";
-import Image129510 from "./book-covers/129510.jpg";
-import Image891593 from "./book-covers/891593.jpg";
-import Image7038489 from "./book-covers/7038489.jpg";
-import Image16156292 from "./book-covers/16156292.jpg";
-import Image12069434 from "./book-covers/12069434.jpg";
-import Image20404555 from "./book-covers/20404555.jpg";
-import Image40603587 from "./book-covers/40603587.jpg";
-import Image140671 from "./book-covers/140671.jpg";
-import Image28959643 from "./book-covers/28959643.jpg";
-import Image29008820 from "./book-covers/29008820.jpg";
-import Image45064996 from "./book-covers/45064996.jpg";
-import Image19888971 from "./book-covers/19888971.jpg";
-import Image44767458 from "./book-covers/44767458.jpg";
-import Image44492285 from "./book-covers/44492285.jpg";
-import Image44492286 from "./book-covers/44492286.jpg";
-import Image41447687 from "./book-covers/41447687.jpg";
-import Image188994646 from "./book-covers/188994646.jpg";
-import Image55559974 from "./book-covers/55559974.jpg";
-import Image91477 from "./book-covers/91477.jpg";
-import Image91476 from "./book-covers/91476.jpg";
-import Image52284628 from "./book-covers/52284628.jpg";
-import Image50429169 from "./book-covers/50429169.jpg";
-import Image91478 from "./book-covers/91478.jpg";
-import Image54647047 from "./book-covers/54647047.jpg";
-import Image56576240 from "./book-covers/56576240.jpg";
-import Image58868952 from "./book-covers/58868952.jpg";
-import Image61260844 from "./book-covers/61260844.jpg";
-import Image54433225 from "./book-covers/54433225.jpg";
-import Image180856697 from "./book-covers/180856697.jpg";
-import Image103681644 from "./book-covers/103681644.jpg";
-import Image102523863 from "./book-covers/102523863.jpg";
-import Image385742 from "./book-covers/385742.jpg";
-import Image262430 from "./book-covers/262430.jpg";
-import Image385706 from "./book-covers/385706.jpg";
-import Image319644 from "./book-covers/319644.jpg";
-import Image537070 from "./book-covers/537070.jpg";
-import Image201127814 from "./book-covers/201127814.jpg";
-import Image32453022 from "./book-covers/32453022.jpg";
-import Image32453028 from "./book-covers/32453028.jpg";
-import Image32453036 from "./book-covers/32453036.jpg";
-import Image203274611 from "./book-covers/203274611.jpg";
-import Image42298979 from "./book-covers/42298979.jpg";
-import Image42433737 from "./book-covers/42433737.jpg";
-import Image178798504 from "./book-covers/178798504.jpg";
-import Image25385128 from "./book-covers/25385128.jpg";
-import Image25385130 from "./book-covers/25385130.jpg";
-import Image59801798 from "./book-covers/59801798.jpg";
-import Image91479 from "./book-covers/91479.jpg";
-import Image99383 from "./book-covers/99383.jpg";
-import Image47212 from "./book-covers/47212.jpg";
-import Image16031812 from "./book-covers/16031812.jpg";
-import Image228665 from "./book-covers/228665.jpg";
-import Image34897 from "./book-covers/34897.jpg";
-import Image233649 from "./book-covers/233649.jpg";
-import Image9539 from "./book-covers/9539.jpg";
-import Image13895 from "./book-covers/13895.jpg";
-import Image35231 from "./book-covers/35231.jpg";
-import Image13890 from "./book-covers/13890.jpg";
-import Image140974 from "./book-covers/140974.jpg";
-import Image13891 from "./book-covers/13891.jpg";
-import Image113435 from "./book-covers/113435.jpg";
-import Image13888 from "./book-covers/13888.jpg";
-import Image1166599 from "./book-covers/1166599.jpg";
-import Image8253920 from "./book-covers/8253920.jpg";
-import Image28954189 from "./book-covers/28954189.jpg";
-import Image33555224 from "./book-covers/33555224.jpg";
-import Image43822024 from "./book-covers/43822024.jpg";
-import Image9531737 from "./book-covers/9531737.jpg";
-import Image16131032 from "./book-covers/16131032.jpg";
-import Image60888209 from "./book-covers/60888209.jpg";
-import Image81360229 from "./book-covers/81360229.jpg";
-import Image178005710 from "./book-covers/178005710.jpg";
-import Image49886603 from "./book-covers/49886603.jpg";
-import Image10552338 from "./book-covers/10552338.jpg";
-import Image49109717 from "./book-covers/49109717.jpg";
-import Image45807334 from "./book-covers/45807334.jpg";
-import Image60098290 from "./book-covers/60098290.jpg";
-import Image27928985 from "./book-covers/27928985.jpg";
-import Image36065708 from "./book-covers/36065708.jpg";
-import Image60531410 from "./book-covers/60531410.jpg";
-import Image62314351 from "./book-covers/62314351.jpg";
-import Image60236906 from "./book-covers/60236906.jpg";
-import Image59661342 from "./book-covers/59661342.jpg";
-import Image55880798 from "./book-covers/55880798.jpg";
-import Image161092622 from "./book-covers/161092622.jpg";
-import Image28541 from "./book-covers/28541.jpg";
-import Image36684672 from "./book-covers/36684672.jpg";
-import Image28547 from "./book-covers/28547.jpg";
-import Image127584 from "./book-covers/127584.jpg";
-import Image28553 from "./book-covers/28553.jpg";
-import Image127586 from "./book-covers/127586.jpg";
-import Image61958 from "./book-covers/61958.jpg";
-import Image60784417 from "./book-covers/60784417.jpg";
-import Image60531420 from "./book-covers/60531420.jpg";
-import Image55399 from "./book-covers/55399.jpg";
-import Image55401 from "./book-covers/55401.jpg";
-import Image203356485 from "./book-covers/203356485.jpg";
-import Image60531406 from "./book-covers/60531406.jpg";
-import Image60531416 from "./book-covers/60531416.jpg";
-import Image784911 from "./book-covers/784911.jpg";
-import Image876034 from "./book-covers/876034.jpg";
-import Image771952 from "./book-covers/771952.jpg";
-import Image9673436 from "./book-covers/9673436.jpg";
-import Image4671 from "./book-covers/4671.jpg";
-import Image49041 from "./book-covers/49041.jpg";
-import Image1162543 from "./book-covers/1162543.jpg";
-import Image428263 from "./book-covers/428263.jpg";
-import Image60190659 from "./book-covers/60190659.jpg";
-import Image55162473 from "./book-covers/55162473.jpg";
-import Image32076670 from "./book-covers/32076670.jpg";
-import Image13554058 from "./book-covers/13554058.jpg";
-import Image7864437 from "./book-covers/7864437.jpg";
-import Image168646 from "./book-covers/168646.jpg";
-import Image1649725 from "./book-covers/1649725.jpg";
-import Image70401 from "./book-covers/70401.jpg";
-import Image61242426 from "./book-covers/61242426.jpg";
-import Image902715 from "./book-covers/902715.jpg";
-import Image944076 from "./book-covers/944076.jpg";
-import Image944073 from "./book-covers/944073.jpg";
-import Image15811545 from "./book-covers/15811545.jpg";
-import Image10664113 from "./book-covers/10664113.jpg";
-import Image13497 from "./book-covers/13497.jpg";
-import Image62291 from "./book-covers/62291.jpg";
-import Image5043 from "./book-covers/5043.jpg";
-import Image10572 from "./book-covers/10572.jpg";
-import Image13496 from "./book-covers/13496.jpg";
-import Image25499718 from "./book-covers/25499718.jpg";
-import Image90202302 from "./book-covers/90202302.jpg";
-import Image61431922 from "./book-covers/61431922.jpg";
-import Image55858638 from "./book-covers/55858638.jpg";
-import Image55559887 from "./book-covers/55559887.jpg";
-import Image50548197 from "./book-covers/50548197.jpg";
-import Image18656030 from "./book-covers/18656030.jpg";
-import Image22041948 from "./book-covers/22041948.jpg";
-import Image21844946 from "./book-covers/21844946.jpg";
-import Image8868764 from "./book-covers/8868764.jpg";
-import Image18713259 from "./book-covers/18713259.jpg";
-import Image43205859 from "./book-covers/43205859.jpg";
-import Image58419574 from "./book-covers/58419574.jpg";
-import Image153783 from "./book-covers/153783.jpg";
-import Image153781 from "./book-covers/153781.jpg";
-import Image153792 from "./book-covers/153792.jpg";
-import Image153782 from "./book-covers/153782.jpg";
-import Image24093 from "./book-covers/24093.jpg";
-import Image2964700 from "./book-covers/2964700.jpg";
-import Image58894 from "./book-covers/58894.jpg";
-import Image58893 from "./book-covers/58893.jpg";
-import Image18324059 from "./book-covers/18324059.jpg";
-import Image58890 from "./book-covers/58890.jpg";
-import Image153779 from "./book-covers/153779.jpg";
-import Image59808314 from "./book-covers/59808314.jpg";
-import Image59471329 from "./book-covers/59471329.jpg";
-import Image58889 from "./book-covers/58889.jpg";
-import Image153785 from "./book-covers/153785.jpg";
-import Image153795 from "./book-covers/153795.jpg";
-import Image153800 from "./book-covers/153800.jpg";
-import Image153784 from "./book-covers/153784.jpg";
-import Image54615879 from "./book-covers/54615879.jpg";
-import Image13837 from "./book-covers/13837.jpg";
-import Image18361393 from "./book-covers/18361393.jpg";
-import Image37640636 from "./book-covers/37640636.jpg";
-import Image60451926 from "./book-covers/60451926.jpg";
-import Image33357675 from "./book-covers/33357675.jpg";
-import Image13552643 from "./book-covers/13552643.jpg";
-import Image43606308 from "./book-covers/43606308.jpg";
-import Image12796771 from "./book-covers/12796771.jpg";
-import Image31176804 from "./book-covers/31176804.jpg";
-import Image22823333 from "./book-covers/22823333.jpg";
-import Image10852065 from "./book-covers/10852065.jpg";
-import Image20886354 from "./book-covers/20886354.jpg";
-import Image23397921 from "./book-covers/23397921.jpg";
-import Image1291212 from "./book-covers/1291212.jpg";
-import Image2638786 from "./book-covers/2638786.jpg";
-import Image479650 from "./book-covers/479650.jpg";
-import Image828482 from "./book-covers/828482.jpg";
-import Image655601 from "./book-covers/655601.jpg";
-import Image2025787 from "./book-covers/2025787.jpg";
-import Image21411388 from "./book-covers/21411388.jpg";
-import Image49021976 from "./book-covers/49021976.jpg";
-import Image34002132 from "./book-covers/34002132.jpg";
-import Image18966322 from "./book-covers/18966322.jpg";
-import Image13452375 from "./book-covers/13452375.jpg";
-import Image28595941 from "./book-covers/28595941.jpg";
-import Image28698036 from "./book-covers/28698036.jpg";
-import Image23947089 from "./book-covers/23947089.jpg";
-import Image22443261 from "./book-covers/22443261.jpg";
-import Image15704486 from "./book-covers/15704486.jpg";
-import Image34703445 from "./book-covers/34703445.jpg";
-import Image18667863 from "./book-covers/18667863.jpg";
-import Image13589152 from "./book-covers/13589152.jpg";
-import Image15704459 from "./book-covers/15704459.jpg";
-import Image10551947 from "./book-covers/10551947.jpg";
-import Image13003565 from "./book-covers/13003565.jpg";
-import Image18739426 from "./book-covers/18739426.jpg";
-import Image16065004 from "./book-covers/16065004.jpg";
-import Image11309018 from "./book-covers/11309018.jpg";
-import Image17182126 from "./book-covers/17182126.jpg";
-import Image1268479 from "./book-covers/1268479.jpg";
-import Image10803121 from "./book-covers/10803121.jpg";
-import Image17332218 from "./book-covers/17332218.jpg";
-import Image2767793 from "./book-covers/2767793.jpg";
-import Image68429 from "./book-covers/68429.jpg";
-import Image7235533 from "./book-covers/7235533.jpg";
-import Image68428 from "./book-covers/68428.jpg";
-import Image22299763 from "./book-covers/22299763.jpg";
-import Image23437156 from "./book-covers/23437156.jpg";
-import Image54493401 from "./book-covers/54493401.jpg";
-import Image18007564 from "./book-covers/18007564.jpg";
-import Image41085118 from "./book-covers/41085118.jpg";
-import Image29588 from "./book-covers/29588.jpg";
-import Image13538762 from "./book-covers/13538762.jpg";
-import Image29589 from "./book-covers/29589.jpg";
-import Image13539171 from "./book-covers/13539171.jpg";
-import Image6422238 from "./book-covers/6422238.jpg";
-import Image7241373 from "./book-covers/7241373.jpg";
-import Image40604388 from "./book-covers/40604388.jpg";
-import Image12917338 from "./book-covers/12917338.jpg";
-import Image29587 from "./book-covers/29587.jpg";
-import Image954674 from "./book-covers/954674.jpg";
-import Image123206298 from "./book-covers/123206298.jpg";
-import Image64222 from "./book-covers/64222.jpg";
-import Image601238 from "./book-covers/601238.jpg";
-import Image61880401 from "./book-covers/61880401.jpg";
-import Image176941314 from "./book-covers/176941314.jpg";
-import Image56495997 from "./book-covers/56495997.jpg";
-import Image83738056 from "./book-covers/83738056.jpg";
-import Image53298908 from "./book-covers/53298908.jpg";
-import Image45554269 from "./book-covers/45554269.jpg";
-import Image44300414 from "./book-covers/44300414.jpg";
-import Image58960282 from "./book-covers/58960282.jpg";
-import Image60525437 from "./book-covers/60525437.jpg";
-import Image55924416 from "./book-covers/55924416.jpg";
-import Image57913863 from "./book-covers/57913863.jpg";
-import Image41477610 from "./book-covers/41477610.jpg";
-import Image41241968 from "./book-covers/41241968.jpg";
-import Image41180829 from "./book-covers/41180829.jpg";
-import Image41033158 from "./book-covers/41033158.jpg";
-import Image18966819 from "./book-covers/18966819.jpg";
-import Image15839976 from "./book-covers/15839976.jpg";
-import Image3171446 from "./book-covers/3171446.jpg";
-import Image13532157 from "./book-covers/13532157.jpg";
-import Image58187209 from "./book-covers/58187209.jpg";
-import Image1616681 from "./book-covers/1616681.jpg";
-import Image5586087 from "./book-covers/5586087.jpg";
-import Image2924651 from "./book-covers/2924651.jpg";
-import Image205588425 from "./book-covers/205588425.jpg";
-import Image13515944 from "./book-covers/13515944.jpg";
-import Image12652457 from "./book-covers/12652457.jpg";
-import Image22703899 from "./book-covers/22703899.jpg";
-import Image12829147 from "./book-covers/12829147.jpg";
-import Image29449386 from "./book-covers/29449386.jpg";
-import Image6070107 from "./book-covers/6070107.jpg";
-import Image8153214 from "./book-covers/8153214.jpg";
-import Image6569573 from "./book-covers/6569573.jpg";
-import Image22219682 from "./book-covers/22219682.jpg";
-import Image22219681 from "./book-covers/22219681.jpg";
-import Image36458711 from "./book-covers/36458711.jpg";
-import Image34403860 from "./book-covers/34403860.jpg";
-import Image40126485 from "./book-covers/40126485.jpg";
-import Image24928019 from "./book-covers/24928019.jpg";
-import Image27207706 from "./book-covers/27207706.jpg";
-import Image30558257 from "./book-covers/30558257.jpg";
-import Image40280403 from "./book-covers/40280403.jpg";
-import Image36332410 from "./book-covers/36332410.jpg";
-import Image35023786 from "./book-covers/35023786.jpg";
-import Image40708807 from "./book-covers/40708807.jpg";
-import Image32283608 from "./book-covers/32283608.jpg";
-import Image33003444 from "./book-covers/33003444.jpg";
-import Image40774974 from "./book-covers/40774974.jpg";
-import Image39332452 from "./book-covers/39332452.jpg";
-import Image39353738 from "./book-covers/39353738.jpg";
-import Image20562717 from "./book-covers/20562717.jpg";
-import Image41812788 from "./book-covers/41812788.jpg";
-import Image25805242 from "./book-covers/25805242.jpg";
-import Image21801768 from "./book-covers/21801768.jpg";
-import Image38213103 from "./book-covers/38213103.jpg";
-import Image59224847 from "./book-covers/59224847.jpg";
-import Image48730174 from "./book-covers/48730174.jpg";
-import Image6593686 from "./book-covers/6593686.jpg";
-import Image34311458 from "./book-covers/34311458.jpg";
-import Image38236125 from "./book-covers/38236125.jpg";
-import Image43680932 from "./book-covers/43680932.jpg";
-import Image38191363 from "./book-covers/38191363.jpg";
-import Image84965769 from "./book-covers/84965769.jpg";
-import Image40651883 from "./book-covers/40651883.jpg";
-import Image43895031 from "./book-covers/43895031.jpg";
-import Image30290910 from "./book-covers/30290910.jpg";
-import Image16131932 from "./book-covers/16131932.jpg";
-import Image29618814 from "./book-covers/29618814.jpg";
-import Image43895127 from "./book-covers/43895127.jpg";
-import Image36010402 from "./book-covers/36010402.jpg";
-import Image39792427 from "./book-covers/39792427.jpg";
-import Image38112555 from "./book-covers/38112555.jpg";
-import Image18828258 from "./book-covers/18828258.jpg";
-import Image35465844 from "./book-covers/35465844.jpg";
-import Image43261151 from "./book-covers/43261151.jpg";
-import Image29963977 from "./book-covers/29963977.jpg";
-import Image36200052 from "./book-covers/36200052.jpg";
-import Image44869038 from "./book-covers/44869038.jpg";
-import Image18924928 from "./book-covers/18924928.jpg";
-import Image50789354 from "./book-covers/50789354.jpg";
-import Image43936287 from "./book-covers/43936287.jpg";
-import Image46223324 from "./book-covers/46223324.jpg";
-import Image16029682 from "./book-covers/16029682.jpg";
-import Image51187948 from "./book-covers/51187948.jpg";
-import Image6219313 from "./book-covers/6219313.jpg";
-import Image53677578 from "./book-covers/53677578.jpg";
-import Image54511226 from "./book-covers/54511226.jpg";
-import Image34039808 from "./book-covers/34039808.jpg";
-import Image17250966 from "./book-covers/17250966.jpg";
-import Image56151914 from "./book-covers/56151914.jpg";
-import Image38058832 from "./book-covers/38058832.jpg";
-import Image56644452 from "./book-covers/56644452.jpg";
-import Image39863332 from "./book-covers/39863332.jpg";
-import Image40033006 from "./book-covers/40033006.jpg";
-import Image22816087 from "./book-covers/22816087.jpg";
-import Image39947376 from "./book-covers/39947376.jpg";
-import Image34569357 from "./book-covers/34569357.jpg";
-import Image38897904 from "./book-covers/38897904.jpg";
-import Image26833022 from "./book-covers/26833022.jpg";
-import Image40382407 from "./book-covers/40382407.jpg";
-import Image35700182 from "./book-covers/35700182.jpg";
-import Image59050497 from "./book-covers/59050497.jpg";
-import Image123004704 from "./book-covers/123004704.jpg";
-import Image13336409 from "./book-covers/13336409.jpg";
-import Image59058716 from "./book-covers/59058716.jpg";
-import Image25188109 from "./book-covers/25188109.jpg";
-import Image8562526 from "./book-covers/8562526.jpg";
-import Image13237760 from "./book-covers/13237760.jpg";
-import Image42740231 from "./book-covers/42740231.jpg";
-import Image58167188 from "./book-covers/58167188.jpg";
-import Image59058717 from "./book-covers/59058717.jpg";
-import Image48738080 from "./book-covers/48738080.jpg";
-import Image19882713 from "./book-covers/19882713.jpg";
-import Image78790668 from "./book-covers/78790668.jpg";
-import Image62917275 from "./book-covers/62917275.jpg";
-import Image53086262 from "./book-covers/53086262.jpg";
-import Image75711353 from "./book-covers/75711353.jpg";
-import Image15926760 from "./book-covers/15926760.jpg";
-import Image195406190 from "./book-covers/195406190.jpg";
-import Image428035 from "./book-covers/428035.jpg";
-import Image304351 from "./book-covers/304351.jpg";
-import Image6393047 from "./book-covers/6393047.jpg";
-import Image831893 from "./book-covers/831893.jpg";
-import Image33 from "./book-covers/33.jpg";
-import Image2998 from "./book-covers/2998.jpg";
-import Image3223761 from "./book-covers/3223761.jpg";
-import Image171020 from "./book-covers/171020.jpg";
-import Image4588949 from "./book-covers/4588949.jpg";
-import Image4835838 from "./book-covers/4835838.jpg";
-import Image114954 from "./book-covers/114954.jpg";
-import Image3 from "./book-covers/3.jpg";
-import Image39963 from "./book-covers/39963.jpg";
-import Image83369 from "./book-covers/83369.jpg";
-import Image5972040 from "./book-covers/5972040.jpg";
-import Image3431 from "./book-covers/3431.jpg";
-import Image89716 from "./book-covers/89716.jpg";
-import Image3980 from "./book-covers/3980.jpg";
-import Image6900 from "./book-covers/6900.jpg";
-import Image28187 from "./book-covers/28187.jpg";
-import Image127823 from "./book-covers/127823.jpg";
-import Image5933646 from "./book-covers/5933646.jpg";
-import Image41899 from "./book-covers/41899.jpg";
-import Image5792404 from "./book-covers/5792404.jpg";
-import Image227865 from "./book-covers/227865.jpg";
-import Image5927462 from "./book-covers/5927462.jpg";
-import Image24770 from "./book-covers/24770.jpg";
-import Image774626 from "./book-covers/774626.jpg";
-import Image2 from "./book-covers/2.jpg";
-import Image9520360 from "./book-covers/9520360.jpg";
-import Image493456 from "./book-covers/493456.jpg";
-import Image1814843 from "./book-covers/1814843.jpg";
-import Image60400 from "./book-covers/60400.jpg";
-import Image5217282 from "./book-covers/5217282.jpg";
-import Image3992598 from "./book-covers/3992598.jpg";
-import Image228303 from "./book-covers/228303.jpg";
-import Image114955 from "./book-covers/114955.jpg";
-import Image37586 from "./book-covers/37586.jpg";
-import Image18392 from "./book-covers/18392.jpg";
-import Image977841 from "./book-covers/977841.jpg";
-import Image125404 from "./book-covers/125404.jpg";
-import Image125411 from "./book-covers/125411.jpg";
-import Image161887 from "./book-covers/161887.jpg";
-import Image24431 from "./book-covers/24431.jpg";
-import Image852470 from "./book-covers/852470.jpg";
-import Image179064 from "./book-covers/179064.jpg";
-import Image18943 from "./book-covers/18943.jpg";
-import Image62111 from "./book-covers/62111.jpg";
-import Image84119 from "./book-covers/84119.jpg";
-import Image8648 from "./book-covers/8648.jpg";
-import Image44652 from "./book-covers/44652.jpg";
-import Image6631202 from "./book-covers/6631202.jpg";
-import Image89730 from "./book-covers/89730.jpg";
-import Image125408 from "./book-covers/125408.jpg";
-import Image24088 from "./book-covers/24088.jpg";
-import Image9067850 from "./book-covers/9067850.jpg";
-import Image375802 from "./book-covers/375802.jpg";
-import Image3552023 from "./book-covers/3552023.jpg";
-import Image6 from "./book-covers/6.jpg";
-import Image3599149 from "./book-covers/3599149.jpg";
-import Image1303564 from "./book-covers/1303564.jpg";
-import Image8306745 from "./book-covers/8306745.jpg";
-import Image13834 from "./book-covers/13834.jpg";
-import Image15881 from "./book-covers/15881.jpg";
-import Image6441303 from "./book-covers/6441303.jpg";
-import Image9532 from "./book-covers/9532.jpg";
-import Image149132 from "./book-covers/149132.jpg";
-import Image164539 from "./book-covers/164539.jpg";
-import Image13833 from "./book-covers/13833.jpg";
-import Image113436 from "./book-covers/113436.jpg";
-import Image2548866 from "./book-covers/2548866.jpg";
-import Image1342297 from "./book-covers/1342297.jpg";
-import Image248470 from "./book-covers/248470.jpg";
-import Image6148028 from "./book-covers/6148028.jpg";
-import Image65641 from "./book-covers/65641.jpg";
-import Image23772 from "./book-covers/23772.jpg";
-import Image355916 from "./book-covers/355916.jpg";
-import Image29601 from "./book-covers/29601.jpg";
-import Image13830 from "./book-covers/13830.jpg";
-import Image382229 from "./book-covers/382229.jpg";
-import Image2767052 from "./book-covers/2767052.jpg";
-import Image2974581 from "./book-covers/2974581.jpg";
-import Image5861926 from "./book-covers/5861926.jpg";
-import Image160698 from "./book-covers/160698.jpg";
-import Image15241 from "./book-covers/15241.jpg";
-import Image6348045 from "./book-covers/6348045.jpg";
-import Image231804 from "./book-covers/231804.jpg";
-import Image249747 from "./book-covers/249747.jpg";
-import Image7738 from "./book-covers/7738.jpg";
-import Image2248573 from "./book-covers/2248573.jpg";
-import Image100915 from "./book-covers/100915.jpg";
-import Image6390465 from "./book-covers/6390465.jpg";
-import Image18396 from "./book-covers/18396.jpg";
-import Image2432719 from "./book-covers/2432719.jpg";
-import Image561456 from "./book-covers/561456.jpg";
-import Image968 from "./book-covers/968.jpg";
-import Image6949153 from "./book-covers/6949153.jpg";
-import Image140225 from "./book-covers/140225.jpg";
-import Image136251 from "./book-covers/136251.jpg";
-import Image9426782 from "./book-covers/9426782.jpg";
-import Image862041 from "./book-covers/862041.jpg";
-import Image769483 from "./book-covers/769483.jpg";
-import Image6995974 from "./book-covers/6995974.jpg";
-import Image2146957 from "./book-covers/2146957.jpg";
-import Image7949361 from "./book-covers/7949361.jpg";
-import Image728654 from "./book-covers/728654.jpg";
-import Image33569 from "./book-covers/33569.jpg";
-import Image65605 from "./book-covers/65605.jpg";
-import Image2956 from "./book-covers/2956.jpg";
-import Image4381 from "./book-covers/4381.jpg";
-import Image6788719 from "./book-covers/6788719.jpg";
-import Image1902241 from "./book-covers/1902241.jpg";
-import Image13831 from "./book-covers/13831.jpg";
-import Image428036 from "./book-covers/428036.jpg";
-import Image2120932 from "./book-covers/2120932.jpg";
-import Image34 from "./book-covers/34.jpg";
-import Image6950688 from "./book-covers/6950688.jpg";
-import Image7363955 from "./book-covers/7363955.jpg";
-import Image7740659 from "./book-covers/7740659.jpg";
-import Image3485562 from "./book-covers/3485562.jpg";
-import Image370493 from "./book-covers/370493.jpg";
-import Image6261395 from "./book-covers/6261395.jpg";
-import Image10560331 from "./book-covers/10560331.jpg";
-import Image18512 from "./book-covers/18512.jpg";
-import Image183656 from "./book-covers/183656.jpg";
-import Image4538 from "./book-covers/4538.jpg";
-import Image6574102 from "./book-covers/6574102.jpg";
-import Image18393 from "./book-covers/18393.jpg";
-import Image1 from "./book-covers/1.jpg";
-import Image7613 from "./book-covers/7613.jpg";
-import Image5201089 from "./book-covers/5201089.jpg";
-import Image2179276 from "./book-covers/2179276.jpg";
-import Image4935682 from "./book-covers/4935682.jpg";
-import Image11870085 from "./book-covers/11870085.jpg";
-import Image6693329 from "./book-covers/6693329.jpg";
-import Image34286 from "./book-covers/34286.jpg";
-import Image295305 from "./book-covers/295305.jpg";
-import Image7182899 from "./book-covers/7182899.jpg";
-import Image24765 from "./book-covers/24765.jpg";
-import Image234724 from "./book-covers/234724.jpg";
-import Image8302658 from "./book-covers/8302658.jpg";
-import Image10473214 from "./book-covers/10473214.jpg";
-import Image10327303 from "./book-covers/10327303.jpg";
-import Image9918083 from "./book-covers/9918083.jpg";
-import Image8306857 from "./book-covers/8306857.jpg";
-import Image8659601 from "./book-covers/8659601.jpg";
-import Image7747374 from "./book-covers/7747374.jpg";
-import Image8112318 from "./book-covers/8112318.jpg";
-import Image7664041 from "./book-covers/7664041.jpg";
-import Image7669259 from "./book-covers/7669259.jpg";
-import Image7624272 from "./book-covers/7624272.jpg";
-import Image7631105 from "./book-covers/7631105.jpg";
-import Image7468215 from "./book-covers/7468215.jpg";
-import Image7592279 from "./book-covers/7592279.jpg";
-import Image7090447 from "./book-covers/7090447.jpg";
-import Image7243142 from "./book-covers/7243142.jpg";
-import Image7260188 from "./book-covers/7260188.jpg";
-import Image6980334 from "./book-covers/6980334.jpg";
-import Image7005865 from "./book-covers/7005865.jpg";
-import Image6696465 from "./book-covers/6696465.jpg";
-import Image6697305 from "./book-covers/6697305.jpg";
-import Image6545536 from "./book-covers/6545536.jpg";
-import Image6693332 from "./book-covers/6693332.jpg";
-import Image6385622 from "./book-covers/6385622.jpg";
-import Image6389704 from "./book-covers/6389704.jpg";
-import Image6411961 from "./book-covers/6411961.jpg";
-import Image6250208 from "./book-covers/6250208.jpg";
-import Image6255144 from "./book-covers/6255144.jpg";
-import Image6366110 from "./book-covers/6366110.jpg";
-import Image6186357 from "./book-covers/6186357.jpg";
-import Image41865 from "./book-covers/41865.jpg";
-import Image5267365 from "./book-covers/5267365.jpg";
-import Image5310515 from "./book-covers/5310515.jpg";
-import Image6137155 from "./book-covers/6137155.jpg";
-import Image3407703 from "./book-covers/3407703.jpg";
-import Image3950967 from "./book-covers/3950967.jpg";
-import Image4502507 from "./book-covers/4502507.jpg";
-import Image3321722 from "./book-covers/3321722.jpg";
-import Image2921082 from "./book-covers/2921082.jpg";
-import Image3131419 from "./book-covers/3131419.jpg";
-import Image2402971 from "./book-covers/2402971.jpg";
-import Image2836109 from "./book-covers/2836109.jpg";
-import Image2208744 from "./book-covers/2208744.jpg";
-import Image2342943 from "./book-covers/2342943.jpg";
-import Image2092728 from "./book-covers/2092728.jpg";
-import Image2133795 from "./book-covers/2133795.jpg";
-import Image2159225 from "./book-covers/2159225.jpg";
-import Image1887655 from "./book-covers/1887655.jpg";
-import Image1947017 from "./book-covers/1947017.jpg";
-import Image1375896 from "./book-covers/1375896.jpg";
-import Image1524173 from "./book-covers/1524173.jpg";
-import Image799148 from "./book-covers/799148.jpg";
-import Image828483 from "./book-covers/828483.jpg";
-import Image765601 from "./book-covers/765601.jpg";
-import Image721003 from "./book-covers/721003.jpg";
-import Image706053 from "./book-covers/706053.jpg";
-import Image669570 from "./book-covers/669570.jpg";
-import Image688191 from "./book-covers/688191.jpg";
-import Image568645 from "./book-covers/568645.jpg";
-import Image623976 from "./book-covers/623976.jpg";
-import Image542752 from "./book-covers/542752.jpg";
-import Image547866 from "./book-covers/547866.jpg";
-import Image428042 from "./book-covers/428042.jpg";
-import Image490979 from "./book-covers/490979.jpg";
-import Image355917 from "./book-covers/355917.jpg";
-import Image363851 from "./book-covers/363851.jpg";
-import Image371145 from "./book-covers/371145.jpg";
-import Image318404 from "./book-covers/318404.jpg";
-import Image307791 from "./book-covers/307791.jpg";
-import Image318016 from "./book-covers/318016.jpg";
-import Image275844 from "./book-covers/275844.jpg";
-import Image295323 from "./book-covers/295323.jpg";
-import Image297249 from "./book-covers/297249.jpg";
-import Image248482 from "./book-covers/248482.jpg";
-import Image272447 from "./book-covers/272447.jpg";
-import Image186103 from "./book-covers/186103.jpg";
-import Image199699 from "./book-covers/199699.jpg";
-import Image153780 from "./book-covers/153780.jpg";
-import Image156770 from "./book-covers/156770.jpg";
-import Image183660 from "./book-covers/183660.jpg";
-import Image144350 from "./book-covers/144350.jpg";
-import Image153747 from "./book-covers/153747.jpg";
-import Image136782 from "./book-covers/136782.jpg";
-import Image144349 from "./book-covers/144349.jpg";
-import Image125407 from "./book-covers/125407.jpg";
-import Image104902 from "./book-covers/104902.jpg";
-import Image111450 from "./book-covers/111450.jpg";
-import Image121749 from "./book-covers/121749.jpg";
-import Image99716 from "./book-covers/99716.jpg";
-import Image45978 from "./book-covers/45978.jpg";
-import Image82783 from "./book-covers/82783.jpg";
-import Image84369 from "./book-covers/84369.jpg";
-import Image35805 from "./book-covers/35805.jpg";
-import Image41667 from "./book-covers/41667.jpg";
-import Image24337 from "./book-covers/24337.jpg";
-import Image24768 from "./book-covers/24768.jpg";
-import Image28186 from "./book-covers/28186.jpg";
-import Image24178 from "./book-covers/24178.jpg";
-import Image24094 from "./book-covers/24094.jpg";
-import Image24087 from "./book-covers/24087.jpg";
-import Image18395 from "./book-covers/18395.jpg";
-import Image19469 from "./book-covers/19469.jpg";
-import Image13836 from "./book-covers/13836.jpg";
-import Image18131 from "./book-covers/18131.jpg";
-import Image18394 from "./book-covers/18394.jpg";
-import Image13835 from "./book-covers/13835.jpg";
-import Image11127 from "./book-covers/11127.jpg";
-import Image13829 from "./book-covers/13829.jpg";
-import Image8647 from "./book-covers/8647.jpg";
-import Image9534 from "./book-covers/9534.jpg";
-import Image7967 from "./book-covers/7967.jpg";
-import Image1202 from "./book-covers/1202.jpg";
-import Image10 from "./book-covers/10.jpg";
-import Image902 from "./book-covers/902.jpg";
-import Image5 from "./book-covers/5.jpg";
+// import Image65213543 from "./book-covers/65213543.jpg";
+// import Image50403486 from "./book-covers/50403486.jpg";
+// import Image214240402 from "./book-covers/214240402.jpg";
+// import Image63341398 from "./book-covers/63341398.jpg";
+// import Image206827931 from "./book-covers/206827931.jpg";
+// import Image204788472 from "./book-covers/204788472.jpg";
+// import Image204624720 from "./book-covers/204624720.jpg";
+// import Image35659604 from "./book-covers/35659604.jpg";
+// import Image127306588 from "./book-covers/127306588.jpg";
+// import Image206312708 from "./book-covers/206312708.jpg";
+// import Image181855822 from "./book-covers/181855822.jpg";
+// import Image29227774 from "./book-covers/29227774.jpg";
+// import Image29226553 from "./book-covers/29226553.jpg";
+// import Image1953 from "./book-covers/1953.jpg";
+// import Image32145 from "./book-covers/32145.jpg";
+// import Image33257757 from "./book-covers/33257757.jpg";
+// import Image25116966 from "./book-covers/25116966.jpg";
+// import Image40895279 from "./book-covers/40895279.jpg";
+// import Image40894343 from "./book-covers/40894343.jpg";
+// import Image26836157 from "./book-covers/26836157.jpg";
+// import Image25318363 from "./book-covers/25318363.jpg";
+// import Image40882831 from "./book-covers/40882831.jpg";
+// import Image24644922 from "./book-covers/24644922.jpg";
+// import Image25540661 from "./book-covers/25540661.jpg";
+// import Image40899385 from "./book-covers/40899385.jpg";
+// import Image25460752 from "./book-covers/25460752.jpg";
+// import Image24645006 from "./book-covers/24645006.jpg";
+// import Image26720267 from "./book-covers/26720267.jpg";
+// import Image25093183 from "./book-covers/25093183.jpg";
+// import Image26670014 from "./book-covers/26670014.jpg";
+// import Image40899589 from "./book-covers/40899589.jpg";
+// import Image26836138 from "./book-covers/26836138.jpg";
+// import Image25318337 from "./book-covers/25318337.jpg";
+// import Image40899590 from "./book-covers/40899590.jpg";
+// import Image25638329 from "./book-covers/25638329.jpg";
+// import Image26177458 from "./book-covers/26177458.jpg";
+// import Image18966806 from "./book-covers/18966806.jpg";
+// import Image216363 from "./book-covers/216363.jpg";
+// import Image175983 from "./book-covers/175983.jpg";
+// import Image1008231 from "./book-covers/1008231.jpg";
+// import Image1446826 from "./book-covers/1446826.jpg";
+// import Image4617762 from "./book-covers/4617762.jpg";
+// import Image6275767 from "./book-covers/6275767.jpg";
+// import Image7937776 from "./book-covers/7937776.jpg";
+// import Image30169100 from "./book-covers/30169100.jpg";
+// import Image8855321 from "./book-covers/8855321.jpg";
+// import Image12591698 from "./book-covers/12591698.jpg";
+// import Image14069 from "./book-covers/14069.jpg";
+// import Image91989 from "./book-covers/91989.jpg";
+// import Image28876 from "./book-covers/28876.jpg";
+// import Image129510 from "./book-covers/129510.jpg";
+// import Image891593 from "./book-covers/891593.jpg";
+// import Image7038489 from "./book-covers/7038489.jpg";
+// import Image16156292 from "./book-covers/16156292.jpg";
+// import Image12069434 from "./book-covers/12069434.jpg";
+// import Image20404555 from "./book-covers/20404555.jpg";
+// import Image40603587 from "./book-covers/40603587.jpg";
+// import Image140671 from "./book-covers/140671.jpg";
+// import Image28959643 from "./book-covers/28959643.jpg";
+// import Image29008820 from "./book-covers/29008820.jpg";
+// import Image45064996 from "./book-covers/45064996.jpg";
+// import Image19888971 from "./book-covers/19888971.jpg";
+// import Image44767458 from "./book-covers/44767458.jpg";
+// import Image44492285 from "./book-covers/44492285.jpg";
+// import Image44492286 from "./book-covers/44492286.jpg";
+// import Image41447687 from "./book-covers/41447687.jpg";
+// import Image188994646 from "./book-covers/188994646.jpg";
+// import Image55559974 from "./book-covers/55559974.jpg";
+// import Image91477 from "./book-covers/91477.jpg";
+// import Image91476 from "./book-covers/91476.jpg";
+// import Image52284628 from "./book-covers/52284628.jpg";
+// import Image50429169 from "./book-covers/50429169.jpg";
+// import Image91478 from "./book-covers/91478.jpg";
+// import Image54647047 from "./book-covers/54647047.jpg";
+// import Image56576240 from "./book-covers/56576240.jpg";
+// import Image58868952 from "./book-covers/58868952.jpg";
+// import Image61260844 from "./book-covers/61260844.jpg";
+// import Image54433225 from "./book-covers/54433225.jpg";
+// import Image180856697 from "./book-covers/180856697.jpg";
+// import Image103681644 from "./book-covers/103681644.jpg";
+// import Image102523863 from "./book-covers/102523863.jpg";
+// import Image385742 from "./book-covers/385742.jpg";
+// import Image262430 from "./book-covers/262430.jpg";
+// import Image385706 from "./book-covers/385706.jpg";
+// import Image319644 from "./book-covers/319644.jpg";
+// import Image537070 from "./book-covers/537070.jpg";
+// import Image201127814 from "./book-covers/201127814.jpg";
+// import Image32453022 from "./book-covers/32453022.jpg";
+// import Image32453028 from "./book-covers/32453028.jpg";
+// import Image32453036 from "./book-covers/32453036.jpg";
+// import Image203274611 from "./book-covers/203274611.jpg";
+// import Image42298979 from "./book-covers/42298979.jpg";
+// import Image42433737 from "./book-covers/42433737.jpg";
+// import Image178798504 from "./book-covers/178798504.jpg";
+// import Image25385128 from "./book-covers/25385128.jpg";
+// import Image25385130 from "./book-covers/25385130.jpg";
+// import Image59801798 from "./book-covers/59801798.jpg";
+// import Image91479 from "./book-covers/91479.jpg";
+// import Image99383 from "./book-covers/99383.jpg";
+// import Image47212 from "./book-covers/47212.jpg";
+// import Image16031812 from "./book-covers/16031812.jpg";
+// import Image228665 from "./book-covers/228665.jpg";
+// import Image34897 from "./book-covers/34897.jpg";
+// import Image233649 from "./book-covers/233649.jpg";
+// import Image9539 from "./book-covers/9539.jpg";
+// import Image13895 from "./book-covers/13895.jpg";
+// import Image35231 from "./book-covers/35231.jpg";
+// import Image13890 from "./book-covers/13890.jpg";
+// import Image140974 from "./book-covers/140974.jpg";
+// import Image13891 from "./book-covers/13891.jpg";
+// import Image113435 from "./book-covers/113435.jpg";
+// import Image13888 from "./book-covers/13888.jpg";
+// import Image1166599 from "./book-covers/1166599.jpg";
+// import Image8253920 from "./book-covers/8253920.jpg";
+// import Image28954189 from "./book-covers/28954189.jpg";
+// import Image33555224 from "./book-covers/33555224.jpg";
+// import Image43822024 from "./book-covers/43822024.jpg";
+// import Image9531737 from "./book-covers/9531737.jpg";
+// import Image16131032 from "./book-covers/16131032.jpg";
+// import Image60888209 from "./book-covers/60888209.jpg";
+// import Image81360229 from "./book-covers/81360229.jpg";
+// import Image178005710 from "./book-covers/178005710.jpg";
+// import Image49886603 from "./book-covers/49886603.jpg";
+// import Image10552338 from "./book-covers/10552338.jpg";
+// import Image49109717 from "./book-covers/49109717.jpg";
+// import Image45807334 from "./book-covers/45807334.jpg";
+// import Image60098290 from "./book-covers/60098290.jpg";
+// import Image27928985 from "./book-covers/27928985.jpg";
+// import Image36065708 from "./book-covers/36065708.jpg";
+// import Image60531410 from "./book-covers/60531410.jpg";
+// import Image62314351 from "./book-covers/62314351.jpg";
+// import Image60236906 from "./book-covers/60236906.jpg";
+// import Image59661342 from "./book-covers/59661342.jpg";
+// import Image55880798 from "./book-covers/55880798.jpg";
+// import Image161092622 from "./book-covers/161092622.jpg";
+// import Image28541 from "./book-covers/28541.jpg";
+// import Image36684672 from "./book-covers/36684672.jpg";
+// import Image28547 from "./book-covers/28547.jpg";
+// import Image127584 from "./book-covers/127584.jpg";
+// import Image28553 from "./book-covers/28553.jpg";
+// import Image127586 from "./book-covers/127586.jpg";
+// import Image61958 from "./book-covers/61958.jpg";
+// import Image60784417 from "./book-covers/60784417.jpg";
+// import Image60531420 from "./book-covers/60531420.jpg";
+// import Image55399 from "./book-covers/55399.jpg";
+// import Image55401 from "./book-covers/55401.jpg";
+// import Image203356485 from "./book-covers/203356485.jpg";
+// import Image60531406 from "./book-covers/60531406.jpg";
+// import Image60531416 from "./book-covers/60531416.jpg";
+// import Image784911 from "./book-covers/784911.jpg";
+// import Image876034 from "./book-covers/876034.jpg";
+// import Image771952 from "./book-covers/771952.jpg";
+// import Image9673436 from "./book-covers/9673436.jpg";
+// import Image4671 from "./book-covers/4671.jpg";
+// import Image49041 from "./book-covers/49041.jpg";
+// import Image1162543 from "./book-covers/1162543.jpg";
+// import Image428263 from "./book-covers/428263.jpg";
+// import Image60190659 from "./book-covers/60190659.jpg";
+// import Image55162473 from "./book-covers/55162473.jpg";
+// import Image32076670 from "./book-covers/32076670.jpg";
+// import Image13554058 from "./book-covers/13554058.jpg";
+// import Image7864437 from "./book-covers/7864437.jpg";
+// import Image168646 from "./book-covers/168646.jpg";
+// import Image1649725 from "./book-covers/1649725.jpg";
+// import Image70401 from "./book-covers/70401.jpg";
+// import Image61242426 from "./book-covers/61242426.jpg";
+// import Image902715 from "./book-covers/902715.jpg";
+// import Image944076 from "./book-covers/944076.jpg";
+// import Image944073 from "./book-covers/944073.jpg";
+// import Image15811545 from "./book-covers/15811545.jpg";
+// import Image10664113 from "./book-covers/10664113.jpg";
+// import Image13497 from "./book-covers/13497.jpg";
+// import Image62291 from "./book-covers/62291.jpg";
+// import Image5043 from "./book-covers/5043.jpg";
+// import Image10572 from "./book-covers/10572.jpg";
+// import Image13496 from "./book-covers/13496.jpg";
+// import Image25499718 from "./book-covers/25499718.jpg";
+// import Image90202302 from "./book-covers/90202302.jpg";
+// import Image61431922 from "./book-covers/61431922.jpg";
+// import Image55858638 from "./book-covers/55858638.jpg";
+// import Image55559887 from "./book-covers/55559887.jpg";
+// import Image50548197 from "./book-covers/50548197.jpg";
+// import Image18656030 from "./book-covers/18656030.jpg";
+// import Image22041948 from "./book-covers/22041948.jpg";
+// import Image21844946 from "./book-covers/21844946.jpg";
+// import Image8868764 from "./book-covers/8868764.jpg";
+// import Image18713259 from "./book-covers/18713259.jpg";
+// import Image43205859 from "./book-covers/43205859.jpg";
+// import Image58419574 from "./book-covers/58419574.jpg";
+// import Image153783 from "./book-covers/153783.jpg";
+// import Image153781 from "./book-covers/153781.jpg";
+// import Image153792 from "./book-covers/153792.jpg";
+// import Image153782 from "./book-covers/153782.jpg";
+// import Image24093 from "./book-covers/24093.jpg";
+// import Image2964700 from "./book-covers/2964700.jpg";
+// import Image58894 from "./book-covers/58894.jpg";
+// import Image58893 from "./book-covers/58893.jpg";
+// import Image18324059 from "./book-covers/18324059.jpg";
+// import Image58890 from "./book-covers/58890.jpg";
+// import Image153779 from "./book-covers/153779.jpg";
+// import Image59808314 from "./book-covers/59808314.jpg";
+// import Image59471329 from "./book-covers/59471329.jpg";
+// import Image58889 from "./book-covers/58889.jpg";
+// import Image153785 from "./book-covers/153785.jpg";
+// import Image153795 from "./book-covers/153795.jpg";
+// import Image153800 from "./book-covers/153800.jpg";
+// import Image153784 from "./book-covers/153784.jpg";
+// import Image54615879 from "./book-covers/54615879.jpg";
+// import Image13837 from "./book-covers/13837.jpg";
+// import Image18361393 from "./book-covers/18361393.jpg";
+// import Image37640636 from "./book-covers/37640636.jpg";
+// import Image60451926 from "./book-covers/60451926.jpg";
+// import Image33357675 from "./book-covers/33357675.jpg";
+// import Image13552643 from "./book-covers/13552643.jpg";
+// import Image43606308 from "./book-covers/43606308.jpg";
+// import Image12796771 from "./book-covers/12796771.jpg";
+// import Image31176804 from "./book-covers/31176804.jpg";
+// import Image22823333 from "./book-covers/22823333.jpg";
+// import Image10852065 from "./book-covers/10852065.jpg";
+// import Image20886354 from "./book-covers/20886354.jpg";
+// import Image23397921 from "./book-covers/23397921.jpg";
+// import Image1291212 from "./book-covers/1291212.jpg";
+// import Image2638786 from "./book-covers/2638786.jpg";
+// import Image479650 from "./book-covers/479650.jpg";
+// import Image828482 from "./book-covers/828482.jpg";
+// import Image655601 from "./book-covers/655601.jpg";
+// import Image2025787 from "./book-covers/2025787.jpg";
+// import Image21411388 from "./book-covers/21411388.jpg";
+// import Image49021976 from "./book-covers/49021976.jpg";
+// import Image34002132 from "./book-covers/34002132.jpg";
+// import Image18966322 from "./book-covers/18966322.jpg";
+// import Image13452375 from "./book-covers/13452375.jpg";
+// import Image28595941 from "./book-covers/28595941.jpg";
+// import Image28698036 from "./book-covers/28698036.jpg";
+// import Image23947089 from "./book-covers/23947089.jpg";
+// import Image22443261 from "./book-covers/22443261.jpg";
+// import Image15704486 from "./book-covers/15704486.jpg";
+// import Image34703445 from "./book-covers/34703445.jpg";
+// import Image18667863 from "./book-covers/18667863.jpg";
+// import Image13589152 from "./book-covers/13589152.jpg";
+// import Image15704459 from "./book-covers/15704459.jpg";
+// import Image10551947 from "./book-covers/10551947.jpg";
+// import Image13003565 from "./book-covers/13003565.jpg";
+// import Image18739426 from "./book-covers/18739426.jpg";
+// import Image16065004 from "./book-covers/16065004.jpg";
+// import Image11309018 from "./book-covers/11309018.jpg";
+// import Image17182126 from "./book-covers/17182126.jpg";
+// import Image1268479 from "./book-covers/1268479.jpg";
+// import Image10803121 from "./book-covers/10803121.jpg";
+// import Image17332218 from "./book-covers/17332218.jpg";
+// import Image2767793 from "./book-covers/2767793.jpg";
+// import Image68429 from "./book-covers/68429.jpg";
+// import Image7235533 from "./book-covers/7235533.jpg";
+// import Image68428 from "./book-covers/68428.jpg";
+// import Image22299763 from "./book-covers/22299763.jpg";
+// import Image23437156 from "./book-covers/23437156.jpg";
+// import Image54493401 from "./book-covers/54493401.jpg";
+// import Image18007564 from "./book-covers/18007564.jpg";
+// import Image41085118 from "./book-covers/41085118.jpg";
+// import Image29588 from "./book-covers/29588.jpg";
+// import Image13538762 from "./book-covers/13538762.jpg";
+// import Image29589 from "./book-covers/29589.jpg";
+// import Image13539171 from "./book-covers/13539171.jpg";
+// import Image6422238 from "./book-covers/6422238.jpg";
+// import Image7241373 from "./book-covers/7241373.jpg";
+// import Image40604388 from "./book-covers/40604388.jpg";
+// import Image12917338 from "./book-covers/12917338.jpg";
+// import Image29587 from "./book-covers/29587.jpg";
+// import Image954674 from "./book-covers/954674.jpg";
+// import Image123206298 from "./book-covers/123206298.jpg";
+// import Image64222 from "./book-covers/64222.jpg";
+// import Image601238 from "./book-covers/601238.jpg";
+// import Image61880401 from "./book-covers/61880401.jpg";
+// import Image176941314 from "./book-covers/176941314.jpg";
+// import Image56495997 from "./book-covers/56495997.jpg";
+// import Image83738056 from "./book-covers/83738056.jpg";
+// import Image53298908 from "./book-covers/53298908.jpg";
+// import Image45554269 from "./book-covers/45554269.jpg";
+// import Image44300414 from "./book-covers/44300414.jpg";
+// import Image58960282 from "./book-covers/58960282.jpg";
+// import Image60525437 from "./book-covers/60525437.jpg";
+// import Image55924416 from "./book-covers/55924416.jpg";
+// import Image57913863 from "./book-covers/57913863.jpg";
+// import Image41477610 from "./book-covers/41477610.jpg";
+// import Image41241968 from "./book-covers/41241968.jpg";
+// import Image41180829 from "./book-covers/41180829.jpg";
+// import Image41033158 from "./book-covers/41033158.jpg";
+// import Image18966819 from "./book-covers/18966819.jpg";
+// import Image15839976 from "./book-covers/15839976.jpg";
+// import Image3171446 from "./book-covers/3171446.jpg";
+// import Image13532157 from "./book-covers/13532157.jpg";
+// import Image58187209 from "./book-covers/58187209.jpg";
+// import Image1616681 from "./book-covers/1616681.jpg";
+// import Image5586087 from "./book-covers/5586087.jpg";
+// import Image2924651 from "./book-covers/2924651.jpg";
+// import Image205588425 from "./book-covers/205588425.jpg";
+// import Image13515944 from "./book-covers/13515944.jpg";
+// import Image12652457 from "./book-covers/12652457.jpg";
+// import Image22703899 from "./book-covers/22703899.jpg";
+// import Image12829147 from "./book-covers/12829147.jpg";
+// import Image29449386 from "./book-covers/29449386.jpg";
+// import Image6070107 from "./book-covers/6070107.jpg";
+// import Image8153214 from "./book-covers/8153214.jpg";
+// import Image6569573 from "./book-covers/6569573.jpg";
+// import Image22219682 from "./book-covers/22219682.jpg";
+// import Image22219681 from "./book-covers/22219681.jpg";
+// import Image36458711 from "./book-covers/36458711.jpg";
+// import Image34403860 from "./book-covers/34403860.jpg";
+// import Image40126485 from "./book-covers/40126485.jpg";
+// import Image24928019 from "./book-covers/24928019.jpg";
+// import Image27207706 from "./book-covers/27207706.jpg";
+// import Image30558257 from "./book-covers/30558257.jpg";
+// import Image40280403 from "./book-covers/40280403.jpg";
+// import Image36332410 from "./book-covers/36332410.jpg";
+// import Image35023786 from "./book-covers/35023786.jpg";
+// import Image40708807 from "./book-covers/40708807.jpg";
+// import Image32283608 from "./book-covers/32283608.jpg";
+// import Image33003444 from "./book-covers/33003444.jpg";
+// import Image40774974 from "./book-covers/40774974.jpg";
+// import Image39332452 from "./book-covers/39332452.jpg";
+// import Image39353738 from "./book-covers/39353738.jpg";
+// import Image20562717 from "./book-covers/20562717.jpg";
+// import Image41812788 from "./book-covers/41812788.jpg";
+// import Image25805242 from "./book-covers/25805242.jpg";
+// import Image21801768 from "./book-covers/21801768.jpg";
+// import Image38213103 from "./book-covers/38213103.jpg";
+// import Image59224847 from "./book-covers/59224847.jpg";
+// import Image48730174 from "./book-covers/48730174.jpg";
+// import Image6593686 from "./book-covers/6593686.jpg";
+// import Image34311458 from "./book-covers/34311458.jpg";
+// import Image38236125 from "./book-covers/38236125.jpg";
+// import Image43680932 from "./book-covers/43680932.jpg";
+// import Image38191363 from "./book-covers/38191363.jpg";
+// import Image84965769 from "./book-covers/84965769.jpg";
+// import Image40651883 from "./book-covers/40651883.jpg";
+// import Image43895031 from "./book-covers/43895031.jpg";
+// import Image30290910 from "./book-covers/30290910.jpg";
+// import Image16131932 from "./book-covers/16131932.jpg";
+// import Image29618814 from "./book-covers/29618814.jpg";
+// import Image43895127 from "./book-covers/43895127.jpg";
+// import Image36010402 from "./book-covers/36010402.jpg";
+// import Image39792427 from "./book-covers/39792427.jpg";
+// import Image38112555 from "./book-covers/38112555.jpg";
+// import Image18828258 from "./book-covers/18828258.jpg";
+// import Image35465844 from "./book-covers/35465844.jpg";
+// import Image43261151 from "./book-covers/43261151.jpg";
+// import Image29963977 from "./book-covers/29963977.jpg";
+// import Image36200052 from "./book-covers/36200052.jpg";
+// import Image44869038 from "./book-covers/44869038.jpg";
+// import Image18924928 from "./book-covers/18924928.jpg";
+// import Image50789354 from "./book-covers/50789354.jpg";
+// import Image43936287 from "./book-covers/43936287.jpg";
+// import Image46223324 from "./book-covers/46223324.jpg";
+// import Image16029682 from "./book-covers/16029682.jpg";
+// import Image51187948 from "./book-covers/51187948.jpg";
+// import Image6219313 from "./book-covers/6219313.jpg";
+// import Image53677578 from "./book-covers/53677578.jpg";
+// import Image54511226 from "./book-covers/54511226.jpg";
+// import Image34039808 from "./book-covers/34039808.jpg";
+// import Image17250966 from "./book-covers/17250966.jpg";
+// import Image56151914 from "./book-covers/56151914.jpg";
+// import Image38058832 from "./book-covers/38058832.jpg";
+// import Image56644452 from "./book-covers/56644452.jpg";
+// import Image39863332 from "./book-covers/39863332.jpg";
+// import Image40033006 from "./book-covers/40033006.jpg";
+// import Image22816087 from "./book-covers/22816087.jpg";
+// import Image39947376 from "./book-covers/39947376.jpg";
+// import Image34569357 from "./book-covers/34569357.jpg";
+// import Image38897904 from "./book-covers/38897904.jpg";
+// import Image26833022 from "./book-covers/26833022.jpg";
+// import Image40382407 from "./book-covers/40382407.jpg";
+// import Image35700182 from "./book-covers/35700182.jpg";
+// import Image59050497 from "./book-covers/59050497.jpg";
+// import Image123004704 from "./book-covers/123004704.jpg";
+// import Image13336409 from "./book-covers/13336409.jpg";
+// import Image59058716 from "./book-covers/59058716.jpg";
+// import Image25188109 from "./book-covers/25188109.jpg";
+// import Image8562526 from "./book-covers/8562526.jpg";
+// import Image13237760 from "./book-covers/13237760.jpg";
+// import Image42740231 from "./book-covers/42740231.jpg";
+// import Image58167188 from "./book-covers/58167188.jpg";
+// import Image59058717 from "./book-covers/59058717.jpg";
+// import Image48738080 from "./book-covers/48738080.jpg";
+// import Image19882713 from "./book-covers/19882713.jpg";
+// import Image78790668 from "./book-covers/78790668.jpg";
+// import Image62917275 from "./book-covers/62917275.jpg";
+// import Image53086262 from "./book-covers/53086262.jpg";
+// import Image75711353 from "./book-covers/75711353.jpg";
+// import Image15926760 from "./book-covers/15926760.jpg";
+// import Image195406190 from "./book-covers/195406190.jpg";
+// import Image428035 from "./book-covers/428035.jpg";
+// import Image304351 from "./book-covers/304351.jpg";
+// import Image6393047 from "./book-covers/6393047.jpg";
+// import Image831893 from "./book-covers/831893.jpg";
+// import Image33 from "./book-covers/33.jpg";
+// import Image2998 from "./book-covers/2998.jpg";
+// import Image3223761 from "./book-covers/3223761.jpg";
+// import Image171020 from "./book-covers/171020.jpg";
+// import Image4588949 from "./book-covers/4588949.jpg";
+// import Image4835838 from "./book-covers/4835838.jpg";
+// import Image114954 from "./book-covers/114954.jpg";
+// import Image3 from "./book-covers/3.jpg";
+// import Image39963 from "./book-covers/39963.jpg";
+// import Image83369 from "./book-covers/83369.jpg";
+// import Image5972040 from "./book-covers/5972040.jpg";
+// import Image3431 from "./book-covers/3431.jpg";
+// import Image89716 from "./book-covers/89716.jpg";
+// import Image3980 from "./book-covers/3980.jpg";
+// import Image6900 from "./book-covers/6900.jpg";
+// import Image28187 from "./book-covers/28187.jpg";
+// import Image127823 from "./book-covers/127823.jpg";
+// import Image5933646 from "./book-covers/5933646.jpg";
+// import Image41899 from "./book-covers/41899.jpg";
+// import Image5792404 from "./book-covers/5792404.jpg";
+// import Image227865 from "./book-covers/227865.jpg";
+// import Image5927462 from "./book-covers/5927462.jpg";
+// import Image24770 from "./book-covers/24770.jpg";
+// import Image774626 from "./book-covers/774626.jpg";
+// import Image2 from "./book-covers/2.jpg";
+// import Image9520360 from "./book-covers/9520360.jpg";
+// import Image493456 from "./book-covers/493456.jpg";
+// import Image1814843 from "./book-covers/1814843.jpg";
+// import Image60400 from "./book-covers/60400.jpg";
+// import Image5217282 from "./book-covers/5217282.jpg";
+// import Image3992598 from "./book-covers/3992598.jpg";
+// import Image228303 from "./book-covers/228303.jpg";
+// import Image114955 from "./book-covers/114955.jpg";
+// import Image37586 from "./book-covers/37586.jpg";
+// import Image18392 from "./book-covers/18392.jpg";
+// import Image977841 from "./book-covers/977841.jpg";
+// import Image125404 from "./book-covers/125404.jpg";
+// import Image125411 from "./book-covers/125411.jpg";
+// import Image161887 from "./book-covers/161887.jpg";
+// import Image24431 from "./book-covers/24431.jpg";
+// import Image852470 from "./book-covers/852470.jpg";
+// import Image179064 from "./book-covers/179064.jpg";
+// import Image18943 from "./book-covers/18943.jpg";
+// import Image62111 from "./book-covers/62111.jpg";
+// import Image84119 from "./book-covers/84119.jpg";
+// import Image8648 from "./book-covers/8648.jpg";
+// import Image44652 from "./book-covers/44652.jpg";
+// import Image6631202 from "./book-covers/6631202.jpg";
+// import Image89730 from "./book-covers/89730.jpg";
+// import Image125408 from "./book-covers/125408.jpg";
+// import Image24088 from "./book-covers/24088.jpg";
+// import Image9067850 from "./book-covers/9067850.jpg";
+// import Image375802 from "./book-covers/375802.jpg";
+// import Image3552023 from "./book-covers/3552023.jpg";
+// import Image6 from "./book-covers/6.jpg";
+// import Image3599149 from "./book-covers/3599149.jpg";
+// import Image1303564 from "./book-covers/1303564.jpg";
+// import Image8306745 from "./book-covers/8306745.jpg";
+// import Image13834 from "./book-covers/13834.jpg";
+// import Image15881 from "./book-covers/15881.jpg";
+// import Image6441303 from "./book-covers/6441303.jpg";
+// import Image9532 from "./book-covers/9532.jpg";
+// import Image149132 from "./book-covers/149132.jpg";
+// import Image164539 from "./book-covers/164539.jpg";
+// import Image13833 from "./book-covers/13833.jpg";
+// import Image113436 from "./book-covers/113436.jpg";
+// import Image2548866 from "./book-covers/2548866.jpg";
+// import Image1342297 from "./book-covers/1342297.jpg";
+// import Image248470 from "./book-covers/248470.jpg";
+// import Image6148028 from "./book-covers/6148028.jpg";
+// import Image65641 from "./book-covers/65641.jpg";
+// import Image23772 from "./book-covers/23772.jpg";
+// import Image355916 from "./book-covers/355916.jpg";
+// import Image29601 from "./book-covers/29601.jpg";
+// import Image13830 from "./book-covers/13830.jpg";
+// import Image382229 from "./book-covers/382229.jpg";
+// import Image2767052 from "./book-covers/2767052.jpg";
+// import Image2974581 from "./book-covers/2974581.jpg";
+// import Image5861926 from "./book-covers/5861926.jpg";
+// import Image160698 from "./book-covers/160698.jpg";
+// import Image15241 from "./book-covers/15241.jpg";
+// import Image6348045 from "./book-covers/6348045.jpg";
+// import Image231804 from "./book-covers/231804.jpg";
+// import Image249747 from "./book-covers/249747.jpg";
+// import Image7738 from "./book-covers/7738.jpg";
+// import Image2248573 from "./book-covers/2248573.jpg";
+// import Image100915 from "./book-covers/100915.jpg";
+// import Image6390465 from "./book-covers/6390465.jpg";
+// import Image18396 from "./book-covers/18396.jpg";
+// import Image2432719 from "./book-covers/2432719.jpg";
+// import Image561456 from "./book-covers/561456.jpg";
+// import Image968 from "./book-covers/968.jpg";
+// import Image6949153 from "./book-covers/6949153.jpg";
+// import Image140225 from "./book-covers/140225.jpg";
+// import Image136251 from "./book-covers/136251.jpg";
+// import Image9426782 from "./book-covers/9426782.jpg";
+// import Image862041 from "./book-covers/862041.jpg";
+// import Image769483 from "./book-covers/769483.jpg";
+// import Image6995974 from "./book-covers/6995974.jpg";
+// import Image2146957 from "./book-covers/2146957.jpg";
+// import Image7949361 from "./book-covers/7949361.jpg";
+// import Image728654 from "./book-covers/728654.jpg";
+// import Image33569 from "./book-covers/33569.jpg";
+// import Image65605 from "./book-covers/65605.jpg";
+// import Image2956 from "./book-covers/2956.jpg";
+// import Image4381 from "./book-covers/4381.jpg";
+// import Image6788719 from "./book-covers/6788719.jpg";
+// import Image1902241 from "./book-covers/1902241.jpg";
+// import Image13831 from "./book-covers/13831.jpg";
+// import Image428036 from "./book-covers/428036.jpg";
+// import Image2120932 from "./book-covers/2120932.jpg";
+// import Image34 from "./book-covers/34.jpg";
+// import Image6950688 from "./book-covers/6950688.jpg";
+// import Image7363955 from "./book-covers/7363955.jpg";
+// import Image7740659 from "./book-covers/7740659.jpg";
+// import Image3485562 from "./book-covers/3485562.jpg";
+// import Image370493 from "./book-covers/370493.jpg";
+// import Image6261395 from "./book-covers/6261395.jpg";
+// import Image10560331 from "./book-covers/10560331.jpg";
+// import Image18512 from "./book-covers/18512.jpg";
+// import Image183656 from "./book-covers/183656.jpg";
+// import Image4538 from "./book-covers/4538.jpg";
+// import Image6574102 from "./book-covers/6574102.jpg";
+// import Image18393 from "./book-covers/18393.jpg";
+// import Image1 from "./book-covers/1.jpg";
+// import Image7613 from "./book-covers/7613.jpg";
+// import Image5201089 from "./book-covers/5201089.jpg";
+// import Image2179276 from "./book-covers/2179276.jpg";
+// import Image4935682 from "./book-covers/4935682.jpg";
+// import Image11870085 from "./book-covers/11870085.jpg";
+// import Image6693329 from "./book-covers/6693329.jpg";
+// import Image34286 from "./book-covers/34286.jpg";
+// import Image295305 from "./book-covers/295305.jpg";
+// import Image7182899 from "./book-covers/7182899.jpg";
+// import Image24765 from "./book-covers/24765.jpg";
+// import Image234724 from "./book-covers/234724.jpg";
+// import Image8302658 from "./book-covers/8302658.jpg";
+// import Image10473214 from "./book-covers/10473214.jpg";
+// import Image10327303 from "./book-covers/10327303.jpg";
+// import Image9918083 from "./book-covers/9918083.jpg";
+// import Image8306857 from "./book-covers/8306857.jpg";
+// import Image8659601 from "./book-covers/8659601.jpg";
+// import Image7747374 from "./book-covers/7747374.jpg";
+// import Image8112318 from "./book-covers/8112318.jpg";
+// import Image7664041 from "./book-covers/7664041.jpg";
+// import Image7669259 from "./book-covers/7669259.jpg";
+// import Image7624272 from "./book-covers/7624272.jpg";
+// import Image7631105 from "./book-covers/7631105.jpg";
+// import Image7468215 from "./book-covers/7468215.jpg";
+// import Image7592279 from "./book-covers/7592279.jpg";
+// import Image7090447 from "./book-covers/7090447.jpg";
+// import Image7243142 from "./book-covers/7243142.jpg";
+// import Image7260188 from "./book-covers/7260188.jpg";
+// import Image6980334 from "./book-covers/6980334.jpg";
+// import Image7005865 from "./book-covers/7005865.jpg";
+// import Image6696465 from "./book-covers/6696465.jpg";
+// import Image6697305 from "./book-covers/6697305.jpg";
+// import Image6545536 from "./book-covers/6545536.jpg";
+// import Image6693332 from "./book-covers/6693332.jpg";
+// import Image6385622 from "./book-covers/6385622.jpg";
+// import Image6389704 from "./book-covers/6389704.jpg";
+// import Image6411961 from "./book-covers/6411961.jpg";
+// import Image6250208 from "./book-covers/6250208.jpg";
+// import Image6255144 from "./book-covers/6255144.jpg";
+// import Image6366110 from "./book-covers/6366110.jpg";
+// import Image6186357 from "./book-covers/6186357.jpg";
+// import Image41865 from "./book-covers/41865.jpg";
+// import Image5267365 from "./book-covers/5267365.jpg";
+// import Image5310515 from "./book-covers/5310515.jpg";
+// import Image6137155 from "./book-covers/6137155.jpg";
+// import Image3407703 from "./book-covers/3407703.jpg";
+// import Image3950967 from "./book-covers/3950967.jpg";
+// import Image4502507 from "./book-covers/4502507.jpg";
+// import Image3321722 from "./book-covers/3321722.jpg";
+// import Image2921082 from "./book-covers/2921082.jpg";
+// import Image3131419 from "./book-covers/3131419.jpg";
+// import Image2402971 from "./book-covers/2402971.jpg";
+// import Image2836109 from "./book-covers/2836109.jpg";
+// import Image2208744 from "./book-covers/2208744.jpg";
+// import Image2342943 from "./book-covers/2342943.jpg";
+// import Image2092728 from "./book-covers/2092728.jpg";
+// import Image2133795 from "./book-covers/2133795.jpg";
+// import Image2159225 from "./book-covers/2159225.jpg";
+// import Image1887655 from "./book-covers/1887655.jpg";
+// import Image1947017 from "./book-covers/1947017.jpg";
+// import Image1375896 from "./book-covers/1375896.jpg";
+// import Image1524173 from "./book-covers/1524173.jpg";
+// import Image799148 from "./book-covers/799148.jpg";
+// import Image828483 from "./book-covers/828483.jpg";
+// import Image765601 from "./book-covers/765601.jpg";
+// import Image721003 from "./book-covers/721003.jpg";
+// import Image706053 from "./book-covers/706053.jpg";
+// import Image669570 from "./book-covers/669570.jpg";
+// import Image688191 from "./book-covers/688191.jpg";
+// import Image568645 from "./book-covers/568645.jpg";
+// import Image623976 from "./book-covers/623976.jpg";
+// import Image542752 from "./book-covers/542752.jpg";
+// import Image547866 from "./book-covers/547866.jpg";
+// import Image428042 from "./book-covers/428042.jpg";
+// import Image490979 from "./book-covers/490979.jpg";
+// import Image355917 from "./book-covers/355917.jpg";
+// import Image363851 from "./book-covers/363851.jpg";
+// import Image371145 from "./book-covers/371145.jpg";
+// import Image318404 from "./book-covers/318404.jpg";
+// import Image307791 from "./book-covers/307791.jpg";
+// import Image318016 from "./book-covers/318016.jpg";
+// import Image275844 from "./book-covers/275844.jpg";
+// import Image295323 from "./book-covers/295323.jpg";
+// import Image297249 from "./book-covers/297249.jpg";
+// import Image248482 from "./book-covers/248482.jpg";
+// import Image272447 from "./book-covers/272447.jpg";
+// import Image186103 from "./book-covers/186103.jpg";
+// import Image199699 from "./book-covers/199699.jpg";
+// import Image153780 from "./book-covers/153780.jpg";
+// import Image156770 from "./book-covers/156770.jpg";
+// import Image183660 from "./book-covers/183660.jpg";
+// import Image144350 from "./book-covers/144350.jpg";
+// import Image153747 from "./book-covers/153747.jpg";
+// import Image136782 from "./book-covers/136782.jpg";
+// import Image144349 from "./book-covers/144349.jpg";
+// import Image125407 from "./book-covers/125407.jpg";
+// import Image104902 from "./book-covers/104902.jpg";
+// import Image111450 from "./book-covers/111450.jpg";
+// import Image121749 from "./book-covers/121749.jpg";
+// import Image99716 from "./book-covers/99716.jpg";
+// import Image45978 from "./book-covers/45978.jpg";
+// import Image82783 from "./book-covers/82783.jpg";
+// import Image84369 from "./book-covers/84369.jpg";
+// import Image35805 from "./book-covers/35805.jpg";
+// import Image41667 from "./book-covers/41667.jpg";
+// import Image24337 from "./book-covers/24337.jpg";
+// import Image24768 from "./book-covers/24768.jpg";
+// import Image28186 from "./book-covers/28186.jpg";
+// import Image24178 from "./book-covers/24178.jpg";
+// import Image24094 from "./book-covers/24094.jpg";
+// import Image24087 from "./book-covers/24087.jpg";
+// import Image18395 from "./book-covers/18395.jpg";
+// import Image19469 from "./book-covers/19469.jpg";
+// import Image13836 from "./book-covers/13836.jpg";
+// import Image18131 from "./book-covers/18131.jpg";
+// import Image18394 from "./book-covers/18394.jpg";
+// import Image13835 from "./book-covers/13835.jpg";
+// import Image11127 from "./book-covers/11127.jpg";
+// import Image13829 from "./book-covers/13829.jpg";
+// import Image8647 from "./book-covers/8647.jpg";
+// import Image9534 from "./book-covers/9534.jpg";
+// import Image7967 from "./book-covers/7967.jpg";
+// import Image1202 from "./book-covers/1202.jpg";
+// import Image10 from "./book-covers/10.jpg";
+// import Image902 from "./book-covers/902.jpg";
+// import Image5 from "./book-covers/5.jpg";
 
 import {
   createAuthorMap,
   createBookMap,
   createSeriesMap,
 } from "../utils/data-processing";
-import { Book } from "src/utils/types";
+import { Book } from "@/utils/types";
 
 const bookData: Book[] = [
   {
@@ -663,7 +663,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 515,
     dateFinished: "",
-    coverImg: Image944073,
+    // coverImg: Image944073,
     goodreadsUrl: "https://www.goodreads.com/book/show/944073",
   },
   {
@@ -677,7 +677,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 441,
     dateFinished: "",
-    coverImg: Image902715,
+    // coverImg: Image902715,
     goodreadsUrl: "https://www.goodreads.com/book/show/902715",
   },
   {
@@ -691,7 +691,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 536,
     dateFinished: "",
-    coverImg: Image944076,
+    // coverImg: Image944076,
     goodreadsUrl: "https://www.goodreads.com/book/show/944076",
   },
   {
@@ -705,7 +705,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 448,
     dateFinished: "",
-    coverImg: Image39863332,
+    // coverImg: Image39863332,
     goodreadsUrl: "https://www.goodreads.com/book/show/39863332",
   },
   {
@@ -719,7 +719,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 210,
     dateFinished: "",
-    coverImg: Image6900,
+    // coverImg: Image6900,
     goodreadsUrl: "https://www.goodreads.com/book/show/6900",
   },
   {
@@ -733,7 +733,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 196,
     dateFinished: "",
-    coverImg: Image3431,
+    // coverImg: Image3431,
     goodreadsUrl: "https://www.goodreads.com/book/show/3431",
   },
   {
@@ -747,7 +747,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 220,
     dateFinished: "",
-    coverImg: Image5586087,
+    // coverImg: Image5586087,
     goodreadsUrl: "https://www.goodreads.com/book/show/5586087",
   },
   {
@@ -761,7 +761,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 352,
     dateFinished: "",
-    coverImg: Image65213543,
+    // coverImg: Image65213543,
     goodreadsUrl: "https://www.goodreads.com/book/show/65213543",
   },
   {
@@ -775,7 +775,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 296,
     dateFinished: "",
-    coverImg: Image61242426,
+    // coverImg: Image61242426,
     goodreadsUrl: "https://www.goodreads.com/book/show/61242426",
   },
   {
@@ -789,7 +789,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image7468215,
+    // coverImg: Image7468215,
     goodreadsUrl: "https://www.goodreads.com/book/show/7468215",
   },
   {
@@ -803,7 +803,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 192,
     dateFinished: "",
-    coverImg: Image125404,
+    // coverImg: Image125404,
     goodreadsUrl: "https://www.goodreads.com/book/show/125404",
   },
   {
@@ -817,7 +817,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 183,
     dateFinished: "",
-    coverImg: Image156770,
+    // coverImg: Image156770,
     goodreadsUrl: "https://www.goodreads.com/book/show/156770",
   },
   {
@@ -831,7 +831,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 145,
     dateFinished: "",
-    coverImg: Image125407,
+    // coverImg: Image125407,
     goodreadsUrl: "https://www.goodreads.com/book/show/125407",
   },
   {
@@ -845,7 +845,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 246,
     dateFinished: "",
-    coverImg: Image125411,
+    // coverImg: Image125411,
     goodreadsUrl: "https://www.goodreads.com/book/show/125411",
   },
   {
@@ -859,7 +859,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 288,
     dateFinished: "",
-    coverImg: Image125408,
+    // coverImg: Image125408,
     goodreadsUrl: "https://www.goodreads.com/book/show/125408",
   },
   {
@@ -873,7 +873,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 465,
     dateFinished: "",
-    coverImg: Image23437156,
+    // coverImg: Image23437156,
     goodreadsUrl: "https://www.goodreads.com/book/show/23437156",
   },
   {
@@ -887,7 +887,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 561,
     dateFinished: "",
-    coverImg: Image22299763,
+    // coverImg: Image22299763,
     goodreadsUrl: "https://www.goodreads.com/book/show/22299763",
   },
   {
@@ -901,7 +901,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image18392,
+    // coverImg: Image18392,
     goodreadsUrl: "https://www.goodreads.com/book/show/18392",
   },
   {
@@ -915,7 +915,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 377,
     dateFinished: "",
-    coverImg: Image24087,
+    // coverImg: Image24087,
     goodreadsUrl: "https://www.goodreads.com/book/show/24087",
   },
   {
@@ -929,7 +929,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 290,
     dateFinished: "",
-    coverImg: Image18396,
+    // coverImg: Image18396,
     goodreadsUrl: "https://www.goodreads.com/book/show/18396",
   },
   {
@@ -943,7 +943,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 270,
     dateFinished: "",
-    coverImg: Image18393,
+    // coverImg: Image18393,
     goodreadsUrl: "https://www.goodreads.com/book/show/18393",
   },
   {
@@ -957,7 +957,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 288,
     dateFinished: "",
-    coverImg: Image18394,
+    // coverImg: Image18394,
     goodreadsUrl: "https://www.goodreads.com/book/show/18394",
   },
   {
@@ -971,7 +971,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 288,
     dateFinished: "",
-    coverImg: Image18395,
+    // coverImg: Image18395,
     goodreadsUrl: "https://www.goodreads.com/book/show/18395",
   },
   {
@@ -985,7 +985,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image104902,
+    // coverImg: Image104902,
     goodreadsUrl: "https://www.goodreads.com/book/show/104902",
   },
   {
@@ -999,7 +999,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image24088,
+    // coverImg: Image24088,
     goodreadsUrl: "https://www.goodreads.com/book/show/24088",
   },
   {
@@ -1013,7 +1013,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 284,
     dateFinished: "",
-    coverImg: Image58187209,
+    // coverImg: Image58187209,
     goodreadsUrl: "https://www.goodreads.com/book/show/58187209",
   },
   {
@@ -1027,7 +1027,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image2432719,
+    // coverImg: Image2432719,
     goodreadsUrl: "https://www.goodreads.com/book/show/2432719",
   },
   {
@@ -1041,7 +1041,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 158,
     dateFinished: "",
-    coverImg: Image4381,
+    // coverImg: Image4381,
     goodreadsUrl: "https://www.goodreads.com/book/show/4381",
   },
   {
@@ -1055,7 +1055,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 489,
     dateFinished: "",
-    coverImg: Image968,
+    // coverImg: Image968,
     goodreadsUrl: "https://www.goodreads.com/book/show/968",
   },
   {
@@ -1069,7 +1069,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 509,
     dateFinished: "",
-    coverImg: Image6411961,
+    // coverImg: Image6411961,
     goodreadsUrl: "https://www.goodreads.com/book/show/6411961",
   },
   {
@@ -1083,7 +1083,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 382,
     dateFinished: "",
-    coverImg: Image15839976,
+    // coverImg: Image15839976,
     goodreadsUrl: "https://www.goodreads.com/book/show/15839976",
   },
   {
@@ -1097,7 +1097,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 466,
     dateFinished: "",
-    coverImg: Image18966819,
+    // coverImg: Image18966819,
     goodreadsUrl: "https://www.goodreads.com/book/show/18966819",
   },
   {
@@ -1111,7 +1111,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 525,
     dateFinished: "2019/08/07",
-    coverImg: Image18966806,
+    // coverImg: Image18966806,
     goodreadsUrl: "https://www.goodreads.com/book/show/18966806",
   },
   {
@@ -1125,7 +1125,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 602,
     dateFinished: "2019/08/27",
-    coverImg: Image33257757,
+    // coverImg: Image33257757,
     goodreadsUrl: "https://www.goodreads.com/book/show/33257757",
   },
   {
@@ -1139,7 +1139,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 704,
     dateFinished: "2024/02/07",
-    coverImg: Image29226553,
+    // coverImg: Image29226553,
     goodreadsUrl: "https://www.goodreads.com/book/show/29226553",
   },
   {
@@ -1153,7 +1153,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 682,
     dateFinished: "2024/02/07",
-    coverImg: Image29227774,
+    // coverImg: Image29227774,
     goodreadsUrl: "https://www.goodreads.com/book/show/29227774",
   },
   {
@@ -1167,7 +1167,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 331,
     dateFinished: "",
-    coverImg: Image2998,
+    // coverImg: Image2998,
     goodreadsUrl: "https://www.goodreads.com/book/show/2998",
   },
   {
@@ -1181,7 +1181,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 355,
     dateFinished: "",
-    coverImg: Image47212,
+    // coverImg: Image47212,
     goodreadsUrl: "https://www.goodreads.com/book/show/47212",
   },
   {
@@ -1195,7 +1195,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 336,
     dateFinished: "",
-    coverImg: Image6219313,
+    // coverImg: Image6219313,
     goodreadsUrl: "https://www.goodreads.com/book/show/6219313",
   },
   {
@@ -1209,7 +1209,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 401,
     dateFinished: "2020/07/08",
-    coverImg: Image91477,
+    // coverImg: Image91477,
     goodreadsUrl: "https://www.goodreads.com/book/show/91477",
   },
   {
@@ -1223,7 +1223,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 378,
     dateFinished: "2020/07/10",
-    coverImg: Image91476,
+    // coverImg: Image91476,
     goodreadsUrl: "https://www.goodreads.com/book/show/91476",
   },
   {
@@ -1237,7 +1237,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 446,
     dateFinished: "2020/07/13",
-    coverImg: Image91478,
+    // coverImg: Image91478,
     goodreadsUrl: "https://www.goodreads.com/book/show/91478",
   },
   {
@@ -1251,7 +1251,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 432,
     dateFinished: "2020/11/09",
-    coverImg: Image91479,
+    // coverImg: Image91479,
     goodreadsUrl: "https://www.goodreads.com/book/show/91479",
   },
   {
@@ -1265,7 +1265,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 372,
     dateFinished: "2020/11/09",
-    coverImg: Image99383,
+    // coverImg: Image99383,
     goodreadsUrl: "https://www.goodreads.com/book/show/99383",
   },
   {
@@ -1279,7 +1279,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 352,
     dateFinished: "",
-    coverImg: Image1342297,
+    // coverImg: Image1342297,
     goodreadsUrl: "https://www.goodreads.com/book/show/1342297",
   },
   {
@@ -1293,7 +1293,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 160,
     dateFinished: "",
-    coverImg: Image39947376,
+    // coverImg: Image39947376,
     goodreadsUrl: "https://www.goodreads.com/book/show/39947376",
   },
   {
@@ -1307,7 +1307,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 324,
     dateFinished: "",
-    coverImg: Image375802,
+    // coverImg: Image375802,
     goodreadsUrl: "https://www.goodreads.com/book/show/375802",
   },
   {
@@ -1321,7 +1321,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 382,
     dateFinished: "2011/04/01",
-    coverImg: Image7967,
+    // coverImg: Image7967,
     goodreadsUrl: "https://www.goodreads.com/book/show/7967",
   },
   {
@@ -1335,7 +1335,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 592,
     dateFinished: "2012/03/08",
-    coverImg: Image8648,
+    // coverImg: Image8648,
     goodreadsUrl: "https://www.goodreads.com/book/show/8648",
   },
   {
@@ -1349,7 +1349,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 448,
     dateFinished: "2012/03/08",
-    coverImg: Image8302658,
+    // coverImg: Image8302658,
     goodreadsUrl: "https://www.goodreads.com/book/show/8302658",
   },
   {
@@ -1363,7 +1363,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 469,
     dateFinished: "",
-    coverImg: Image9532,
+    // coverImg: Image9532,
     goodreadsUrl: "https://www.goodreads.com/book/show/9532",
   },
   {
@@ -1377,7 +1377,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 451,
     dateFinished: "",
-    coverImg: Image9534,
+    // coverImg: Image9534,
     goodreadsUrl: "https://www.goodreads.com/book/show/9534",
   },
   {
@@ -1391,7 +1391,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 375,
     dateFinished: "",
-    coverImg: Image234724,
+    // coverImg: Image234724,
     goodreadsUrl: "https://www.goodreads.com/book/show/234724",
   },
   {
@@ -1405,7 +1405,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 388,
     dateFinished: "",
-    coverImg: Image8647,
+    // coverImg: Image8647,
     goodreadsUrl: "https://www.goodreads.com/book/show/8647",
   },
   {
@@ -1419,7 +1419,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 168,
     dateFinished: "",
-    coverImg: Image6255144,
+    // coverImg: Image6255144,
     goodreadsUrl: "https://www.goodreads.com/book/show/6255144",
   },
   {
@@ -1433,7 +1433,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 284,
     dateFinished: "",
-    coverImg: Image852470,
+    // coverImg: Image852470,
     goodreadsUrl: "https://www.goodreads.com/book/show/852470",
   },
   {
@@ -1447,7 +1447,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 236,
     dateFinished: "",
-    coverImg: Image568645,
+    // coverImg: Image568645,
     goodreadsUrl: "https://www.goodreads.com/book/show/568645",
   },
   {
@@ -1461,7 +1461,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 263,
     dateFinished: "",
-    coverImg: Image5267365,
+    // coverImg: Image5267365,
     goodreadsUrl: "https://www.goodreads.com/book/show/5267365",
   },
   {
@@ -1475,7 +1475,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 265,
     dateFinished: "",
-    coverImg: Image6950688,
+    // coverImg: Image6950688,
     goodreadsUrl: "https://www.goodreads.com/book/show/6950688",
   },
   {
@@ -1489,7 +1489,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 294,
     dateFinished: "",
-    coverImg: Image10560331,
+    // coverImg: Image10560331,
     goodreadsUrl: "https://www.goodreads.com/book/show/10560331",
   },
   {
@@ -1503,7 +1503,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 287,
     dateFinished: "",
-    coverImg: Image6574102,
+    // coverImg: Image6574102,
     goodreadsUrl: "https://www.goodreads.com/book/show/6574102",
   },
   {
@@ -1517,7 +1517,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 298,
     dateFinished: "",
-    coverImg: Image10327303,
+    // coverImg: Image10327303,
     goodreadsUrl: "https://www.goodreads.com/book/show/10327303",
   },
   {
@@ -1531,7 +1531,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 485,
     dateFinished: "2021/10/19",
-    coverImg: Image60888209,
+    // coverImg: Image60888209,
     goodreadsUrl: "https://www.goodreads.com/book/show/60888209",
   },
   {
@@ -1545,7 +1545,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 685,
     dateFinished: "2021/10/19",
-    coverImg: Image81360229,
+    // coverImg: Image81360229,
     goodreadsUrl: "https://www.goodreads.com/book/show/81360229",
   },
   {
@@ -1559,7 +1559,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 785,
     dateFinished: "2021/10/19",
-    coverImg: Image178005710,
+    // coverImg: Image178005710,
     goodreadsUrl: "https://www.goodreads.com/book/show/178005710",
   },
   {
@@ -1573,7 +1573,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 351,
     dateFinished: "",
-    coverImg: Image38191363,
+    // coverImg: Image38191363,
     goodreadsUrl: "https://www.goodreads.com/book/show/38191363",
   },
   {
@@ -1587,7 +1587,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 356,
     dateFinished: "",
-    coverImg: Image84965769,
+    // coverImg: Image84965769,
     goodreadsUrl: "https://www.goodreads.com/book/show/84965769",
   },
   {
@@ -1601,7 +1601,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 128,
     dateFinished: "",
-    coverImg: Image272447,
+    // coverImg: Image272447,
     goodreadsUrl: "https://www.goodreads.com/book/show/272447",
   },
   {
@@ -1615,7 +1615,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image2342943,
+    // coverImg: Image2342943,
     goodreadsUrl: "https://www.goodreads.com/book/show/2342943",
   },
   {
@@ -1629,7 +1629,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 264,
     dateFinished: "",
-    coverImg: Image5927462,
+    // coverImg: Image5927462,
     goodreadsUrl: "https://www.goodreads.com/book/show/5927462",
   },
   {
@@ -1643,7 +1643,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 225,
     dateFinished: "",
-    coverImg: Image89716,
+    // coverImg: Image89716,
     goodreadsUrl: "https://www.goodreads.com/book/show/89716",
   },
   {
@@ -1657,7 +1657,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 274,
     dateFinished: "",
-    coverImg: Image6137155,
+    // coverImg: Image6137155,
     goodreadsUrl: "https://www.goodreads.com/book/show/6137155",
   },
   {
@@ -1671,7 +1671,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 216,
     dateFinished: "",
-    coverImg: Image799148,
+    // coverImg: Image799148,
     goodreadsUrl: "https://www.goodreads.com/book/show/799148",
   },
   {
@@ -1685,7 +1685,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1884,
     dateFinished: "",
-    coverImg: Image34569357,
+    // coverImg: Image34569357,
     goodreadsUrl: "https://www.goodreads.com/book/show/34569357",
   },
   {
@@ -1699,7 +1699,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 45,
     dateFinished: "",
-    coverImg: Image13554058,
+    // coverImg: Image13554058,
     goodreadsUrl: "https://www.goodreads.com/book/show/13554058",
   },
   {
@@ -1713,7 +1713,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image32076670,
+    // coverImg: Image32076670,
     goodreadsUrl: "https://www.goodreads.com/book/show/32076670",
   },
   {
@@ -1727,7 +1727,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 256,
     dateFinished: "",
-    coverImg: Image542752,
+    // coverImg: Image542752,
     goodreadsUrl: "https://www.goodreads.com/book/show/542752",
   },
   {
@@ -1741,7 +1741,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 183,
     dateFinished: "",
-    coverImg: Image6250208,
+    // coverImg: Image6250208,
     goodreadsUrl: "https://www.goodreads.com/book/show/6250208",
   },
   {
@@ -1755,7 +1755,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 396,
     dateFinished: "",
-    coverImg: Image249747,
+    // coverImg: Image249747,
     goodreadsUrl: "https://www.goodreads.com/book/show/249747",
   },
   {
@@ -1769,7 +1769,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 398,
     dateFinished: "",
-    coverImg: Image114955,
+    // coverImg: Image114955,
     goodreadsUrl: "https://www.goodreads.com/book/show/114955",
   },
   {
@@ -1783,7 +1783,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 329,
     dateFinished: "",
-    coverImg: Image227865,
+    // coverImg: Image227865,
     goodreadsUrl: "https://www.goodreads.com/book/show/227865",
   },
   {
@@ -1797,7 +1797,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 528,
     dateFinished: "",
-    coverImg: Image114954,
+    // coverImg: Image114954,
     goodreadsUrl: "https://www.goodreads.com/book/show/114954",
   },
   {
@@ -1811,7 +1811,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 385,
     dateFinished: "",
-    coverImg: Image37586,
+    // coverImg: Image37586,
     goodreadsUrl: "https://www.goodreads.com/book/show/37586",
   },
   {
@@ -1825,7 +1825,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 391,
     dateFinished: "",
-    coverImg: Image2179276,
+    // coverImg: Image2179276,
     goodreadsUrl: "https://www.goodreads.com/book/show/2179276",
   },
   {
@@ -1839,7 +1839,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 357,
     dateFinished: "",
-    coverImg: Image7005865,
+    // coverImg: Image7005865,
     goodreadsUrl: "https://www.goodreads.com/book/show/7005865",
   },
   {
@@ -1853,7 +1853,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 290,
     dateFinished: "",
-    coverImg: Image831893,
+    // coverImg: Image831893,
     goodreadsUrl: "https://www.goodreads.com/book/show/831893",
   },
   {
@@ -1867,7 +1867,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 374,
     dateFinished: "",
-    coverImg: Image2767052,
+    // coverImg: Image2767052,
     goodreadsUrl: "https://www.goodreads.com/book/show/2767052",
   },
   {
@@ -1881,7 +1881,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 391,
     dateFinished: "",
-    coverImg: Image6148028,
+    // coverImg: Image6148028,
     goodreadsUrl: "https://www.goodreads.com/book/show/6148028",
   },
   {
@@ -1895,7 +1895,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 390,
     dateFinished: "",
-    coverImg: Image7260188,
+    // coverImg: Image7260188,
     goodreadsUrl: "https://www.goodreads.com/book/show/7260188",
   },
   {
@@ -1909,7 +1909,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 326,
     dateFinished: "2020/08/30",
-    coverImg: Image262430,
+    // coverImg: Image262430,
     goodreadsUrl: "https://www.goodreads.com/book/show/262430",
   },
   {
@@ -1923,7 +1923,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 312,
     dateFinished: "2020/08/31",
-    coverImg: Image385742,
+    // coverImg: Image385742,
     goodreadsUrl: "https://www.goodreads.com/book/show/385742",
   },
   {
@@ -1937,7 +1937,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 358,
     dateFinished: "2020/08/31",
-    coverImg: Image385706,
+    // coverImg: Image385706,
     goodreadsUrl: "https://www.goodreads.com/book/show/385706",
   },
   {
@@ -1951,7 +1951,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 343,
     dateFinished: "2020/08/31",
-    coverImg: Image319644,
+    // coverImg: Image319644,
     goodreadsUrl: "https://www.goodreads.com/book/show/319644",
   },
   {
@@ -1965,7 +1965,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 412,
     dateFinished: "2020/09/05",
-    coverImg: Image537070,
+    // coverImg: Image537070,
     goodreadsUrl: "https://www.goodreads.com/book/show/537070",
   },
   {
@@ -1979,7 +1979,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 319,
     dateFinished: "2022/11/01",
-    coverImg: Image140671,
+    // coverImg: Image140671,
     goodreadsUrl: "https://www.goodreads.com/book/show/140671",
   },
   {
@@ -1993,7 +1993,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 192,
     dateFinished: "",
-    coverImg: Image19469,
+    // coverImg: Image19469,
     goodreadsUrl: "https://www.goodreads.com/book/show/19469",
   },
   {
@@ -2007,7 +2007,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1,
     dateFinished: "2011/09/05",
-    coverImg: Image2092728,
+    // coverImg: Image2092728,
     goodreadsUrl: "https://www.goodreads.com/book/show/2092728",
   },
   {
@@ -2021,7 +2021,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 592,
     dateFinished: "2019/12/02",
-    coverImg: Image8855321,
+    // coverImg: Image8855321,
     goodreadsUrl: "https://www.goodreads.com/book/show/8855321",
   },
   {
@@ -2035,7 +2035,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 624,
     dateFinished: "2019/12/05",
-    coverImg: Image12591698,
+    // coverImg: Image12591698,
     goodreadsUrl: "https://www.goodreads.com/book/show/12591698",
   },
   {
@@ -2049,7 +2049,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 539,
     dateFinished: "2021/06/28",
-    coverImg: Image16131032,
+    // coverImg: Image16131032,
     goodreadsUrl: "https://www.goodreads.com/book/show/16131032",
   },
   {
@@ -2063,7 +2063,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 581,
     dateFinished: "",
-    coverImg: Image18656030,
+    // coverImg: Image18656030,
     goodreadsUrl: "https://www.goodreads.com/book/show/18656030",
   },
   {
@@ -2077,7 +2077,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 448,
     dateFinished: "",
-    coverImg: Image13532157,
+    // coverImg: Image13532157,
     goodreadsUrl: "https://www.goodreads.com/book/show/13532157",
   },
   {
@@ -2091,7 +2091,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 496,
     dateFinished: "",
-    coverImg: Image1616681,
+    // coverImg: Image1616681,
     goodreadsUrl: "https://www.goodreads.com/book/show/1616681",
   },
   {
@@ -2105,7 +2105,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 316,
     dateFinished: "",
-    coverImg: Image275844,
+    // coverImg: Image275844,
     goodreadsUrl: "https://www.goodreads.com/book/show/275844",
   },
   {
@@ -2119,7 +2119,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image6186357,
+    // coverImg: Image6186357,
     goodreadsUrl: "https://www.goodreads.com/book/show/6186357",
   },
   {
@@ -2133,7 +2133,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 362,
     dateFinished: "",
-    coverImg: Image7631105,
+    // coverImg: Image7631105,
     goodreadsUrl: "https://www.goodreads.com/book/show/7631105",
   },
   {
@@ -2147,7 +2147,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 325,
     dateFinished: "",
-    coverImg: Image7864437,
+    // coverImg: Image7864437,
     goodreadsUrl: "https://www.goodreads.com/book/show/7864437",
   },
   {
@@ -2161,7 +2161,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 259,
     dateFinished: "2019/08/12",
-    coverImg: Image216363,
+    // coverImg: Image216363,
     goodreadsUrl: "https://www.goodreads.com/book/show/216363",
   },
   {
@@ -2175,7 +2175,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 489,
     dateFinished: "",
-    coverImg: Image1953,
+    // coverImg: Image1953,
     goodreadsUrl: "https://www.goodreads.com/book/show/1953",
   },
   {
@@ -2189,7 +2189,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image6631202,
+    // coverImg: Image6631202,
     goodreadsUrl: "https://www.goodreads.com/book/show/6631202",
   },
   {
@@ -2203,7 +2203,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 382,
     dateFinished: "",
-    coverImg: Image954674,
+    // coverImg: Image954674,
     goodreadsUrl: "https://www.goodreads.com/book/show/954674",
   },
   {
@@ -2217,7 +2217,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 396,
     dateFinished: "",
-    coverImg: Image12917338,
+    // coverImg: Image12917338,
     goodreadsUrl: "https://www.goodreads.com/book/show/12917338",
   },
   {
@@ -2231,7 +2231,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image53677578,
+    // coverImg: Image53677578,
     goodreadsUrl: "https://www.goodreads.com/book/show/53677578",
   },
   {
@@ -2245,7 +2245,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 213,
     dateFinished: "2023/09/10",
-    coverImg: Image60784417,
+    // coverImg: Image60784417,
     goodreadsUrl: "https://www.goodreads.com/book/show/60784417",
   },
   {
@@ -2259,7 +2259,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 240,
     dateFinished: "2024/03/30",
-    coverImg: Image127306588,
+    // coverImg: Image127306588,
     goodreadsUrl: "https://www.goodreads.com/book/show/127306588",
   },
   {
@@ -2273,7 +2273,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 208,
     dateFinished: "",
-    coverImg: Image29587,
+    // coverImg: Image29587,
     goodreadsUrl: "https://www.goodreads.com/book/show/29587",
   },
   {
@@ -2287,7 +2287,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 232,
     dateFinished: "",
-    coverImg: Image29589,
+    // coverImg: Image29589,
     goodreadsUrl: "https://www.goodreads.com/book/show/29589",
   },
   {
@@ -2301,7 +2301,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 315,
     dateFinished: "",
-    coverImg: Image29588,
+    // coverImg: Image29588,
     goodreadsUrl: "https://www.goodreads.com/book/show/29588",
   },
   {
@@ -2315,7 +2315,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 81,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/7154200",
   },
   {
@@ -2329,7 +2329,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image6422238,
+    // coverImg: Image6422238,
     goodreadsUrl: "https://www.goodreads.com/book/show/6422238",
   },
   {
@@ -2343,7 +2343,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 477,
     dateFinished: "",
-    coverImg: Image7241373,
+    // coverImg: Image7241373,
     goodreadsUrl: "https://www.goodreads.com/book/show/7241373",
   },
   {
@@ -2357,7 +2357,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image13539171,
+    // coverImg: Image13539171,
     goodreadsUrl: "https://www.goodreads.com/book/show/13539171",
   },
   {
@@ -2371,7 +2371,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 351,
     dateFinished: "",
-    coverImg: Image13538762,
+    // coverImg: Image13538762,
     goodreadsUrl: "https://www.goodreads.com/book/show/13538762",
   },
   {
@@ -2385,7 +2385,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image40604388,
+    // coverImg: Image40604388,
     goodreadsUrl: "https://www.goodreads.com/book/show/40604388",
   },
   {
@@ -2399,7 +2399,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "2020/06/15",
-    coverImg: Image41447687,
+    // coverImg: Image41447687,
     goodreadsUrl: "https://www.goodreads.com/book/show/41447687",
   },
   {
@@ -2413,7 +2413,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 112,
     dateFinished: "",
-    coverImg: Image41085118,
+    // coverImg: Image41085118,
     goodreadsUrl: "https://www.goodreads.com/book/show/41085118",
   },
   {
@@ -2427,7 +2427,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 176,
     dateFinished: "",
-    coverImg: Image490979,
+    // coverImg: Image490979,
     goodreadsUrl: "https://www.goodreads.com/book/show/490979",
   },
   {
@@ -2441,7 +2441,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1077,
     dateFinished: "",
-    coverImg: Image6788719,
+    // coverImg: Image6788719,
     goodreadsUrl: "https://www.goodreads.com/book/show/6788719",
   },
   {
@@ -2455,7 +2455,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 270,
     dateFinished: "",
-    coverImg: Image307791,
+    // coverImg: Image307791,
     goodreadsUrl: "https://www.goodreads.com/book/show/307791",
   },
   {
@@ -2469,7 +2469,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 666,
     dateFinished: "2023/10/30",
-    coverImg: Image55399,
+    // coverImg: Image55399,
     goodreadsUrl: "https://www.goodreads.com/book/show/55399",
   },
   {
@@ -2483,7 +2483,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 604,
     dateFinished: "2023/12/15",
-    coverImg: Image55401,
+    // coverImg: Image55401,
     goodreadsUrl: "https://www.goodreads.com/book/show/55401",
   },
   {
@@ -2497,7 +2497,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 925,
     dateFinished: "2024/01/25",
-    coverImg: Image175983,
+    // coverImg: Image175983,
     goodreadsUrl: "https://www.goodreads.com/book/show/175983",
   },
   {
@@ -2511,7 +2511,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 477,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/32195178",
   },
   {
@@ -2525,7 +2525,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1014,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/32195233",
   },
   {
@@ -2539,7 +2539,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1458,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/40034031",
   },
   {
@@ -2553,7 +2553,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1595,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/40769494",
   },
   {
@@ -2567,7 +2567,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1655,
     dateFinished: "2022/01/01",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/43359308",
   },
   {
@@ -2581,7 +2581,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1740,
     dateFinished: "2022/01/01",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/50328813",
   },
   {
@@ -2595,7 +2595,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 2449,
     dateFinished: "2022/01/01",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/57290725",
   },
   {
@@ -2609,7 +2609,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 368,
     dateFinished: "",
-    coverImg: Image2974581,
+    // coverImg: Image2974581,
     goodreadsUrl: "https://www.goodreads.com/book/show/2974581",
   },
   {
@@ -2623,7 +2623,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 156,
     dateFinished: "",
-    coverImg: Image382229,
+    // coverImg: Image382229,
     goodreadsUrl: "https://www.goodreads.com/book/show/382229",
   },
   {
@@ -2637,7 +2637,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 180,
     dateFinished: "",
-    coverImg: Image4671,
+    // coverImg: Image4671,
     goodreadsUrl: "https://www.goodreads.com/book/show/4671",
   },
   {
@@ -2651,7 +2651,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 434,
     dateFinished: "",
-    coverImg: Image10551947,
+    // coverImg: Image10551947,
     goodreadsUrl: "https://www.goodreads.com/book/show/10551947",
   },
   {
@@ -2665,7 +2665,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 429,
     dateFinished: "",
-    coverImg: Image13003565,
+    // coverImg: Image13003565,
     goodreadsUrl: "https://www.goodreads.com/book/show/13003565",
   },
   {
@@ -2679,7 +2679,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 403,
     dateFinished: "",
-    coverImg: Image13589152,
+    // coverImg: Image13589152,
     goodreadsUrl: "https://www.goodreads.com/book/show/13589152",
   },
   {
@@ -2693,7 +2693,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 462,
     dateFinished: "",
-    coverImg: Image18667863,
+    // coverImg: Image18667863,
     goodreadsUrl: "https://www.goodreads.com/book/show/18667863",
   },
   {
@@ -2707,7 +2707,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 249,
     dateFinished: "",
-    coverImg: Image60400,
+    // coverImg: Image60400,
     goodreadsUrl: "https://www.goodreads.com/book/show/60400",
   },
   {
@@ -2721,7 +2721,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 262,
     dateFinished: "",
-    coverImg: Image144349,
+    // coverImg: Image144349,
     goodreadsUrl: "https://www.goodreads.com/book/show/144349",
   },
   {
@@ -2735,7 +2735,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 266,
     dateFinished: "",
-    coverImg: Image127823,
+    // coverImg: Image127823,
     goodreadsUrl: "https://www.goodreads.com/book/show/127823",
   },
   {
@@ -2749,7 +2749,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 294,
     dateFinished: "",
-    coverImg: Image144350,
+    // coverImg: Image144350,
     goodreadsUrl: "https://www.goodreads.com/book/show/144350",
   },
   {
@@ -2763,7 +2763,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image1524173,
+    // coverImg: Image1524173,
     goodreadsUrl: "https://www.goodreads.com/book/show/1524173",
   },
   {
@@ -2777,7 +2777,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "",
-    coverImg: Image1814843,
+    // coverImg: Image1814843,
     goodreadsUrl: "https://www.goodreads.com/book/show/1814843",
   },
   {
@@ -2791,7 +2791,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 441,
     dateFinished: "",
-    coverImg: Image2836109,
+    // coverImg: Image2836109,
     goodreadsUrl: "https://www.goodreads.com/book/show/2836109",
   },
   {
@@ -2805,7 +2805,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "",
-    coverImg: Image5201089,
+    // coverImg: Image5201089,
     goodreadsUrl: "https://www.goodreads.com/book/show/5201089",
   },
   {
@@ -2819,7 +2819,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 441,
     dateFinished: "",
-    coverImg: Image6348045,
+    // coverImg: Image6348045,
     goodreadsUrl: "https://www.goodreads.com/book/show/6348045",
   },
   {
@@ -2833,7 +2833,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 489,
     dateFinished: "",
-    coverImg: Image7592279,
+    // coverImg: Image7592279,
     goodreadsUrl: "https://www.goodreads.com/book/show/7592279",
   },
   {
@@ -2847,7 +2847,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 422,
     dateFinished: "",
-    coverImg: Image11309018,
+    // coverImg: Image11309018,
     goodreadsUrl: "https://www.goodreads.com/book/show/11309018",
   },
   {
@@ -2861,7 +2861,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 976,
     dateFinished: "",
-    coverImg: Image5043,
+    // coverImg: Image5043,
     goodreadsUrl: "https://www.goodreads.com/book/show/5043",
   },
   {
@@ -2875,7 +2875,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 1024,
     dateFinished: "2024/04/07",
-    coverImg: Image35659604,
+    // coverImg: Image35659604,
     goodreadsUrl: "https://www.goodreads.com/book/show/35659604",
   },
   {
@@ -2889,7 +2889,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 245,
     dateFinished: "",
-    coverImg: Image318016,
+    // coverImg: Image318016,
     goodreadsUrl: "https://www.goodreads.com/book/show/318016",
   },
   {
@@ -2903,7 +2903,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 1201,
     dateFinished: "2020/01/14",
-    coverImg: Image28959643,
+    // coverImg: Image28959643,
     goodreadsUrl: "https://www.goodreads.com/book/show/28959643",
   },
   {
@@ -2917,7 +2917,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 1200,
     dateFinished: "2020/01/14",
-    coverImg: Image29008820,
+    // coverImg: Image29008820,
     goodreadsUrl: "https://www.goodreads.com/book/show/29008820",
   },
   {
@@ -2931,7 +2931,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 177,
     dateFinished: "",
-    coverImg: Image41667,
+    // coverImg: Image41667,
     goodreadsUrl: "https://www.goodreads.com/book/show/41667",
   },
   {
@@ -2945,7 +2945,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 324,
     dateFinished: "",
-    coverImg: Image669570,
+    // coverImg: Image669570,
     goodreadsUrl: "https://www.goodreads.com/book/show/669570",
   },
   {
@@ -2959,7 +2959,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 262,
     dateFinished: "",
-    coverImg: Image2208744,
+    // coverImg: Image2208744,
     goodreadsUrl: "https://www.goodreads.com/book/show/2208744",
   },
   {
@@ -2973,7 +2973,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 248,
     dateFinished: "",
-    coverImg: Image5933646,
+    // coverImg: Image5933646,
     goodreadsUrl: "https://www.goodreads.com/book/show/5933646",
   },
   {
@@ -2988,7 +2988,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 312,
     dateFinished: "2022/12/16",
-    coverImg: Image60098290,
+    // coverImg: Image60098290,
     goodreadsUrl: "https://www.goodreads.com/book/show/60098290",
   },
   {
@@ -3002,7 +3002,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 313,
     dateFinished: "",
-    coverImg: Image11870085,
+    // coverImg: Image11870085,
     goodreadsUrl: "https://www.goodreads.com/book/show/11870085",
   },
   {
@@ -3016,7 +3016,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 210,
     dateFinished: "",
-    coverImg: Image16029682,
+    // coverImg: Image16029682,
     goodreadsUrl: "https://www.goodreads.com/book/show/16029682",
   },
   {
@@ -3030,7 +3030,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 327,
     dateFinished: "",
-    coverImg: Image7182899,
+    // coverImg: Image7182899,
     goodreadsUrl: "https://www.goodreads.com/book/show/7182899",
   },
   {
@@ -3044,7 +3044,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 383,
     dateFinished: "",
-    coverImg: Image179064,
+    // coverImg: Image179064,
     goodreadsUrl: "https://www.goodreads.com/book/show/179064",
   },
   {
@@ -3058,7 +3058,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 317,
     dateFinished: "",
-    coverImg: Image248482,
+    // coverImg: Image248482,
     goodreadsUrl: "https://www.goodreads.com/book/show/248482",
   },
   {
@@ -3072,7 +3072,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 290,
     dateFinished: "",
-    coverImg: Image248470,
+    // coverImg: Image248470,
     goodreadsUrl: "https://www.goodreads.com/book/show/248470",
   },
   {
@@ -3086,7 +3086,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 1154,
     dateFinished: "",
-    coverImg: Image56151914,
+    // coverImg: Image56151914,
     goodreadsUrl: "https://www.goodreads.com/book/show/56151914",
   },
   {
@@ -3100,7 +3100,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1194,
     dateFinished: "",
-    coverImg: Image38112555,
+    // coverImg: Image38112555,
     goodreadsUrl: "https://www.goodreads.com/book/show/38112555",
   },
   {
@@ -3114,7 +3114,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 658,
     dateFinished: "2016/06/01",
-    coverImg: Image44767458,
+    // coverImg: Image44767458,
     goodreadsUrl: "https://www.goodreads.com/book/show/44767458",
   },
   {
@@ -3128,7 +3128,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 336,
     dateFinished: "2020/02/28",
-    coverImg: Image44492285,
+    // coverImg: Image44492285,
     goodreadsUrl: "https://www.goodreads.com/book/show/44492285",
   },
   {
@@ -3142,7 +3142,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 609,
     dateFinished: "2020/03/05",
-    coverImg: Image44492286,
+    // coverImg: Image44492286,
     goodreadsUrl: "https://www.goodreads.com/book/show/44492286",
   },
   {
@@ -3156,7 +3156,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 208,
     dateFinished: "",
-    coverImg: Image231804,
+    // coverImg: Image231804,
     goodreadsUrl: "https://www.goodreads.com/book/show/231804",
   },
   {
@@ -3170,7 +3170,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 159,
     dateFinished: "",
-    coverImg: Image33569,
+    // coverImg: Image33569,
     goodreadsUrl: "https://www.goodreads.com/book/show/33569",
   },
   {
@@ -3184,7 +3184,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 256,
     dateFinished: "",
-    coverImg: Image136782,
+    // coverImg: Image136782,
     goodreadsUrl: "https://www.goodreads.com/book/show/136782",
   },
   {
@@ -3198,7 +3198,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 176,
     dateFinished: "",
-    coverImg: Image50403486,
+    // coverImg: Image50403486,
     goodreadsUrl: "https://www.goodreads.com/book/show/50403486",
   },
   {
@@ -3212,7 +3212,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 281,
     dateFinished: "",
-    coverImg: Image99716,
+    // coverImg: Image99716,
     goodreadsUrl: "https://www.goodreads.com/book/show/99716",
   },
   {
@@ -3226,7 +3226,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 355,
     dateFinished: "",
-    coverImg: Image38213103,
+    // coverImg: Image38213103,
     goodreadsUrl: "https://www.goodreads.com/book/show/38213103",
   },
   {
@@ -3240,7 +3240,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 480,
     dateFinished: "2010/09/19",
-    coverImg: Image34286,
+    // coverImg: Image34286,
     goodreadsUrl: "https://www.goodreads.com/book/show/34286",
   },
   {
@@ -3254,7 +3254,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 800,
     dateFinished: "2019/10/15",
-    coverImg: Image228665,
+    // coverImg: Image228665,
     goodreadsUrl: "https://www.goodreads.com/book/show/228665",
   },
   {
@@ -3268,7 +3268,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 705,
     dateFinished: "2020/07/17",
-    coverImg: Image233649,
+    // coverImg: Image233649,
     goodreadsUrl: "https://www.goodreads.com/book/show/233649",
   },
   {
@@ -3282,7 +3282,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 624,
     dateFinished: "2020/07/24",
-    coverImg: Image34897,
+    // coverImg: Image34897,
     goodreadsUrl: "https://www.goodreads.com/book/show/34897",
   },
   {
@@ -3296,7 +3296,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1007,
     dateFinished: "2020/07/29",
-    coverImg: Image9539,
+    // coverImg: Image9539,
     goodreadsUrl: "https://www.goodreads.com/book/show/9539",
   },
   {
@@ -3310,7 +3310,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 912,
     dateFinished: "2020/08/11",
-    coverImg: Image13895,
+    // coverImg: Image13895,
     goodreadsUrl: "https://www.goodreads.com/book/show/13895",
   },
   {
@@ -3324,7 +3324,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 1011,
     dateFinished: "2020/09/21",
-    coverImg: Image35231,
+    // coverImg: Image35231,
     goodreadsUrl: "https://www.goodreads.com/book/show/35231",
   },
   {
@@ -3338,7 +3338,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 880,
     dateFinished: "2020/09/30",
-    coverImg: Image13890,
+    // coverImg: Image13890,
     goodreadsUrl: "https://www.goodreads.com/book/show/13890",
   },
   {
@@ -3352,7 +3352,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 685,
     dateFinished: "2020/11/26",
-    coverImg: Image140974,
+    // coverImg: Image140974,
     goodreadsUrl: "https://www.goodreads.com/book/show/140974",
   },
   {
@@ -3366,7 +3366,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 780,
     dateFinished: "2021/02/10",
-    coverImg: Image13891,
+    // coverImg: Image13891,
     goodreadsUrl: "https://www.goodreads.com/book/show/13891",
   },
   {
@@ -3380,7 +3380,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 704,
     dateFinished: "2021/02/18",
-    coverImg: Image113435,
+    // coverImg: Image113435,
     goodreadsUrl: "https://www.goodreads.com/book/show/113435",
   },
   {
@@ -3394,7 +3394,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 860,
     dateFinished: "2021/02/27",
-    coverImg: Image13888,
+    // coverImg: Image13888,
     goodreadsUrl: "https://www.goodreads.com/book/show/13888",
   },
   {
@@ -3408,7 +3408,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 824,
     dateFinished: "2021/03/03",
-    coverImg: Image1166599,
+    // coverImg: Image1166599,
     goodreadsUrl: "https://www.goodreads.com/book/show/1166599",
   },
   {
@@ -3422,7 +3422,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 863,
     dateFinished: "2021/03/08",
-    coverImg: Image8253920,
+    // coverImg: Image8253920,
     goodreadsUrl: "https://www.goodreads.com/book/show/8253920",
   },
   {
@@ -3436,7 +3436,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1025,
     dateFinished: "2021/03/01",
-    coverImg: Image16031812,
+    // coverImg: Image16031812,
     goodreadsUrl: "https://www.goodreads.com/book/show/16031812",
   },
   {
@@ -3450,7 +3450,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 215,
     dateFinished: "",
-    coverImg: Image168646,
+    // coverImg: Image168646,
     goodreadsUrl: "https://www.goodreads.com/book/show/168646",
   },
   {
@@ -3464,7 +3464,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 429,
     dateFinished: "2023/11/01",
-    coverImg: Image102523863,
+    // coverImg: Image102523863,
     goodreadsUrl: "https://www.goodreads.com/book/show/102523863",
   },
   {
@@ -3478,7 +3478,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 434,
     dateFinished: "2023/09/01",
-    coverImg: Image52284628,
+    // coverImg: Image52284628,
     goodreadsUrl: "https://www.goodreads.com/book/show/52284628",
   },
   {
@@ -3492,7 +3492,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 542,
     dateFinished: "2023/10/01",
-    coverImg: Image50429169,
+    // coverImg: Image50429169,
     goodreadsUrl: "https://www.goodreads.com/book/show/50429169",
   },
   {
@@ -3506,7 +3506,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 498,
     dateFinished: "2023/10/01",
-    coverImg: Image54647047,
+    // coverImg: Image54647047,
     goodreadsUrl: "https://www.goodreads.com/book/show/54647047",
   },
   {
@@ -3520,7 +3520,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 664,
     dateFinished: "2023/10/01",
-    coverImg: Image56576240,
+    // coverImg: Image56576240,
     goodreadsUrl: "https://www.goodreads.com/book/show/56576240",
   },
   {
@@ -3534,7 +3534,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 521,
     dateFinished: "2023/10/01",
-    coverImg: Image58868952,
+    // coverImg: Image58868952,
     goodreadsUrl: "https://www.goodreads.com/book/show/58868952",
   },
   {
@@ -3548,7 +3548,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 762,
     dateFinished: "2023/10/01",
-    coverImg: Image61260844,
+    // coverImg: Image61260844,
     goodreadsUrl: "https://www.goodreads.com/book/show/61260844",
   },
   {
@@ -3562,7 +3562,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 668,
     dateFinished: "2023/11/01",
-    coverImg: Image103681644,
+    // coverImg: Image103681644,
     goodreadsUrl: "https://www.goodreads.com/book/show/103681644",
   },
   {
@@ -3576,7 +3576,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 598,
     dateFinished: "2023/11/01",
-    coverImg: Image180856697,
+    // coverImg: Image180856697,
     goodreadsUrl: "https://www.goodreads.com/book/show/180856697",
   },
   {
@@ -3590,7 +3590,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 307,
     dateFinished: "",
-    coverImg: Image70401,
+    // coverImg: Image70401,
     goodreadsUrl: "https://www.goodreads.com/book/show/70401",
   },
   {
@@ -3604,7 +3604,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 108,
     dateFinished: "2011/10/02",
-    coverImg: Image706053,
+    // coverImg: Image706053,
     goodreadsUrl: "https://www.goodreads.com/book/show/706053",
   },
   {
@@ -3618,7 +3618,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 324,
     dateFinished: "",
-    coverImg: Image149132,
+    // coverImg: Image149132,
     goodreadsUrl: "https://www.goodreads.com/book/show/149132",
   },
   {
@@ -3632,7 +3632,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image371145,
+    // coverImg: Image371145,
     goodreadsUrl: "https://www.goodreads.com/book/show/371145",
   },
   {
@@ -3646,7 +3646,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 159,
     dateFinished: "",
-    coverImg: Image3980,
+    // coverImg: Image3980,
     goodreadsUrl: "https://www.goodreads.com/book/show/3980",
   },
   {
@@ -3660,7 +3660,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 176,
     dateFinished: "",
-    coverImg: Image4538,
+    // coverImg: Image4538,
     goodreadsUrl: "https://www.goodreads.com/book/show/4538",
   },
   {
@@ -3674,7 +3674,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image89730,
+    // coverImg: Image89730,
     goodreadsUrl: "https://www.goodreads.com/book/show/89730",
   },
   {
@@ -3688,7 +3688,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 174,
     dateFinished: "",
-    coverImg: Image3552023,
+    // coverImg: Image3552023,
     goodreadsUrl: "https://www.goodreads.com/book/show/3552023",
   },
   {
@@ -3702,7 +3702,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 190,
     dateFinished: "",
-    coverImg: Image6545536,
+    // coverImg: Image6545536,
     goodreadsUrl: "https://www.goodreads.com/book/show/6545536",
   },
   {
@@ -3716,7 +3716,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 180,
     dateFinished: "",
-    coverImg: Image160698,
+    // coverImg: Image160698,
     goodreadsUrl: "https://www.goodreads.com/book/show/160698",
   },
   {
@@ -3731,7 +3731,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 314,
     dateFinished: "",
-    coverImg: Image22703899,
+    // coverImg: Image22703899,
     goodreadsUrl: "https://www.goodreads.com/book/show/22703899",
   },
   {
@@ -3745,7 +3745,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 421,
     dateFinished: "",
-    coverImg: Image40708807,
+    // coverImg: Image40708807,
     goodreadsUrl: "https://www.goodreads.com/book/show/40708807",
   },
   {
@@ -3759,7 +3759,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 644,
     dateFinished: "2023/04/28",
-    coverImg: Image59661342,
+    // coverImg: Image59661342,
     goodreadsUrl: "https://www.goodreads.com/book/show/59661342",
   },
   {
@@ -3773,7 +3773,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 664,
     dateFinished: "2023/04/28",
-    coverImg: Image60236906,
+    // coverImg: Image60236906,
     goodreadsUrl: "https://www.goodreads.com/book/show/60236906",
   },
   {
@@ -3787,7 +3787,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 743,
     dateFinished: "2023/04/28",
-    coverImg: Image62314351,
+    // coverImg: Image62314351,
     goodreadsUrl: "https://www.goodreads.com/book/show/62314351",
   },
   {
@@ -3801,7 +3801,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 649,
     dateFinished: "",
-    coverImg: Image40774974,
+    // coverImg: Image40774974,
     goodreadsUrl: "https://www.goodreads.com/book/show/40774974",
   },
   {
@@ -3815,7 +3815,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 409,
     dateFinished: "",
-    coverImg: Image43680932,
+    // coverImg: Image43680932,
     goodreadsUrl: "https://www.goodreads.com/book/show/43680932",
   },
   {
@@ -3829,7 +3829,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 211,
     dateFinished: "",
-    coverImg: Image18131,
+    // coverImg: Image18131,
     goodreadsUrl: "https://www.goodreads.com/book/show/18131",
   },
   {
@@ -3844,7 +3844,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 546,
     dateFinished: "",
-    coverImg: Image51187948,
+    // coverImg: Image51187948,
     goodreadsUrl: "https://www.goodreads.com/book/show/51187948",
   },
   {
@@ -3858,7 +3858,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 222,
     dateFinished: "",
-    coverImg: Image35805,
+    // coverImg: Image35805,
     goodreadsUrl: "https://www.goodreads.com/book/show/35805",
   },
   {
@@ -3872,7 +3872,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 342,
     dateFinished: "",
-    coverImg: Image2133795,
+    // coverImg: Image2133795,
     goodreadsUrl: "https://www.goodreads.com/book/show/2133795",
   },
   {
@@ -3886,7 +3886,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 201,
     dateFinished: "",
-    coverImg: Image39792427,
+    // coverImg: Image39792427,
     goodreadsUrl: "https://www.goodreads.com/book/show/39792427",
   },
   {
@@ -3900,7 +3900,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 133,
     dateFinished: "",
-    coverImg: Image3131419,
+    // coverImg: Image3131419,
     goodreadsUrl: "https://www.goodreads.com/book/show/3131419",
   },
   {
@@ -3914,7 +3914,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 156,
     dateFinished: "",
-    coverImg: Image5861926,
+    // coverImg: Image5861926,
     goodreadsUrl: "https://www.goodreads.com/book/show/5861926",
   },
   {
@@ -3928,7 +3928,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 190,
     dateFinished: "",
-    coverImg: Image6393047,
+    // coverImg: Image6393047,
     goodreadsUrl: "https://www.goodreads.com/book/show/6393047",
   },
   {
@@ -3942,7 +3942,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 240,
     dateFinished: "",
-    coverImg: Image24337,
+    // coverImg: Image24337,
     goodreadsUrl: "https://www.goodreads.com/book/show/24337",
   },
   {
@@ -3956,7 +3956,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image183656,
+    // coverImg: Image183656,
     goodreadsUrl: "https://www.goodreads.com/book/show/183656",
   },
   {
@@ -3970,7 +3970,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 241,
     dateFinished: "",
-    coverImg: Image774626,
+    // coverImg: Image774626,
     goodreadsUrl: "https://www.goodreads.com/book/show/774626",
   },
   {
@@ -3984,7 +3984,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 326,
     dateFinished: "",
-    coverImg: Image183660,
+    // coverImg: Image183660,
     goodreadsUrl: "https://www.goodreads.com/book/show/183660",
   },
   {
@@ -3998,7 +3998,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 324,
     dateFinished: "",
-    coverImg: Image15926760,
+    // coverImg: Image15926760,
     goodreadsUrl: "https://www.goodreads.com/book/show/15926760",
   },
   {
@@ -4013,7 +4013,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 268,
     dateFinished: "",
-    coverImg: Image1202,
+    // coverImg: Image1202,
     goodreadsUrl: "https://www.goodreads.com/book/show/1202",
   },
   {
@@ -4027,7 +4027,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 206,
     dateFinished: "",
-    coverImg: Image100915,
+    // coverImg: Image100915,
     goodreadsUrl: "https://www.goodreads.com/book/show/100915",
   },
   {
@@ -4041,7 +4041,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 240,
     dateFinished: "",
-    coverImg: Image121749,
+    // coverImg: Image121749,
     goodreadsUrl: "https://www.goodreads.com/book/show/121749",
   },
   {
@@ -4055,7 +4055,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 248,
     dateFinished: "",
-    coverImg: Image140225,
+    // coverImg: Image140225,
     goodreadsUrl: "https://www.goodreads.com/book/show/140225",
   },
   {
@@ -4069,7 +4069,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 243,
     dateFinished: "",
-    coverImg: Image65641,
+    // coverImg: Image65641,
     goodreadsUrl: "https://www.goodreads.com/book/show/65641",
   },
   {
@@ -4083,7 +4083,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 224,
     dateFinished: "",
-    coverImg: Image84119,
+    // coverImg: Image84119,
     goodreadsUrl: "https://www.goodreads.com/book/show/84119",
   },
   {
@@ -4097,7 +4097,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 221,
     dateFinished: "",
-    coverImg: Image65605,
+    // coverImg: Image65605,
     goodreadsUrl: "https://www.goodreads.com/book/show/65605",
   },
   {
@@ -4111,7 +4111,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 288,
     dateFinished: "",
-    coverImg: Image84369,
+    // coverImg: Image84369,
     goodreadsUrl: "https://www.goodreads.com/book/show/84369",
   },
   {
@@ -4125,7 +4125,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 767,
     dateFinished: "",
-    coverImg: Image11127,
+    // coverImg: Image11127,
     goodreadsUrl: "https://www.goodreads.com/book/show/11127",
   },
   {
@@ -4139,7 +4139,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 373,
     dateFinished: "",
-    coverImg: Image56644452,
+    // coverImg: Image56644452,
     goodreadsUrl: "https://www.goodreads.com/book/show/56644452",
   },
   {
@@ -4153,7 +4153,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 465,
     dateFinished: "2024/06/23",
-    coverImg: Image214240402,
+    // coverImg: Image214240402,
     goodreadsUrl: "https://www.goodreads.com/book/show/214240402",
   },
   {
@@ -4167,7 +4167,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 391,
     dateFinished: "",
-    coverImg: Image2548866,
+    // coverImg: Image2548866,
     goodreadsUrl: "https://www.goodreads.com/book/show/2548866",
   },
   {
@@ -4181,7 +4181,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 440,
     dateFinished: "2011/09/06",
-    coverImg: Image7747374,
+    // coverImg: Image7747374,
     goodreadsUrl: "https://www.goodreads.com/book/show/7747374",
   },
   {
@@ -4195,7 +4195,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 406,
     dateFinished: "2011/08/31",
-    coverImg: Image8659601,
+    // coverImg: Image8659601,
     goodreadsUrl: "https://www.goodreads.com/book/show/8659601",
   },
   {
@@ -4209,7 +4209,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 179,
     dateFinished: "",
-    coverImg: Image228303,
+    // coverImg: Image228303,
     goodreadsUrl: "https://www.goodreads.com/book/show/228303",
   },
   {
@@ -4223,7 +4223,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 2240,
     dateFinished: "",
-    coverImg: Image25805242,
+    // coverImg: Image25805242,
     goodreadsUrl: "https://www.goodreads.com/book/show/25805242",
   },
   {
@@ -4237,7 +4237,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 428,
     dateFinished: "",
-    coverImg: Image123004704,
+    // coverImg: Image123004704,
     goodreadsUrl: "https://www.goodreads.com/book/show/123004704",
   },
   {
@@ -4251,7 +4251,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 1083,
     dateFinished: "2024/03/24",
-    coverImg: Image206312708,
+    // coverImg: Image206312708,
     goodreadsUrl: "https://www.goodreads.com/book/show/206312708",
   },
   {
@@ -4266,7 +4266,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 100,
     dateFinished: "2024/02/24",
-    coverImg: Image181855822,
+    // coverImg: Image181855822,
     goodreadsUrl: "https://www.goodreads.com/book/show/181855822",
   },
   {
@@ -4280,7 +4280,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 372,
     dateFinished: "2011/03/04",
-    coverImg: Image18943,
+    // coverImg: Image18943,
     goodreadsUrl: "https://www.goodreads.com/book/show/18943",
   },
   {
@@ -4294,7 +4294,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 607,
     dateFinished: "",
-    coverImg: Image48738080,
+    // coverImg: Image48738080,
     goodreadsUrl: "https://www.goodreads.com/book/show/48738080",
   },
   {
@@ -4308,7 +4308,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 835,
     dateFinished: "",
-    coverImg: Image13496,
+    // coverImg: Image13496,
     goodreadsUrl: "https://www.goodreads.com/book/show/13496",
   },
   {
@@ -4322,7 +4322,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1009,
     dateFinished: "",
-    coverImg: Image10572,
+    // coverImg: Image10572,
     goodreadsUrl: "https://www.goodreads.com/book/show/10572",
   },
   {
@@ -4336,7 +4336,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1177,
     dateFinished: "",
-    coverImg: Image62291,
+    // coverImg: Image62291,
     goodreadsUrl: "https://www.goodreads.com/book/show/62291",
   },
   {
@@ -4350,7 +4350,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1060,
     dateFinished: "",
-    coverImg: Image13497,
+    // coverImg: Image13497,
     goodreadsUrl: "https://www.goodreads.com/book/show/13497",
   },
   {
@@ -4364,7 +4364,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1125,
     dateFinished: "",
-    coverImg: Image10664113,
+    // coverImg: Image10664113,
     goodreadsUrl: "https://www.goodreads.com/book/show/10664113",
   },
   {
@@ -4378,7 +4378,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 453,
     dateFinished: "",
-    coverImg: Image8112318,
+    // coverImg: Image8112318,
     goodreadsUrl: "https://www.goodreads.com/book/show/8112318",
   },
   {
@@ -4392,7 +4392,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 272,
     dateFinished: "2011/09/13",
-    coverImg: Image4835838,
+    // coverImg: Image4835838,
     goodreadsUrl: "https://www.goodreads.com/book/show/4835838",
   },
   {
@@ -4406,7 +4406,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "2011/09/14",
-    coverImg: Image6696465,
+    // coverImg: Image6696465,
     goodreadsUrl: "https://www.goodreads.com/book/show/6696465",
   },
   {
@@ -4420,7 +4420,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 341,
     dateFinished: "",
-    coverImg: Image10473214,
+    // coverImg: Image10473214,
     goodreadsUrl: "https://www.goodreads.com/book/show/10473214",
   },
   {
@@ -4434,7 +4434,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 221,
     dateFinished: "",
-    coverImg: Image171020,
+    // coverImg: Image171020,
     goodreadsUrl: "https://www.goodreads.com/book/show/171020",
   },
   {
@@ -4448,7 +4448,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image363851,
+    // coverImg: Image363851,
     goodreadsUrl: "https://www.goodreads.com/book/show/363851",
   },
   {
@@ -4462,7 +4462,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 256,
     dateFinished: "",
-    coverImg: Image1887655,
+    // coverImg: Image1887655,
     goodreadsUrl: "https://www.goodreads.com/book/show/1887655",
   },
   {
@@ -4476,7 +4476,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 322,
     dateFinished: "",
-    coverImg: Image3223761,
+    // coverImg: Image3223761,
     goodreadsUrl: "https://www.goodreads.com/book/show/3223761",
   },
   {
@@ -4490,7 +4490,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "2023/08/11",
-    coverImg: Image36684672,
+    // coverImg: Image36684672,
     goodreadsUrl: "https://www.goodreads.com/book/show/36684672",
   },
   {
@@ -4504,7 +4504,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 350,
     dateFinished: "2023/08/13",
-    coverImg: Image127584,
+    // coverImg: Image127584,
     goodreadsUrl: "https://www.goodreads.com/book/show/127584",
   },
   {
@@ -4518,7 +4518,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 192,
     dateFinished: "2023/08/10",
-    coverImg: Image28541,
+    // coverImg: Image28541,
     goodreadsUrl: "https://www.goodreads.com/book/show/28541",
   },
   {
@@ -4532,7 +4532,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 288,
     dateFinished: "2023/08/12",
-    coverImg: Image28547,
+    // coverImg: Image28547,
     goodreadsUrl: "https://www.goodreads.com/book/show/28547",
   },
   {
@@ -4546,7 +4546,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 243,
     dateFinished: "2023/08/13",
-    coverImg: Image28553,
+    // coverImg: Image28553,
     goodreadsUrl: "https://www.goodreads.com/book/show/28553",
   },
   {
@@ -4560,7 +4560,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 286,
     dateFinished: "2023/09/07",
-    coverImg: Image61958,
+    // coverImg: Image61958,
     goodreadsUrl: "https://www.goodreads.com/book/show/61958",
   },
   {
@@ -4574,7 +4574,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 468,
     dateFinished: "2023/08/21",
-    coverImg: Image127586,
+    // coverImg: Image127586,
     goodreadsUrl: "https://www.goodreads.com/book/show/127586",
   },
   {
@@ -4588,7 +4588,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 219,
     dateFinished: "",
-    coverImg: Image41812788,
+    // coverImg: Image41812788,
     goodreadsUrl: "https://www.goodreads.com/book/show/41812788",
   },
   {
@@ -4602,7 +4602,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image46223324,
+    // coverImg: Image46223324,
     goodreadsUrl: "https://www.goodreads.com/book/show/46223324",
   },
   {
@@ -4616,7 +4616,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 328,
     dateFinished: "",
-    coverImg: Image1649725,
+    // coverImg: Image1649725,
     goodreadsUrl: "https://www.goodreads.com/book/show/1649725",
   },
   {
@@ -4630,7 +4630,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 352,
     dateFinished: "",
-    coverImg: Image1947017,
+    // coverImg: Image1947017,
     goodreadsUrl: "https://www.goodreads.com/book/show/1947017",
   },
   {
@@ -4644,7 +4644,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image6261395,
+    // coverImg: Image6261395,
     goodreadsUrl: "https://www.goodreads.com/book/show/6261395",
   },
   {
@@ -4658,7 +4658,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 720,
     dateFinished: "",
-    coverImg: Image153747,
+    // coverImg: Image153747,
     goodreadsUrl: "https://www.goodreads.com/book/show/153747",
   },
   {
@@ -4673,7 +4673,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "2023/10/01",
-    coverImg: Image59801798,
+    // coverImg: Image59801798,
     goodreadsUrl: "https://www.goodreads.com/book/show/59801798",
   },
   {
@@ -4687,7 +4687,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 498,
     dateFinished: "",
-    coverImg: Image41865,
+    // coverImg: Image41865,
     goodreadsUrl: "https://www.goodreads.com/book/show/41865",
   },
   {
@@ -4701,7 +4701,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 563,
     dateFinished: "",
-    coverImg: Image49041,
+    // coverImg: Image49041,
     goodreadsUrl: "https://www.goodreads.com/book/show/49041",
   },
   {
@@ -4715,7 +4715,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 629,
     dateFinished: "",
-    coverImg: Image428263,
+    // coverImg: Image428263,
     goodreadsUrl: "https://www.goodreads.com/book/show/428263",
   },
   {
@@ -4729,7 +4729,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 756,
     dateFinished: "",
-    coverImg: Image1162543,
+    // coverImg: Image1162543,
     goodreadsUrl: "https://www.goodreads.com/book/show/1162543",
   },
   {
@@ -4743,7 +4743,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 640,
     dateFinished: "2022/04/01",
-    coverImg: Image19888971,
+    // coverImg: Image19888971,
     goodreadsUrl: "https://www.goodreads.com/book/show/19888971",
   },
   {
@@ -4757,7 +4757,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 608,
     dateFinished: "",
-    coverImg: Image19882713,
+    // coverImg: Image19882713,
     goodreadsUrl: "https://www.goodreads.com/book/show/19882713",
   },
   {
@@ -4772,7 +4772,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 448,
     dateFinished: "",
-    coverImg: Image12829147,
+    // coverImg: Image12829147,
     goodreadsUrl: "https://www.goodreads.com/book/show/12829147",
   },
   {
@@ -4787,7 +4787,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 285,
     dateFinished: "",
-    coverImg: Image33003444,
+    // coverImg: Image33003444,
     goodreadsUrl: "https://www.goodreads.com/book/show/33003444",
   },
   {
@@ -4801,7 +4801,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 224,
     dateFinished: "",
-    coverImg: Image35700182,
+    // coverImg: Image35700182,
     goodreadsUrl: "https://www.goodreads.com/book/show/35700182",
   },
   {
@@ -4815,7 +4815,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 276,
     dateFinished: "",
-    coverImg: Image82783,
+    // coverImg: Image82783,
     goodreadsUrl: "https://www.goodreads.com/book/show/82783",
   },
   {
@@ -4829,7 +4829,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 352,
     dateFinished: "",
-    coverImg: Image6949153,
+    // coverImg: Image6949153,
     goodreadsUrl: "https://www.goodreads.com/book/show/6949153",
   },
   {
@@ -4843,7 +4843,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 277,
     dateFinished: "",
-    coverImg: Image1303564,
+    // coverImg: Image1303564,
     goodreadsUrl: "https://www.goodreads.com/book/show/1303564",
   },
   {
@@ -4857,7 +4857,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 306,
     dateFinished: "",
-    coverImg: Image828483,
+    // coverImg: Image828483,
     goodreadsUrl: "https://www.goodreads.com/book/show/828483",
   },
   {
@@ -4871,7 +4871,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 360,
     dateFinished: "",
-    coverImg: Image655601,
+    // coverImg: Image655601,
     goodreadsUrl: "https://www.goodreads.com/book/show/655601",
   },
   {
@@ -4885,7 +4885,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 320,
     dateFinished: "",
-    coverImg: Image828482,
+    // coverImg: Image828482,
     goodreadsUrl: "https://www.goodreads.com/book/show/828482",
   },
   {
@@ -4899,7 +4899,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 330,
     dateFinished: "",
-    coverImg: Image479650,
+    // coverImg: Image479650,
     goodreadsUrl: "https://www.goodreads.com/book/show/479650",
   },
   {
@@ -4913,7 +4913,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 389,
     dateFinished: "",
-    coverImg: Image2025787,
+    // coverImg: Image2025787,
     goodreadsUrl: "https://www.goodreads.com/book/show/2025787",
   },
   {
@@ -4927,7 +4927,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 312,
     dateFinished: "",
-    coverImg: Image1291212,
+    // coverImg: Image1291212,
     goodreadsUrl: "https://www.goodreads.com/book/show/1291212",
   },
   {
@@ -4941,7 +4941,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 329,
     dateFinished: "",
-    coverImg: Image2638786,
+    // coverImg: Image2638786,
     goodreadsUrl: "https://www.goodreads.com/book/show/2638786",
   },
   {
@@ -4955,7 +4955,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 308,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/12674502",
   },
   {
@@ -4969,7 +4969,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 538,
     dateFinished: "",
-    coverImg: Image53086262,
+    // coverImg: Image53086262,
     goodreadsUrl: "https://www.goodreads.com/book/show/53086262",
   },
   {
@@ -4983,7 +4983,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 457,
     dateFinished: "",
-    coverImg: Image8306745,
+    // coverImg: Image8306745,
     goodreadsUrl: "https://www.goodreads.com/book/show/8306745",
   },
   {
@@ -4997,7 +4997,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 351,
     dateFinished: "",
-    coverImg: Image44652,
+    // coverImg: Image44652,
     goodreadsUrl: "https://www.goodreads.com/book/show/44652",
   },
   {
@@ -5011,7 +5011,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 456,
     dateFinished: "2009/01/01",
-    coverImg: Image784911,
+    // coverImg: Image784911,
     goodreadsUrl: "https://www.goodreads.com/book/show/784911",
   },
   {
@@ -5025,7 +5025,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 477,
     dateFinished: "",
-    coverImg: Image2146957,
+    // coverImg: Image2146957,
     goodreadsUrl: "https://www.goodreads.com/book/show/2146957",
   },
   {
@@ -5039,7 +5039,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 535,
     dateFinished: "",
-    coverImg: Image5217282,
+    // coverImg: Image5217282,
     goodreadsUrl: "https://www.goodreads.com/book/show/5217282",
   },
   {
@@ -5053,7 +5053,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 593,
     dateFinished: "",
-    coverImg: Image7243142,
+    // coverImg: Image7243142,
     goodreadsUrl: "https://www.goodreads.com/book/show/7243142",
   },
   {
@@ -5068,7 +5068,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 354,
     dateFinished: "",
-    coverImg: Image60190659,
+    // coverImg: Image60190659,
     goodreadsUrl: "https://www.goodreads.com/book/show/60190659",
   },
   {
@@ -5082,7 +5082,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 486,
     dateFinished: "",
-    coverImg: Image78790668,
+    // coverImg: Image78790668,
     goodreadsUrl: "https://www.goodreads.com/book/show/78790668",
   },
   {
@@ -5096,7 +5096,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 835,
     dateFinished: "",
-    coverImg: Image62917275,
+    // coverImg: Image62917275,
     goodreadsUrl: "https://www.goodreads.com/book/show/62917275",
   },
   {
@@ -5110,7 +5110,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 570,
     dateFinished: "",
-    coverImg: Image75711353,
+    // coverImg: Image75711353,
     goodreadsUrl: "https://www.goodreads.com/book/show/75711353",
   },
   {
@@ -5124,7 +5124,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 627,
     dateFinished: "2023/05/24",
-    coverImg: Image161092622,
+    // coverImg: Image161092622,
     goodreadsUrl: "https://www.goodreads.com/book/show/161092622",
   },
   {
@@ -5138,7 +5138,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 496,
     dateFinished: "",
-    coverImg: Image59224847,
+    // coverImg: Image59224847,
     goodreadsUrl: "https://www.goodreads.com/book/show/59224847",
   },
   {
@@ -5152,7 +5152,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 720,
     dateFinished: "",
-    coverImg: Image6593686,
+    // coverImg: Image6593686,
     goodreadsUrl: "https://www.goodreads.com/book/show/6593686",
   },
   {
@@ -5166,7 +5166,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 528,
     dateFinished: "",
-    coverImg: Image48730174,
+    // coverImg: Image48730174,
     goodreadsUrl: "https://www.goodreads.com/book/show/48730174",
   },
   {
@@ -5180,7 +5180,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 744,
     dateFinished: "2023/11/01",
-    coverImg: Image178798504,
+    // coverImg: Image178798504,
     goodreadsUrl: "https://www.goodreads.com/book/show/178798504",
   },
   {
@@ -5194,7 +5194,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 444,
     dateFinished: "2024/01/01",
-    coverImg: Image203274611,
+    // coverImg: Image203274611,
     goodreadsUrl: "https://www.goodreads.com/book/show/203274611",
   },
   {
@@ -5208,7 +5208,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 356,
     dateFinished: "2023/02/01",
-    coverImg: Image28876,
+    // coverImg: Image28876,
     goodreadsUrl: "https://www.goodreads.com/book/show/28876",
   },
   {
@@ -5222,7 +5222,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 398,
     dateFinished: "2023/02/01",
-    coverImg: Image14069,
+    // coverImg: Image14069,
     goodreadsUrl: "https://www.goodreads.com/book/show/14069",
   },
   {
@@ -5236,7 +5236,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 365,
     dateFinished: "2023/02/02",
-    coverImg: Image91989,
+    // coverImg: Image91989,
     goodreadsUrl: "https://www.goodreads.com/book/show/91989",
   },
   {
@@ -5250,7 +5250,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "2019/12/14",
-    coverImg: Image129510,
+    // coverImg: Image129510,
     goodreadsUrl: "https://www.goodreads.com/book/show/129510",
   },
   {
@@ -5264,7 +5264,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 352,
     dateFinished: "2019/12/15",
-    coverImg: Image891593,
+    // coverImg: Image891593,
     goodreadsUrl: "https://www.goodreads.com/book/show/891593",
   },
   {
@@ -5278,7 +5278,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 274,
     dateFinished: "2019/12/16",
-    coverImg: Image7038489,
+    // coverImg: Image7038489,
     goodreadsUrl: "https://www.goodreads.com/book/show/7038489",
   },
   {
@@ -5292,7 +5292,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 325,
     dateFinished: "2019/12/17",
-    coverImg: Image12069434,
+    // coverImg: Image12069434,
     goodreadsUrl: "https://www.goodreads.com/book/show/12069434",
   },
   {
@@ -5306,7 +5306,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 432,
     dateFinished: "2023/02/03",
-    coverImg: Image16156292,
+    // coverImg: Image16156292,
     goodreadsUrl: "https://www.goodreads.com/book/show/16156292",
   },
   {
@@ -5320,7 +5320,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 380,
     dateFinished: "2019/12/20",
-    coverImg: Image20404555,
+    // coverImg: Image20404555,
     goodreadsUrl: "https://www.goodreads.com/book/show/20404555",
   },
   {
@@ -5334,7 +5334,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 323,
     dateFinished: "",
-    coverImg: Image50548197,
+    // coverImg: Image50548197,
     goodreadsUrl: "https://www.goodreads.com/book/show/50548197",
   },
   {
@@ -5348,7 +5348,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 388,
     dateFinished: "",
-    coverImg: Image55559887,
+    // coverImg: Image55559887,
     goodreadsUrl: "https://www.goodreads.com/book/show/55559887",
   },
   {
@@ -5362,7 +5362,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 407,
     dateFinished: "",
-    coverImg: Image55858638,
+    // coverImg: Image55858638,
     goodreadsUrl: "https://www.goodreads.com/book/show/55858638",
   },
   {
@@ -5376,7 +5376,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 184,
     dateFinished: "2023/02/15",
-    coverImg: Image36065708,
+    // coverImg: Image36065708,
     goodreadsUrl: "https://www.goodreads.com/book/show/36065708",
   },
   {
@@ -5390,7 +5390,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 850,
     dateFinished: "2022/09/01",
-    coverImg: Image55559974,
+    // coverImg: Image55559974,
     goodreadsUrl: "https://www.goodreads.com/book/show/55559974",
   },
   {
@@ -5404,7 +5404,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1049,
     dateFinished: "2023/12/01",
-    coverImg: Image188994646,
+    // coverImg: Image188994646,
     goodreadsUrl: "https://www.goodreads.com/book/show/188994646",
   },
   {
@@ -5418,7 +5418,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 289,
     dateFinished: "",
-    coverImg: Image38058832,
+    // coverImg: Image38058832,
     goodreadsUrl: "https://www.goodreads.com/book/show/38058832",
   },
   {
@@ -5432,7 +5432,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 366,
     dateFinished: "",
-    coverImg: Image40382407,
+    // coverImg: Image40382407,
     goodreadsUrl: "https://www.goodreads.com/book/show/40382407",
   },
   {
@@ -5446,7 +5446,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 501,
     dateFinished: "2011/10/05",
-    coverImg: Image428042,
+    // coverImg: Image428042,
     goodreadsUrl: "https://www.goodreads.com/book/show/428042",
   },
   {
@@ -5460,7 +5460,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 544,
     dateFinished: "",
-    coverImg: Image428036,
+    // coverImg: Image428036,
     goodreadsUrl: "https://www.goodreads.com/book/show/428036",
   },
   {
@@ -5474,7 +5474,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 490,
     dateFinished: "",
-    coverImg: Image3407703,
+    // coverImg: Image3407703,
     goodreadsUrl: "https://www.goodreads.com/book/show/3407703",
   },
   {
@@ -5488,7 +5488,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 122,
     dateFinished: "",
-    coverImg: Image7613,
+    // coverImg: Image7613,
     goodreadsUrl: "https://www.goodreads.com/book/show/7613",
   },
   {
@@ -5502,7 +5502,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 432,
     dateFinished: "",
-    coverImg: Image15811545,
+    // coverImg: Image15811545,
     goodreadsUrl: "https://www.goodreads.com/book/show/15811545",
   },
   {
@@ -5516,7 +5516,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 503,
     dateFinished: "",
-    coverImg: Image113436,
+    // coverImg: Image113436,
     goodreadsUrl: "https://www.goodreads.com/book/show/113436",
   },
   {
@@ -5530,7 +5530,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 704,
     dateFinished: "",
-    coverImg: Image45978,
+    // coverImg: Image45978,
     goodreadsUrl: "https://www.goodreads.com/book/show/45978",
   },
   {
@@ -5544,7 +5544,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 748,
     dateFinished: "",
-    coverImg: Image2248573,
+    // coverImg: Image2248573,
     goodreadsUrl: "https://www.goodreads.com/book/show/2248573",
   },
   {
@@ -5558,7 +5558,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 849,
     dateFinished: "",
-    coverImg: Image7664041,
+    // coverImg: Image7664041,
     goodreadsUrl: "https://www.goodreads.com/book/show/7664041",
   },
   {
@@ -5572,7 +5572,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 688,
     dateFinished: "",
-    coverImg: Image123206298,
+    // coverImg: Image123206298,
     goodreadsUrl: "https://www.goodreads.com/book/show/123206298",
   },
   {
@@ -5586,7 +5586,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 190,
     dateFinished: "",
-    coverImg: Image6697305,
+    // coverImg: Image6697305,
     goodreadsUrl: "https://www.goodreads.com/book/show/6697305",
   },
   {
@@ -5600,7 +5600,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 163,
     dateFinished: "",
-    coverImg: Image164539,
+    // coverImg: Image164539,
     goodreadsUrl: "https://www.goodreads.com/book/show/164539",
   },
   {
@@ -5614,7 +5614,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 507,
     dateFinished: "",
-    coverImg: Image161887,
+    // coverImg: Image161887,
     goodreadsUrl: "https://www.goodreads.com/book/show/161887",
   },
   {
@@ -5628,7 +5628,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 295,
     dateFinished: "",
-    coverImg: Image295305,
+    // coverImg: Image295305,
     goodreadsUrl: "https://www.goodreads.com/book/show/295305",
   },
   {
@@ -5642,7 +5642,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 356,
     dateFinished: "",
-    coverImg: Image295323,
+    // coverImg: Image295323,
     goodreadsUrl: "https://www.goodreads.com/book/show/295323",
   },
   {
@@ -5656,7 +5656,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 266,
     dateFinished: "",
-    coverImg: Image1902241,
+    // coverImg: Image1902241,
     goodreadsUrl: "https://www.goodreads.com/book/show/1902241",
   },
   {
@@ -5670,7 +5670,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 148,
     dateFinished: "",
-    coverImg: Image39963,
+    // coverImg: Image39963,
     goodreadsUrl: "https://www.goodreads.com/book/show/39963",
   },
   {
@@ -5684,7 +5684,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2021/12/01",
-    coverImg: Image45807334,
+    // coverImg: Image45807334,
     goodreadsUrl: "https://www.goodreads.com/book/show/45807334",
   },
   {
@@ -5698,7 +5698,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2021/12/01",
-    coverImg: Image49109717,
+    // coverImg: Image49109717,
     goodreadsUrl: "https://www.goodreads.com/book/show/49109717",
   },
   {
@@ -5712,7 +5712,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2021/12/01",
-    coverImg: Image49886603,
+    // coverImg: Image49886603,
     goodreadsUrl: "https://www.goodreads.com/book/show/49886603",
   },
   {
@@ -5726,7 +5726,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image36458711,
+    // coverImg: Image36458711,
     goodreadsUrl: "https://www.goodreads.com/book/show/36458711",
   },
   {
@@ -5740,7 +5740,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 581,
     dateFinished: "",
-    coverImg: Image13829,
+    // coverImg: Image13829,
     goodreadsUrl: "https://www.goodreads.com/book/show/13829",
   },
   {
@@ -5754,7 +5754,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 554,
     dateFinished: "",
-    coverImg: Image153779,
+    // coverImg: Image153779,
     goodreadsUrl: "https://www.goodreads.com/book/show/153779",
   },
   {
@@ -5768,7 +5768,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 596,
     dateFinished: "",
-    coverImg: Image2964700,
+    // coverImg: Image2964700,
     goodreadsUrl: "https://www.goodreads.com/book/show/2964700",
   },
   {
@@ -5782,7 +5782,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 252,
     dateFinished: "",
-    coverImg: Image58889,
+    // coverImg: Image58889,
     goodreadsUrl: "https://www.goodreads.com/book/show/58889",
   },
   {
@@ -5796,7 +5796,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 251,
     dateFinished: "",
-    coverImg: Image58890,
+    // coverImg: Image58890,
     goodreadsUrl: "https://www.goodreads.com/book/show/58890",
   },
   {
@@ -5810,7 +5810,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 232,
     dateFinished: "",
-    coverImg: Image58894,
+    // coverImg: Image58894,
     goodreadsUrl: "https://www.goodreads.com/book/show/58894",
   },
   {
@@ -5824,7 +5824,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 258,
     dateFinished: "",
-    coverImg: Image58893,
+    // coverImg: Image58893,
     goodreadsUrl: "https://www.goodreads.com/book/show/58893",
   },
   {
@@ -5838,7 +5838,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 453,
     dateFinished: "",
-    coverImg: Image24431,
+    // coverImg: Image24431,
     goodreadsUrl: "https://www.goodreads.com/book/show/24431",
   },
   {
@@ -5852,7 +5852,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 469,
     dateFinished: "",
-    coverImg: Image153780,
+    // coverImg: Image153780,
     goodreadsUrl: "https://www.goodreads.com/book/show/153780",
   },
   {
@@ -5866,7 +5866,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 362,
     dateFinished: "",
-    coverImg: Image13836,
+    // coverImg: Image13836,
     goodreadsUrl: "https://www.goodreads.com/book/show/13836",
   },
   {
@@ -5880,7 +5880,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 344,
     dateFinished: "",
-    coverImg: Image24094,
+    // coverImg: Image24094,
     goodreadsUrl: "https://www.goodreads.com/book/show/24094",
   },
   {
@@ -5894,7 +5894,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 358,
     dateFinished: "",
-    coverImg: Image13833,
+    // coverImg: Image13833,
     goodreadsUrl: "https://www.goodreads.com/book/show/13833",
   },
   {
@@ -5908,7 +5908,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 347,
     dateFinished: "",
-    coverImg: Image13834,
+    // coverImg: Image13834,
     goodreadsUrl: "https://www.goodreads.com/book/show/13834",
   },
   {
@@ -5922,7 +5922,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 240,
     dateFinished: "",
-    coverImg: Image153784,
+    // coverImg: Image153784,
     goodreadsUrl: "https://www.goodreads.com/book/show/153784",
   },
   {
@@ -5936,7 +5936,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 290,
     dateFinished: "",
-    coverImg: Image153785,
+    // coverImg: Image153785,
     goodreadsUrl: "https://www.goodreads.com/book/show/153785",
   },
   {
@@ -5950,7 +5950,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 400,
     dateFinished: "",
-    coverImg: Image153795,
+    // coverImg: Image153795,
     goodreadsUrl: "https://www.goodreads.com/book/show/153795",
   },
   {
@@ -5964,7 +5964,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image153800,
+    // coverImg: Image153800,
     goodreadsUrl: "https://www.goodreads.com/book/show/153800",
   },
   {
@@ -5978,7 +5978,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 274,
     dateFinished: "",
-    coverImg: Image13831,
+    // coverImg: Image13831,
     goodreadsUrl: "https://www.goodreads.com/book/show/13831",
   },
   {
@@ -5992,7 +5992,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 264,
     dateFinished: "",
-    coverImg: Image13835,
+    // coverImg: Image13835,
     goodreadsUrl: "https://www.goodreads.com/book/show/13835",
   },
   {
@@ -6006,7 +6006,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 284,
     dateFinished: "",
-    coverImg: Image13830,
+    // coverImg: Image13830,
     goodreadsUrl: "https://www.goodreads.com/book/show/13830",
   },
   {
@@ -6020,7 +6020,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image13837,
+    // coverImg: Image13837,
     goodreadsUrl: "https://www.goodreads.com/book/show/13837",
   },
   {
@@ -6034,7 +6034,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 264,
     dateFinished: "",
-    coverImg: Image153781,
+    // coverImg: Image153781,
     goodreadsUrl: "https://www.goodreads.com/book/show/153781",
   },
   {
@@ -6048,7 +6048,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 300,
     dateFinished: "",
-    coverImg: Image24093,
+    // coverImg: Image24093,
     goodreadsUrl: "https://www.goodreads.com/book/show/24093",
   },
   {
@@ -6062,7 +6062,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 355,
     dateFinished: "",
-    coverImg: Image153792,
+    // coverImg: Image153792,
     goodreadsUrl: "https://www.goodreads.com/book/show/153792",
   },
   {
@@ -6076,7 +6076,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 357,
     dateFinished: "",
-    coverImg: Image153782,
+    // coverImg: Image153782,
     goodreadsUrl: "https://www.goodreads.com/book/show/153782",
   },
   {
@@ -6090,7 +6090,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 550,
     dateFinished: "",
-    coverImg: Image153783,
+    // coverImg: Image153783,
     goodreadsUrl: "https://www.goodreads.com/book/show/153783",
   },
   {
@@ -6104,7 +6104,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 476,
     dateFinished: "",
-    coverImg: Image35465844,
+    // coverImg: Image35465844,
     goodreadsUrl: "https://www.goodreads.com/book/show/35465844",
   },
   {
@@ -6118,7 +6118,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 675,
     dateFinished: "",
-    coverImg: Image195406190,
+    // coverImg: Image195406190,
     goodreadsUrl: "https://www.goodreads.com/book/show/195406190",
   },
   {
@@ -6132,7 +6132,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 64,
     dateFinished: "",
-    coverImg: Image55162473,
+    // coverImg: Image55162473,
     goodreadsUrl: "https://www.goodreads.com/book/show/55162473",
   },
   {
@@ -6146,7 +6146,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1235,
     dateFinished: "",
-    coverImg: Image41033158,
+    // coverImg: Image41033158,
     goodreadsUrl: "https://www.goodreads.com/book/show/41033158",
   },
   {
@@ -6160,7 +6160,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1718,
     dateFinished: "",
-    coverImg: Image41180829,
+    // coverImg: Image41180829,
     goodreadsUrl: "https://www.goodreads.com/book/show/41180829",
   },
   {
@@ -6174,7 +6174,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1862,
     dateFinished: "",
-    coverImg: Image41241968,
+    // coverImg: Image41241968,
     goodreadsUrl: "https://www.goodreads.com/book/show/41241968",
   },
   {
@@ -6188,7 +6188,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 974,
     dateFinished: "",
-    coverImg: Image55924416,
+    // coverImg: Image55924416,
     goodreadsUrl: "https://www.goodreads.com/book/show/55924416",
   },
   {
@@ -6202,7 +6202,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1109,
     dateFinished: "",
-    coverImg: Image57913863,
+    // coverImg: Image57913863,
     goodreadsUrl: "https://www.goodreads.com/book/show/57913863",
   },
   {
@@ -6216,7 +6216,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 2392,
     dateFinished: "",
-    coverImg: Image41477610,
+    // coverImg: Image41477610,
     goodreadsUrl: "https://www.goodreads.com/book/show/41477610",
   },
   {
@@ -6230,7 +6230,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1791,
     dateFinished: "",
-    coverImg: Image58960282,
+    // coverImg: Image58960282,
     goodreadsUrl: "https://www.goodreads.com/book/show/58960282",
   },
   {
@@ -6244,7 +6244,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1080,
     dateFinished: "",
-    coverImg: Image60525437,
+    // coverImg: Image60525437,
     goodreadsUrl: "https://www.goodreads.com/book/show/60525437",
   },
   {
@@ -6258,7 +6258,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 3660,
     dateFinished: "",
-    coverImg: Image44300414,
+    // coverImg: Image44300414,
     goodreadsUrl: "https://www.goodreads.com/book/show/44300414",
   },
   {
@@ -6272,7 +6272,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1684,
     dateFinished: "",
-    coverImg: Image61880401,
+    // coverImg: Image61880401,
     goodreadsUrl: "https://www.goodreads.com/book/show/61880401",
   },
   {
@@ -6286,7 +6286,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1651,
     dateFinished: "",
-    coverImg: Image83738056,
+    // coverImg: Image83738056,
     goodreadsUrl: "https://www.goodreads.com/book/show/83738056",
   },
   {
@@ -6300,7 +6300,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 5341,
     dateFinished: "",
-    coverImg: Image45554269,
+    // coverImg: Image45554269,
     goodreadsUrl: "https://www.goodreads.com/book/show/45554269",
   },
   {
@@ -6314,7 +6314,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1526,
     dateFinished: "",
-    coverImg: Image176941314,
+    // coverImg: Image176941314,
     goodreadsUrl: "https://www.goodreads.com/book/show/176941314",
   },
   {
@@ -6328,7 +6328,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 6790,
     dateFinished: "",
-    coverImg: Image53298908,
+    // coverImg: Image53298908,
     goodreadsUrl: "https://www.goodreads.com/book/show/53298908",
   },
   {
@@ -6342,7 +6342,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 9311,
     dateFinished: "",
-    coverImg: Image56495997,
+    // coverImg: Image56495997,
     goodreadsUrl: "https://www.goodreads.com/book/show/56495997",
   },
   {
@@ -6356,7 +6356,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 287,
     dateFinished: "",
-    coverImg: Image601238,
+    // coverImg: Image601238,
     goodreadsUrl: "https://www.goodreads.com/book/show/601238",
   },
   {
@@ -6370,7 +6370,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 394,
     dateFinished: "",
-    coverImg: Image64222,
+    // coverImg: Image64222,
     goodreadsUrl: "https://www.goodreads.com/book/show/64222",
   },
   {
@@ -6384,7 +6384,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 182,
     dateFinished: "",
-    coverImg: Image902,
+    // coverImg: Image902,
     goodreadsUrl: "https://www.goodreads.com/book/show/902",
   },
   {
@@ -6399,7 +6399,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 336,
     dateFinished: "",
-    coverImg: Image43261151,
+    // coverImg: Image43261151,
     goodreadsUrl: "https://www.goodreads.com/book/show/43261151",
   },
   {
@@ -6413,7 +6413,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: "",
     dateFinished: "2023/05/17",
-    coverImg: Image55880798,
+    // coverImg: Image55880798,
     goodreadsUrl: "https://www.goodreads.com/book/show/55880798",
   },
   {
@@ -6427,7 +6427,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 377,
     dateFinished: "",
-    coverImg: Image28187,
+    // coverImg: Image28187,
     goodreadsUrl: "https://www.goodreads.com/book/show/28187",
   },
   {
@@ -6441,7 +6441,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 279,
     dateFinished: "",
-    coverImg: Image28186,
+    // coverImg: Image28186,
     goodreadsUrl: "https://www.goodreads.com/book/show/28186",
   },
   {
@@ -6455,7 +6455,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "",
-    coverImg: Image561456,
+    // coverImg: Image561456,
     goodreadsUrl: "https://www.goodreads.com/book/show/561456",
   },
   {
@@ -6469,7 +6469,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 361,
     dateFinished: "",
-    coverImg: Image2120932,
+    // coverImg: Image2120932,
     goodreadsUrl: "https://www.goodreads.com/book/show/2120932",
   },
   {
@@ -6483,7 +6483,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 11,
     dateFinished: "",
-    coverImg: Image4502507,
+    // coverImg: Image4502507,
     goodreadsUrl: "https://www.goodreads.com/book/show/4502507",
   },
   {
@@ -6497,7 +6497,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 151,
     dateFinished: "",
-    coverImg: Image3992598,
+    // coverImg: Image3992598,
     goodreadsUrl: "https://www.goodreads.com/book/show/3992598",
   },
   {
@@ -6511,7 +6511,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 220,
     dateFinished: "",
-    coverImg: Image2921082,
+    // coverImg: Image2921082,
     goodreadsUrl: "https://www.goodreads.com/book/show/2921082",
   },
   {
@@ -6525,7 +6525,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 14,
     dateFinished: "",
-    coverImg: Image7624272,
+    // coverImg: Image7624272,
     goodreadsUrl: "https://www.goodreads.com/book/show/7624272",
   },
   {
@@ -6539,7 +6539,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 521,
     dateFinished: "",
-    coverImg: Image9520360,
+    // coverImg: Image9520360,
     goodreadsUrl: "https://www.goodreads.com/book/show/9520360",
   },
   {
@@ -6553,7 +6553,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 528,
     dateFinished: "",
-    coverImg: Image7090447,
+    // coverImg: Image7090447,
     goodreadsUrl: "https://www.goodreads.com/book/show/7090447",
   },
   {
@@ -6567,7 +6567,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 452,
     dateFinished: "",
-    coverImg: Image9067850,
+    // coverImg: Image9067850,
     goodreadsUrl: "https://www.goodreads.com/book/show/9067850",
   },
   {
@@ -6581,7 +6581,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 303,
     dateFinished: "2011/08/30",
-    coverImg: Image32145,
+    // coverImg: Image32145,
     goodreadsUrl: "https://www.goodreads.com/book/show/32145",
   },
   {
@@ -6595,7 +6595,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 419,
     dateFinished: "",
-    coverImg: Image34311458,
+    // coverImg: Image34311458,
     goodreadsUrl: "https://www.goodreads.com/book/show/34311458",
   },
   {
@@ -6609,7 +6609,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 448,
     dateFinished: "",
-    coverImg: Image38236125,
+    // coverImg: Image38236125,
     goodreadsUrl: "https://www.goodreads.com/book/show/38236125",
   },
   {
@@ -6623,7 +6623,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 487,
     dateFinished: "",
-    coverImg: Image8306857,
+    // coverImg: Image8306857,
     goodreadsUrl: "https://www.goodreads.com/book/show/8306857",
   },
   {
@@ -6637,7 +6637,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 676,
     dateFinished: "",
-    coverImg: Image20562717,
+    // coverImg: Image20562717,
     goodreadsUrl: "https://www.goodreads.com/book/show/20562717",
   },
   {
@@ -6651,7 +6651,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 1000,
     dateFinished: "2021/05/20",
-    coverImg: Image9531737,
+    // coverImg: Image9531737,
     goodreadsUrl: "https://www.goodreads.com/book/show/9531737",
   },
   {
@@ -6665,7 +6665,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 173,
     dateFinished: "",
-    coverImg: Image21801768,
+    // coverImg: Image21801768,
     goodreadsUrl: "https://www.goodreads.com/book/show/21801768",
   },
   {
@@ -6679,7 +6679,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 625,
     dateFinished: "",
-    coverImg: Image34403860,
+    // coverImg: Image34403860,
     goodreadsUrl: "https://www.goodreads.com/book/show/34403860",
   },
   {
@@ -6693,7 +6693,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 742,
     dateFinished: "",
-    coverImg: Image40126485,
+    // coverImg: Image40126485,
     goodreadsUrl: "https://www.goodreads.com/book/show/40126485",
   },
   {
@@ -6707,7 +6707,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 310,
     dateFinished: "",
-    coverImg: Image24928019,
+    // coverImg: Image24928019,
     goodreadsUrl: "https://www.goodreads.com/book/show/24928019",
   },
   {
@@ -6721,7 +6721,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 621,
     dateFinished: "",
-    coverImg: Image27207706,
+    // coverImg: Image27207706,
     goodreadsUrl: "https://www.goodreads.com/book/show/27207706",
   },
   {
@@ -6735,7 +6735,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 309,
     dateFinished: "",
-    coverImg: Image3,
+    // coverImg: Image3,
     goodreadsUrl: "https://www.goodreads.com/book/show/3",
   },
   {
@@ -6749,7 +6749,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 352,
     dateFinished: "",
-    coverImg: Image15881,
+    // coverImg: Image15881,
     goodreadsUrl: "https://www.goodreads.com/book/show/15881",
   },
   {
@@ -6763,7 +6763,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 435,
     dateFinished: "",
-    coverImg: Image5,
+    // coverImg: Image5,
     goodreadsUrl: "https://www.goodreads.com/book/show/5",
   },
   {
@@ -6777,7 +6777,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 734,
     dateFinished: "",
-    coverImg: Image6,
+    // coverImg: Image6,
     goodreadsUrl: "https://www.goodreads.com/book/show/6",
   },
   {
@@ -6791,7 +6791,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 912,
     dateFinished: "",
-    coverImg: Image2,
+    // coverImg: Image2,
     goodreadsUrl: "https://www.goodreads.com/book/show/2",
   },
   {
@@ -6805,7 +6805,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 652,
     dateFinished: "",
-    coverImg: Image1,
+    // coverImg: Image1,
     goodreadsUrl: "https://www.goodreads.com/book/show/1",
   },
   {
@@ -6819,7 +6819,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 759,
     dateFinished: "",
-    coverImg: Image136251,
+    // coverImg: Image136251,
     goodreadsUrl: "https://www.goodreads.com/book/show/136251",
   },
   {
@@ -6833,7 +6833,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 3342,
     dateFinished: "",
-    coverImg: Image10,
+    // coverImg: Image10,
     goodreadsUrl: "https://www.goodreads.com/book/show/10",
   },
   {
@@ -6847,7 +6847,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 4100,
     dateFinished: "",
-    coverImg: Image862041,
+    // coverImg: Image862041,
     goodreadsUrl: "https://www.goodreads.com/book/show/862041",
   },
   {
@@ -6861,7 +6861,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 105,
     dateFinished: "",
-    coverImg: Image3950967,
+    // coverImg: Image3950967,
     goodreadsUrl: "https://www.goodreads.com/book/show/3950967",
   },
   {
@@ -6875,7 +6875,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 233,
     dateFinished: "",
-    coverImg: Image18924928,
+    // coverImg: Image18924928,
     goodreadsUrl: "https://www.goodreads.com/book/show/18924928",
   },
   {
@@ -6889,7 +6889,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 0,
     dateFinished: "2024/05/27",
-    coverImg: Image206827931,
+    // coverImg: Image206827931,
     goodreadsUrl: "https://www.goodreads.com/book/show/206827931",
   },
   {
@@ -6903,7 +6903,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 564,
     dateFinished: "",
-    coverImg: Image769483,
+    // coverImg: Image769483,
     goodreadsUrl: "https://www.goodreads.com/book/show/769483",
   },
   {
@@ -6917,7 +6917,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 521,
     dateFinished: "",
-    coverImg: Image355917,
+    // coverImg: Image355917,
     goodreadsUrl: "https://www.goodreads.com/book/show/355917",
   },
   {
@@ -6931,7 +6931,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 545,
     dateFinished: "",
-    coverImg: Image355916,
+    // coverImg: Image355916,
     goodreadsUrl: "https://www.goodreads.com/book/show/355916",
   },
   {
@@ -6945,7 +6945,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 596,
     dateFinished: "",
-    coverImg: Image1375896,
+    // coverImg: Image1375896,
     goodreadsUrl: "https://www.goodreads.com/book/show/1375896",
   },
   {
@@ -6959,7 +6959,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 628,
     dateFinished: "",
-    coverImg: Image4935682,
+    // coverImg: Image4935682,
     goodreadsUrl: "https://www.goodreads.com/book/show/4935682",
   },
   {
@@ -6973,7 +6973,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 308,
     dateFinished: "",
-    coverImg: Image623976,
+    // coverImg: Image623976,
     goodreadsUrl: "https://www.goodreads.com/book/show/623976",
   },
   {
@@ -6987,7 +6987,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 299,
     dateFinished: "",
-    coverImg: Image6366110,
+    // coverImg: Image6366110,
     goodreadsUrl: "https://www.goodreads.com/book/show/6366110",
   },
   {
@@ -7001,7 +7001,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 294,
     dateFinished: "",
-    coverImg: Image7740659,
+    // coverImg: Image7740659,
     goodreadsUrl: "https://www.goodreads.com/book/show/7740659",
   },
   {
@@ -7015,7 +7015,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 322,
     dateFinished: "",
-    coverImg: Image3485562,
+    // coverImg: Image3485562,
     goodreadsUrl: "https://www.goodreads.com/book/show/3485562",
   },
   {
@@ -7029,7 +7029,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 256,
     dateFinished: "",
-    coverImg: Image59808314,
+    // coverImg: Image59808314,
     goodreadsUrl: "https://www.goodreads.com/book/show/59808314",
   },
   {
@@ -7043,7 +7043,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 657,
     dateFinished: "",
-    coverImg: Image30290910,
+    // coverImg: Image30290910,
     goodreadsUrl: "https://www.goodreads.com/book/show/30290910",
   },
   {
@@ -7057,7 +7057,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 25,
     dateFinished: "",
-    coverImg: Image10852065,
+    // coverImg: Image10852065,
     goodreadsUrl: "https://www.goodreads.com/book/show/10852065",
   },
   {
@@ -7071,7 +7071,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 128,
     dateFinished: "",
-    coverImg: Image12796771,
+    // coverImg: Image12796771,
     goodreadsUrl: "https://www.goodreads.com/book/show/12796771",
   },
   {
@@ -7085,7 +7085,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 200,
     dateFinished: "",
-    coverImg: Image18361393,
+    // coverImg: Image18361393,
     goodreadsUrl: "https://www.goodreads.com/book/show/18361393",
   },
   {
@@ -7099,7 +7099,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 88,
     dateFinished: "",
-    coverImg: Image13452375,
+    // coverImg: Image13452375,
     goodreadsUrl: "https://www.goodreads.com/book/show/13452375",
   },
   {
@@ -7113,7 +7113,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 208,
     dateFinished: "",
-    coverImg: Image20886354,
+    // coverImg: Image20886354,
     goodreadsUrl: "https://www.goodreads.com/book/show/20886354",
   },
   {
@@ -7127,7 +7127,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 148,
     dateFinished: "",
-    coverImg: Image37640636,
+    // coverImg: Image37640636,
     goodreadsUrl: "https://www.goodreads.com/book/show/37640636",
   },
   {
@@ -7141,7 +7141,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 340,
     dateFinished: "",
-    coverImg: Image39332452,
+    // coverImg: Image39332452,
     goodreadsUrl: "https://www.goodreads.com/book/show/39332452",
   },
   {
@@ -7155,7 +7155,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 21,
     dateFinished: "",
-    coverImg: Image22823333,
+    // coverImg: Image22823333,
     goodreadsUrl: "https://www.goodreads.com/book/show/22823333",
   },
   {
@@ -7169,7 +7169,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 541,
     dateFinished: "",
-    coverImg: Image68428,
+    // coverImg: Image68428,
     goodreadsUrl: "https://www.goodreads.com/book/show/68428",
   },
   {
@@ -7183,7 +7183,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 590,
     dateFinished: "",
-    coverImg: Image68429,
+    // coverImg: Image68429,
     goodreadsUrl: "https://www.goodreads.com/book/show/68429",
   },
   {
@@ -7197,7 +7197,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 572,
     dateFinished: "",
-    coverImg: Image2767793,
+    // coverImg: Image2767793,
     goodreadsUrl: "https://www.goodreads.com/book/show/2767793",
   },
   {
@@ -7211,7 +7211,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 160,
     dateFinished: "",
-    coverImg: Image28698036,
+    // coverImg: Image28698036,
     goodreadsUrl: "https://www.goodreads.com/book/show/28698036",
   },
   {
@@ -7225,7 +7225,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 332,
     dateFinished: "",
-    coverImg: Image10803121,
+    // coverImg: Image10803121,
     goodreadsUrl: "https://www.goodreads.com/book/show/10803121",
   },
   {
@@ -7239,7 +7239,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 40,
     dateFinished: "",
-    coverImg: Image33357675,
+    // coverImg: Image33357675,
     goodreadsUrl: "https://www.goodreads.com/book/show/33357675",
   },
   {
@@ -7253,7 +7253,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 383,
     dateFinished: "",
-    coverImg: Image16065004,
+    // coverImg: Image16065004,
     goodreadsUrl: "https://www.goodreads.com/book/show/16065004",
   },
   {
@@ -7267,7 +7267,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 448,
     dateFinished: "",
-    coverImg: Image18739426,
+    // coverImg: Image18739426,
     goodreadsUrl: "https://www.goodreads.com/book/show/18739426",
   },
   {
@@ -7281,7 +7281,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 507,
     dateFinished: "",
-    coverImg: Image23947089,
+    // coverImg: Image23947089,
     goodreadsUrl: "https://www.goodreads.com/book/show/23947089",
   },
   {
@@ -7295,7 +7295,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 424,
     dateFinished: "",
-    coverImg: Image15704486,
+    // coverImg: Image15704486,
     goodreadsUrl: "https://www.goodreads.com/book/show/15704486",
   },
   {
@@ -7309,7 +7309,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 399,
     dateFinished: "2023/04/01",
-    coverImg: Image60531410,
+    // coverImg: Image60531410,
     goodreadsUrl: "https://www.goodreads.com/book/show/60531410",
   },
   {
@@ -7323,7 +7323,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 546,
     dateFinished: "",
-    coverImg: Image39353738,
+    // coverImg: Image39353738,
     goodreadsUrl: "https://www.goodreads.com/book/show/39353738",
   },
   {
@@ -7337,7 +7337,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 461,
     dateFinished: "",
-    coverImg: Image43936287,
+    // coverImg: Image43936287,
     goodreadsUrl: "https://www.goodreads.com/book/show/43936287",
   },
   {
@@ -7351,7 +7351,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 208,
     dateFinished: "",
-    coverImg: Image59050497,
+    // coverImg: Image59050497,
     goodreadsUrl: "https://www.goodreads.com/book/show/59050497",
   },
   {
@@ -7365,7 +7365,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 229,
     dateFinished: "",
-    coverImg: Image59058716,
+    // coverImg: Image59058716,
     goodreadsUrl: "https://www.goodreads.com/book/show/59058716",
   },
   {
@@ -7379,7 +7379,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image58167188,
+    // coverImg: Image58167188,
     goodreadsUrl: "https://www.goodreads.com/book/show/58167188",
   },
   {
@@ -7393,7 +7393,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 234,
     dateFinished: "",
-    coverImg: Image59058717,
+    // coverImg: Image59058717,
     goodreadsUrl: "https://www.goodreads.com/book/show/59058717",
   },
   {
@@ -7407,7 +7407,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 420,
     dateFinished: "",
-    coverImg: Image43606308,
+    // coverImg: Image43606308,
     goodreadsUrl: "https://www.goodreads.com/book/show/43606308",
   },
   {
@@ -7421,7 +7421,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 14,
     dateFinished: "",
-    coverImg: Image58419574,
+    // coverImg: Image58419574,
     goodreadsUrl: "https://www.goodreads.com/book/show/58419574",
   },
   {
@@ -7435,7 +7435,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 59,
     dateFinished: "",
-    coverImg: Image23397921,
+    // coverImg: Image23397921,
     goodreadsUrl: "https://www.goodreads.com/book/show/23397921",
   },
   {
@@ -7449,7 +7449,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 386,
     dateFinished: "",
-    coverImg: Image17182126,
+    // coverImg: Image17182126,
     goodreadsUrl: "https://www.goodreads.com/book/show/17182126",
   },
   {
@@ -7463,7 +7463,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 55,
     dateFinished: "",
-    coverImg: Image18966322,
+    // coverImg: Image18966322,
     goodreadsUrl: "https://www.goodreads.com/book/show/18966322",
   },
   {
@@ -7477,7 +7477,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image15704459,
+    // coverImg: Image15704459,
     goodreadsUrl: "https://www.goodreads.com/book/show/15704459",
   },
   {
@@ -7491,7 +7491,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 386,
     dateFinished: "",
-    coverImg: Image22443261,
+    // coverImg: Image22443261,
     goodreadsUrl: "https://www.goodreads.com/book/show/22443261",
   },
   {
@@ -7505,7 +7505,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1007,
     dateFinished: "",
-    coverImg: Image7235533,
+    // coverImg: Image7235533,
     goodreadsUrl: "https://www.goodreads.com/book/show/7235533",
   },
   {
@@ -7519,7 +7519,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1087,
     dateFinished: "",
-    coverImg: Image17332218,
+    // coverImg: Image17332218,
     goodreadsUrl: "https://www.goodreads.com/book/show/17332218",
   },
   {
@@ -7533,7 +7533,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image34703445,
+    // coverImg: Image34703445,
     goodreadsUrl: "https://www.goodreads.com/book/show/34703445",
   },
   {
@@ -7547,7 +7547,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1243,
     dateFinished: "",
-    coverImg: Image34002132,
+    // coverImg: Image34002132,
     goodreadsUrl: "https://www.goodreads.com/book/show/34002132",
   },
   {
@@ -7561,7 +7561,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1220,
     dateFinished: "",
-    coverImg: Image34039808,
+    // coverImg: Image34039808,
     goodreadsUrl: "https://www.goodreads.com/book/show/34039808",
   },
   {
@@ -7575,7 +7575,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 171,
     dateFinished: "",
-    coverImg: Image54511226,
+    // coverImg: Image54511226,
     goodreadsUrl: "https://www.goodreads.com/book/show/54511226",
   },
   {
@@ -7589,7 +7589,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1219,
     dateFinished: "",
-    coverImg: Image49021976,
+    // coverImg: Image49021976,
     goodreadsUrl: "https://www.goodreads.com/book/show/49021976",
   },
   {
@@ -7603,7 +7603,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1213,
     dateFinished: "",
-    coverImg: Image17250966,
+    // coverImg: Image17250966,
     goodreadsUrl: "https://www.goodreads.com/book/show/17250966",
   },
   {
@@ -7617,7 +7617,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 157,
     dateFinished: "",
-    coverImg: Image29963977,
+    // coverImg: Image29963977,
     goodreadsUrl: "https://www.goodreads.com/book/show/29963977",
   },
   {
@@ -7631,7 +7631,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 160,
     dateFinished: "",
-    coverImg: Image36200052,
+    // coverImg: Image36200052,
     goodreadsUrl: "https://www.goodreads.com/book/show/36200052",
   },
   {
@@ -7645,7 +7645,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 160,
     dateFinished: "",
-    coverImg: Image44869038,
+    // coverImg: Image44869038,
     goodreadsUrl: "https://www.goodreads.com/book/show/44869038",
   },
   {
@@ -7659,7 +7659,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 43,
     dateFinished: "",
-    coverImg: Image13552643,
+    // coverImg: Image13552643,
     goodreadsUrl: "https://www.goodreads.com/book/show/13552643",
   },
   {
@@ -7673,7 +7673,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 688,
     dateFinished: "",
-    coverImg: Image1268479,
+    // coverImg: Image1268479,
     goodreadsUrl: "https://www.goodreads.com/book/show/1268479",
   },
   {
@@ -7687,7 +7687,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 48,
     dateFinished: "",
-    coverImg: Image8562526,
+    // coverImg: Image8562526,
     goodreadsUrl: "https://www.goodreads.com/book/show/8562526",
   },
   {
@@ -7701,7 +7701,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 144,
     dateFinished: "",
-    coverImg: Image16131932,
+    // coverImg: Image16131932,
     goodreadsUrl: "https://www.goodreads.com/book/show/16131932",
   },
   {
@@ -7715,7 +7715,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 36,
     dateFinished: "",
-    coverImg: Image22041948,
+    // coverImg: Image22041948,
     goodreadsUrl: "https://www.goodreads.com/book/show/22041948",
   },
   {
@@ -7729,7 +7729,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 208,
     dateFinished: "",
-    coverImg: Image18324059,
+    // coverImg: Image18324059,
     goodreadsUrl: "https://www.goodreads.com/book/show/18324059",
   },
   {
@@ -7743,7 +7743,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 50,
     dateFinished: "",
-    coverImg: Image21411388,
+    // coverImg: Image21411388,
     goodreadsUrl: "https://www.goodreads.com/book/show/21411388",
   },
   {
@@ -7757,7 +7757,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 502,
     dateFinished: "",
-    coverImg: Image21844946,
+    // coverImg: Image21844946,
     goodreadsUrl: "https://www.goodreads.com/book/show/21844946",
   },
   {
@@ -7771,7 +7771,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 87,
     dateFinished: "",
-    coverImg: Image25188109,
+    // coverImg: Image25188109,
     goodreadsUrl: "https://www.goodreads.com/book/show/25188109",
   },
   {
@@ -7785,7 +7785,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 672,
     dateFinished: "",
-    coverImg: Image28595941,
+    // coverImg: Image28595941,
     goodreadsUrl: "https://www.goodreads.com/book/show/28595941",
   },
   {
@@ -7799,7 +7799,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 304,
     dateFinished: "",
-    coverImg: Image26833022,
+    // coverImg: Image26833022,
     goodreadsUrl: "https://www.goodreads.com/book/show/26833022",
   },
   {
@@ -7813,7 +7813,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 123,
     dateFinished: "",
-    coverImg: Image31176804,
+    // coverImg: Image31176804,
     goodreadsUrl: "https://www.goodreads.com/book/show/31176804",
   },
   {
@@ -7827,7 +7827,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 217,
     dateFinished: "",
-    coverImg: Image43205859,
+    // coverImg: Image43205859,
     goodreadsUrl: "https://www.goodreads.com/book/show/43205859",
   },
   {
@@ -7841,7 +7841,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 4,
     dateFinished: "",
-    coverImg: Image54615879,
+    // coverImg: Image54615879,
     goodreadsUrl: "https://www.goodreads.com/book/show/54615879",
   },
   {
@@ -7855,7 +7855,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 803,
     dateFinished: "2020/08/08",
-    coverImg: Image54433225,
+    // coverImg: Image54433225,
     goodreadsUrl: "https://www.goodreads.com/book/show/54433225",
   },
   {
@@ -7869,7 +7869,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 623,
     dateFinished: "",
-    coverImg: Image59471329,
+    // coverImg: Image59471329,
     goodreadsUrl: "https://www.goodreads.com/book/show/59471329",
   },
   {
@@ -7883,7 +7883,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 67,
     dateFinished: "2023/12/19",
-    coverImg: Image203356485,
+    // coverImg: Image203356485,
     goodreadsUrl: "https://www.goodreads.com/book/show/203356485",
   },
   {
@@ -7897,7 +7897,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 447,
     dateFinished: "2023/10/11",
-    coverImg: Image60531420,
+    // coverImg: Image60531420,
     goodreadsUrl: "https://www.goodreads.com/book/show/60531420",
   },
   {
@@ -7911,7 +7911,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 483,
     dateFinished: "2023/01/10",
-    coverImg: Image60531406,
+    // coverImg: Image60531406,
     goodreadsUrl: "https://www.goodreads.com/book/show/60531406",
   },
   {
@@ -7925,7 +7925,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 480,
     dateFinished: "2023/10/18",
-    coverImg: Image60531416,
+    // coverImg: Image60531416,
     goodreadsUrl: "https://www.goodreads.com/book/show/60531416",
   },
   {
@@ -7939,7 +7939,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 995,
     dateFinished: "",
-    coverImg: Image8868764,
+    // coverImg: Image8868764,
     goodreadsUrl: "https://www.goodreads.com/book/show/8868764",
   },
   {
@@ -7953,7 +7953,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 400,
     dateFinished: "2019/12/29",
-    coverImg: Image40603587,
+    // coverImg: Image40603587,
     goodreadsUrl: "https://www.goodreads.com/book/show/40603587",
   },
   {
@@ -7967,7 +7967,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 468,
     dateFinished: "",
-    coverImg: Image18828258,
+    // coverImg: Image18828258,
     goodreadsUrl: "https://www.goodreads.com/book/show/18828258",
   },
   {
@@ -7981,7 +7981,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 128,
     dateFinished: "",
-    coverImg: Image41899,
+    // coverImg: Image41899,
     goodreadsUrl: "https://www.goodreads.com/book/show/41899",
   },
   {
@@ -7996,7 +7996,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 106,
     dateFinished: "",
-    coverImg: Image3321722,
+    // coverImg: Image3321722,
     goodreadsUrl: "https://www.goodreads.com/book/show/3321722",
   },
   {
@@ -8010,7 +8010,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image7949361,
+    // coverImg: Image7949361,
     goodreadsUrl: "https://www.goodreads.com/book/show/7949361",
   },
   {
@@ -8024,7 +8024,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 375,
     dateFinished: "",
-    coverImg: Image977841,
+    // coverImg: Image977841,
     goodreadsUrl: "https://www.goodreads.com/book/show/977841",
   },
   {
@@ -8038,7 +8038,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 464,
     dateFinished: "",
-    coverImg: Image2402971,
+    // coverImg: Image2402971,
     goodreadsUrl: "https://www.goodreads.com/book/show/2402971",
   },
   {
@@ -8052,7 +8052,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 464,
     dateFinished: "",
-    coverImg: Image6441303,
+    // coverImg: Image6441303,
     goodreadsUrl: "https://www.goodreads.com/book/show/6441303",
   },
   {
@@ -8066,7 +8066,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 502,
     dateFinished: "",
-    coverImg: Image4588949,
+    // coverImg: Image4588949,
     goodreadsUrl: "https://www.goodreads.com/book/show/4588949",
   },
   {
@@ -8080,7 +8080,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 488,
     dateFinished: "",
-    coverImg: Image7363955,
+    // coverImg: Image7363955,
     goodreadsUrl: "https://www.goodreads.com/book/show/7363955",
   },
   {
@@ -8094,7 +8094,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 416,
     dateFinished: "",
-    coverImg: Image6693332,
+    // coverImg: Image6693332,
     goodreadsUrl: "https://www.goodreads.com/book/show/6693332",
   },
   {
@@ -8108,7 +8108,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 151,
     dateFinished: "",
-    coverImg: Image765601,
+    // coverImg: Image765601,
     goodreadsUrl: "https://www.goodreads.com/book/show/765601",
   },
   {
@@ -8122,7 +8122,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 534,
     dateFinished: "",
-    coverImg: Image9673436,
+    // coverImg: Image9673436,
     goodreadsUrl: "https://www.goodreads.com/book/show/9673436",
   },
   {
@@ -8136,7 +8136,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 64,
     dateFinished: "",
-    coverImg: Image23772,
+    // coverImg: Image23772,
     goodreadsUrl: "https://www.goodreads.com/book/show/23772",
   },
   {
@@ -8150,7 +8150,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/19",
-    coverImg: Image25093183,
+    // coverImg: Image25093183,
     goodreadsUrl: "https://www.goodreads.com/book/show/25093183",
   },
   {
@@ -8164,7 +8164,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 580,
     dateFinished: "2022/12/11",
-    coverImg: Image40894343,
+    // coverImg: Image40894343,
     goodreadsUrl: "https://www.goodreads.com/book/show/40894343",
   },
   {
@@ -8178,7 +8178,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 855,
     dateFinished: "2022/12/12",
-    coverImg: Image40882831,
+    // coverImg: Image40882831,
     goodreadsUrl: "https://www.goodreads.com/book/show/40882831",
   },
   {
@@ -8192,7 +8192,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 706,
     dateFinished: "2022/12/13",
-    coverImg: Image40895279,
+    // coverImg: Image40895279,
     goodreadsUrl: "https://www.goodreads.com/book/show/40895279",
   },
   {
@@ -8206,7 +8206,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 741,
     dateFinished: "2022/12/16",
-    coverImg: Image40899385,
+    // coverImg: Image40899385,
     goodreadsUrl: "https://www.goodreads.com/book/show/40899385",
   },
   {
@@ -8220,7 +8220,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 703,
     dateFinished: "2022/12/17",
-    coverImg: Image40899590,
+    // coverImg: Image40899590,
     goodreadsUrl: "https://www.goodreads.com/book/show/40899590",
   },
   {
@@ -8234,7 +8234,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 694,
     dateFinished: "2022/12/18",
-    coverImg: Image40899589,
+    // coverImg: Image40899589,
     goodreadsUrl: "https://www.goodreads.com/book/show/40899589",
   },
   {
@@ -8248,7 +8248,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/11/08",
-    coverImg: Image25385128,
+    // coverImg: Image25385128,
     goodreadsUrl: "https://www.goodreads.com/book/show/25385128",
   },
   {
@@ -8262,7 +8262,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/11/08",
-    coverImg: Image25385130,
+    // coverImg: Image25385130,
     goodreadsUrl: "https://www.goodreads.com/book/show/25385130",
   },
   {
@@ -8276,7 +8276,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 299,
     dateFinished: "2022/12/14",
-    coverImg: Image24644922,
+    // coverImg: Image24644922,
     goodreadsUrl: "https://www.goodreads.com/book/show/24644922",
   },
   {
@@ -8290,7 +8290,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 151,
     dateFinished: "2022/12/15",
-    coverImg: Image24645006,
+    // coverImg: Image24645006,
     goodreadsUrl: "https://www.goodreads.com/book/show/24645006",
   },
   {
@@ -8304,7 +8304,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/20",
-    coverImg: Image25116966,
+    // coverImg: Image25116966,
     goodreadsUrl: "https://www.goodreads.com/book/show/25116966",
   },
   {
@@ -8318,7 +8318,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/21",
-    coverImg: Image25318337,
+    // coverImg: Image25318337,
     goodreadsUrl: "https://www.goodreads.com/book/show/25318337",
   },
   {
@@ -8332,7 +8332,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/22",
-    coverImg: Image25318363,
+    // coverImg: Image25318363,
     goodreadsUrl: "https://www.goodreads.com/book/show/25318363",
   },
   {
@@ -8346,7 +8346,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/23",
-    coverImg: Image25460752,
+    // coverImg: Image25460752,
     goodreadsUrl: "https://www.goodreads.com/book/show/25460752",
   },
   {
@@ -8360,7 +8360,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/24",
-    coverImg: Image25540661,
+    // coverImg: Image25540661,
     goodreadsUrl: "https://www.goodreads.com/book/show/25540661",
   },
   {
@@ -8374,7 +8374,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/25",
-    coverImg: Image25638329,
+    // coverImg: Image25638329,
     goodreadsUrl: "https://www.goodreads.com/book/show/25638329",
   },
   {
@@ -8388,7 +8388,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/26",
-    coverImg: Image26177458,
+    // coverImg: Image26177458,
     goodreadsUrl: "https://www.goodreads.com/book/show/26177458",
   },
   {
@@ -8402,7 +8402,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/27",
-    coverImg: Image26670014,
+    // coverImg: Image26670014,
     goodreadsUrl: "https://www.goodreads.com/book/show/26670014",
   },
   {
@@ -8416,7 +8416,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/28",
-    coverImg: Image26720267,
+    // coverImg: Image26720267,
     goodreadsUrl: "https://www.goodreads.com/book/show/26720267",
   },
   {
@@ -8430,7 +8430,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/29",
-    coverImg: Image26836138,
+    // coverImg: Image26836138,
     goodreadsUrl: "https://www.goodreads.com/book/show/26836138",
   },
   {
@@ -8444,7 +8444,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/30",
-    coverImg: Image26836157,
+    // coverImg: Image26836157,
     goodreadsUrl: "https://www.goodreads.com/book/show/26836157",
   },
   {
@@ -8458,7 +8458,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "2022/12/31",
-    coverImg: Image27928985,
+    // coverImg: Image27928985,
     goodreadsUrl: "https://www.goodreads.com/book/show/27928985",
   },
   {
@@ -8472,7 +8472,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 240,
     dateFinished: "",
-    coverImg: Image199699,
+    // coverImg: Image199699,
     goodreadsUrl: "https://www.goodreads.com/book/show/199699",
   },
   {
@@ -8486,7 +8486,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 243,
     dateFinished: "",
-    coverImg: Image6995974,
+    // coverImg: Image6995974,
     goodreadsUrl: "https://www.goodreads.com/book/show/6995974",
   },
   {
@@ -8500,7 +8500,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 435,
     dateFinished: "2021/04/12",
-    coverImg: Image28954189,
+    // coverImg: Image28954189,
     goodreadsUrl: "https://www.goodreads.com/book/show/28954189",
   },
   {
@@ -8514,7 +8514,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 504,
     dateFinished: "2021/04/12",
-    coverImg: Image33555224,
+    // coverImg: Image33555224,
     goodreadsUrl: "https://www.goodreads.com/book/show/33555224",
   },
   {
@@ -8528,7 +8528,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 625,
     dateFinished: "2021/05/19",
-    coverImg: Image43822024,
+    // coverImg: Image43822024,
     goodreadsUrl: "https://www.goodreads.com/book/show/43822024",
   },
   {
@@ -8542,7 +8542,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "2011/10/13",
-    coverImg: Image688191,
+    // coverImg: Image688191,
     goodreadsUrl: "https://www.goodreads.com/book/show/688191",
   },
   {
@@ -8556,7 +8556,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 432,
     dateFinished: "",
-    coverImg: Image6390465,
+    // coverImg: Image6390465,
     goodreadsUrl: "https://www.goodreads.com/book/show/6390465",
   },
   {
@@ -8570,7 +8570,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 512,
     dateFinished: "2011/10/18",
-    coverImg: Image7669259,
+    // coverImg: Image7669259,
     goodreadsUrl: "https://www.goodreads.com/book/show/7669259",
   },
   {
@@ -8584,7 +8584,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 64,
     dateFinished: "",
-    coverImg: Image370493,
+    // coverImg: Image370493,
     goodreadsUrl: "https://www.goodreads.com/book/show/370493",
   },
   {
@@ -8598,7 +8598,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 483,
     dateFinished: "2022/08/01",
-    coverImg: Image45064996,
+    // coverImg: Image45064996,
     goodreadsUrl: "https://www.goodreads.com/book/show/45064996",
   },
   {
@@ -8612,7 +8612,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 293,
     dateFinished: "2011/08/30",
-    coverImg: Image3599149,
+    // coverImg: Image3599149,
     goodreadsUrl: "https://www.goodreads.com/book/show/3599149",
   },
   {
@@ -8626,7 +8626,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 256,
     dateFinished: "2011/09/03",
-    coverImg: Image5792404,
+    // coverImg: Image5792404,
     goodreadsUrl: "https://www.goodreads.com/book/show/5792404",
   },
   {
@@ -8640,7 +8640,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 246,
     dateFinished: "2011/09/14",
-    coverImg: Image721003,
+    // coverImg: Image721003,
     goodreadsUrl: "https://www.goodreads.com/book/show/721003",
   },
   {
@@ -8654,7 +8654,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 215,
     dateFinished: "",
-    coverImg: Image771952,
+    // coverImg: Image771952,
     goodreadsUrl: "https://www.goodreads.com/book/show/771952",
   },
   {
@@ -8668,7 +8668,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 273,
     dateFinished: "",
-    coverImg: Image318404,
+    // coverImg: Image318404,
     goodreadsUrl: "https://www.goodreads.com/book/show/318404",
   },
   {
@@ -8682,7 +8682,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 265,
     dateFinished: "",
-    coverImg: Image547866,
+    // coverImg: Image547866,
     goodreadsUrl: "https://www.goodreads.com/book/show/547866",
   },
   {
@@ -8696,7 +8696,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 264,
     dateFinished: "",
-    coverImg: Image728654,
+    // coverImg: Image728654,
     goodreadsUrl: "https://www.goodreads.com/book/show/728654",
   },
   {
@@ -8710,7 +8710,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 272,
     dateFinished: "",
-    coverImg: Image6693329,
+    // coverImg: Image6693329,
     goodreadsUrl: "https://www.goodreads.com/book/show/6693329",
   },
   {
@@ -8724,7 +8724,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 328,
     dateFinished: "",
-    coverImg: Image304351,
+    // coverImg: Image304351,
     goodreadsUrl: "https://www.goodreads.com/book/show/304351",
   },
   {
@@ -8738,7 +8738,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 199,
     dateFinished: "",
-    coverImg: Image5310515,
+    // coverImg: Image5310515,
     goodreadsUrl: "https://www.goodreads.com/book/show/5310515",
   },
   {
@@ -8752,7 +8752,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1168,
     dateFinished: "",
-    coverImg: Image38897904,
+    // coverImg: Image38897904,
     goodreadsUrl: "https://www.goodreads.com/book/show/38897904",
   },
   {
@@ -8766,7 +8766,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 1044,
     dateFinished: "2011/10/18",
-    coverImg: Image10552338,
+    // coverImg: Image10552338,
     goodreadsUrl: "https://www.goodreads.com/book/show/10552338",
   },
   {
@@ -8780,7 +8780,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 872,
     dateFinished: "",
-    coverImg: Image22816087,
+    // coverImg: Image22816087,
     goodreadsUrl: "https://www.goodreads.com/book/show/22816087",
   },
   {
@@ -8794,7 +8794,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 559,
     dateFinished: "",
-    coverImg: Image40651883,
+    // coverImg: Image40651883,
     goodreadsUrl: "https://www.goodreads.com/book/show/40651883",
   },
   {
@@ -8808,7 +8808,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 892,
     dateFinished: "",
-    coverImg: Image42740231,
+    // coverImg: Image42740231,
     goodreadsUrl: "https://www.goodreads.com/book/show/42740231",
   },
   {
@@ -8822,7 +8822,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 486,
     dateFinished: "",
-    coverImg: Image83369,
+    // coverImg: Image83369,
     goodreadsUrl: "https://www.goodreads.com/book/show/83369",
   },
   {
@@ -8836,7 +8836,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 440,
     dateFinished: "",
-    coverImg: Image2159225,
+    // coverImg: Image2159225,
     goodreadsUrl: "https://www.goodreads.com/book/show/2159225",
   },
   {
@@ -8850,7 +8850,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 391,
     dateFinished: "",
-    coverImg: Image6385622,
+    // coverImg: Image6385622,
     goodreadsUrl: "https://www.goodreads.com/book/show/6385622",
   },
   {
@@ -8864,7 +8864,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 476,
     dateFinished: "",
-    coverImg: Image13336409,
+    // coverImg: Image13336409,
     goodreadsUrl: "https://www.goodreads.com/book/show/13336409",
   },
   {
@@ -8878,7 +8878,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 516,
     dateFinished: "",
-    coverImg: Image13237760,
+    // coverImg: Image13237760,
     goodreadsUrl: "https://www.goodreads.com/book/show/13237760",
   },
   {
@@ -8892,7 +8892,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 333,
     dateFinished: "",
-    coverImg: Image7738,
+    // coverImg: Image7738,
     goodreadsUrl: "https://www.goodreads.com/book/show/7738",
   },
   {
@@ -8906,7 +8906,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 608,
     dateFinished: "",
-    coverImg: Image25499718,
+    // coverImg: Image25499718,
     goodreadsUrl: "https://www.goodreads.com/book/show/25499718",
   },
   {
@@ -8920,7 +8920,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 398,
     dateFinished: "",
-    coverImg: Image34,
+    // coverImg: Image34,
     goodreadsUrl: "https://www.goodreads.com/book/show/34",
   },
   {
@@ -8934,7 +8934,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 322,
     dateFinished: "",
-    coverImg: Image15241,
+    // coverImg: Image15241,
     goodreadsUrl: "https://www.goodreads.com/book/show/15241",
   },
   {
@@ -8948,7 +8948,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 404,
     dateFinished: "",
-    coverImg: Image18512,
+    // coverImg: Image18512,
     goodreadsUrl: "https://www.goodreads.com/book/show/18512",
   },
   {
@@ -8962,7 +8962,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 1216,
     dateFinished: "",
-    coverImg: Image33,
+    // coverImg: Image33,
     goodreadsUrl: "https://www.goodreads.com/book/show/33",
   },
   {
@@ -8976,7 +8976,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 377,
     dateFinished: "2024/05/12",
-    coverImg: Image204624720,
+    // coverImg: Image204624720,
     goodreadsUrl: "https://www.goodreads.com/book/show/204624720",
   },
   {
@@ -8990,7 +8990,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 322,
     dateFinished: "2024/05/12",
-    coverImg: Image204788472,
+    // coverImg: Image204788472,
     goodreadsUrl: "https://www.goodreads.com/book/show/204788472",
   },
   {
@@ -9004,7 +9004,7 @@ const bookData: Book[] = [
     rating: 0,
     numberOfPages: 1429,
     dateFinished: "2024/06/10",
-    coverImg: Image63341398,
+    // coverImg: Image63341398,
     goodreadsUrl: "https://www.goodreads.com/book/show/63341398",
   },
   {
@@ -9018,7 +9018,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 215,
     dateFinished: "",
-    coverImg: Image2924651,
+    // coverImg: Image2924651,
     goodreadsUrl: "https://www.goodreads.com/book/show/2924651",
   },
   {
@@ -9032,7 +9032,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 482,
     dateFinished: "",
-    coverImg: Image40033006,
+    // coverImg: Image40033006,
     goodreadsUrl: "https://www.goodreads.com/book/show/40033006",
   },
   {
@@ -9046,7 +9046,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 327,
     dateFinished: "",
-    coverImg: Image2956,
+    // coverImg: Image2956,
     goodreadsUrl: "https://www.goodreads.com/book/show/2956",
   },
   {
@@ -9060,7 +9060,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 436,
     dateFinished: "",
-    coverImg: Image3171446,
+    // coverImg: Image3171446,
     goodreadsUrl: "https://www.goodreads.com/book/show/3171446",
   },
   {
@@ -9074,7 +9074,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 213,
     dateFinished: "",
-    coverImg: "",
+    // coverImg: "",
     goodreadsUrl: "https://www.goodreads.com/book/show/9215710",
   },
   {
@@ -9088,7 +9088,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 440,
     dateFinished: "",
-    coverImg: Image29601,
+    // coverImg: Image29601,
     goodreadsUrl: "https://www.goodreads.com/book/show/29601",
   },
   {
@@ -9102,7 +9102,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 298,
     dateFinished: "2019/10/16",
-    coverImg: Image6275767,
+    // coverImg: Image6275767,
     goodreadsUrl: "https://www.goodreads.com/book/show/6275767",
   },
   {
@@ -9116,7 +9116,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 296,
     dateFinished: "2019/11/07",
-    coverImg: Image7937776,
+    // coverImg: Image7937776,
     goodreadsUrl: "https://www.goodreads.com/book/show/7937776",
   },
   {
@@ -9130,7 +9130,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "2019/10/15",
-    coverImg: Image1008231,
+    // coverImg: Image1008231,
     goodreadsUrl: "https://www.goodreads.com/book/show/1008231",
   },
   {
@@ -9144,7 +9144,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 384,
     dateFinished: "2019/10/15",
-    coverImg: Image1446826,
+    // coverImg: Image1446826,
     goodreadsUrl: "https://www.goodreads.com/book/show/1446826",
   },
   {
@@ -9158,7 +9158,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 343,
     dateFinished: "2019/10/15",
-    coverImg: Image4617762,
+    // coverImg: Image4617762,
     goodreadsUrl: "https://www.goodreads.com/book/show/4617762",
   },
   {
@@ -9172,7 +9172,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 618,
     dateFinished: "",
-    coverImg: Image60451926,
+    // coverImg: Image60451926,
     goodreadsUrl: "https://www.goodreads.com/book/show/60451926",
   },
   {
@@ -9186,7 +9186,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 160,
     dateFinished: "",
-    coverImg: Image297249,
+    // coverImg: Image297249,
     goodreadsUrl: "https://www.goodreads.com/book/show/297249",
   },
   {
@@ -9200,7 +9200,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 190,
     dateFinished: "",
-    coverImg: Image5972040,
+    // coverImg: Image5972040,
     goodreadsUrl: "https://www.goodreads.com/book/show/5972040",
   },
   {
@@ -9214,7 +9214,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 206,
     dateFinished: "",
-    coverImg: Image6389704,
+    // coverImg: Image6389704,
     goodreadsUrl: "https://www.goodreads.com/book/show/6389704",
   },
   {
@@ -9228,7 +9228,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: "",
     dateFinished: "",
-    coverImg: Image205588425,
+    // coverImg: Image205588425,
     goodreadsUrl: "https://www.goodreads.com/book/show/205588425",
   },
   {
@@ -9242,7 +9242,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 704,
     dateFinished: "",
-    coverImg: Image13515944,
+    // coverImg: Image13515944,
     goodreadsUrl: "https://www.goodreads.com/book/show/13515944",
   },
   {
@@ -9256,7 +9256,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 846,
     dateFinished: "",
-    coverImg: Image12652457,
+    // coverImg: Image12652457,
     goodreadsUrl: "https://www.goodreads.com/book/show/12652457",
   },
   {
@@ -9270,7 +9270,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 704,
     dateFinished: "",
-    coverImg: Image29449386,
+    // coverImg: Image29449386,
     goodreadsUrl: "https://www.goodreads.com/book/show/29449386",
   },
   {
@@ -9284,7 +9284,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 960,
     dateFinished: "2019/11/24",
-    coverImg: Image30169100,
+    // coverImg: Image30169100,
     goodreadsUrl: "https://www.goodreads.com/book/show/30169100",
   },
   {
@@ -9298,7 +9298,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 659,
     dateFinished: "",
-    coverImg: Image6070107,
+    // coverImg: Image6070107,
     goodreadsUrl: "https://www.goodreads.com/book/show/6070107",
   },
   {
@@ -9312,7 +9312,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 645,
     dateFinished: "",
-    coverImg: Image8153214,
+    // coverImg: Image8153214,
     goodreadsUrl: "https://www.goodreads.com/book/show/8153214",
   },
   {
@@ -9326,7 +9326,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 699,
     dateFinished: "",
-    coverImg: Image6569573,
+    // coverImg: Image6569573,
     goodreadsUrl: "https://www.goodreads.com/book/show/6569573",
   },
   {
@@ -9340,7 +9340,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "",
-    coverImg: Image18007564,
+    // coverImg: Image18007564,
     goodreadsUrl: "https://www.goodreads.com/book/show/18007564",
   },
   {
@@ -9354,7 +9354,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 476,
     dateFinished: "",
-    coverImg: Image54493401,
+    // coverImg: Image54493401,
     goodreadsUrl: "https://www.goodreads.com/book/show/54493401",
   },
   {
@@ -9368,7 +9368,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 246,
     dateFinished: "2011/09/11",
-    coverImg: Image6980334,
+    // coverImg: Image6980334,
     goodreadsUrl: "https://www.goodreads.com/book/show/6980334",
   },
   {
@@ -9382,7 +9382,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 496,
     dateFinished: "2011/09/11",
-    coverImg: Image9426782,
+    // coverImg: Image9426782,
     goodreadsUrl: "https://www.goodreads.com/book/show/9426782",
   },
   {
@@ -9396,7 +9396,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 543,
     dateFinished: "",
-    coverImg: Image9918083,
+    // coverImg: Image9918083,
     goodreadsUrl: "https://www.goodreads.com/book/show/9918083",
   },
   {
@@ -9410,7 +9410,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 312,
     dateFinished: "",
-    coverImg: Image186103,
+    // coverImg: Image186103,
     goodreadsUrl: "https://www.goodreads.com/book/show/186103",
   },
   {
@@ -9424,7 +9424,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 425,
     dateFinished: "2011/10/01",
-    coverImg: Image24770,
+    // coverImg: Image24770,
     goodreadsUrl: "https://www.goodreads.com/book/show/24770",
   },
   {
@@ -9438,7 +9438,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 370,
     dateFinished: "",
-    coverImg: Image24768,
+    // coverImg: Image24768,
     goodreadsUrl: "https://www.goodreads.com/book/show/24768",
   },
   {
@@ -9452,7 +9452,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 384,
     dateFinished: "2011/09/10",
-    coverImg: Image24765,
+    // coverImg: Image24765,
     goodreadsUrl: "https://www.goodreads.com/book/show/24765",
   },
   {
@@ -9466,7 +9466,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 417,
     dateFinished: "",
-    coverImg: Image493456,
+    // coverImg: Image493456,
     goodreadsUrl: "https://www.goodreads.com/book/show/493456",
   },
   {
@@ -9480,7 +9480,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 105,
     dateFinished: "",
-    coverImg: Image111450,
+    // coverImg: Image111450,
     goodreadsUrl: "https://www.goodreads.com/book/show/111450",
   },
   {
@@ -9494,7 +9494,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 184,
     dateFinished: "",
-    coverImg: Image24178,
+    // coverImg: Image24178,
     goodreadsUrl: "https://www.goodreads.com/book/show/24178",
   },
   {
@@ -9508,7 +9508,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 294,
     dateFinished: "",
-    coverImg: Image30558257,
+    // coverImg: Image30558257,
     goodreadsUrl: "https://www.goodreads.com/book/show/30558257",
   },
   {
@@ -9522,7 +9522,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 284,
     dateFinished: "",
-    coverImg: Image32283608,
+    // coverImg: Image32283608,
     goodreadsUrl: "https://www.goodreads.com/book/show/32283608",
   },
   {
@@ -9536,7 +9536,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 370,
     dateFinished: "",
-    coverImg: Image35023786,
+    // coverImg: Image35023786,
     goodreadsUrl: "https://www.goodreads.com/book/show/35023786",
   },
   {
@@ -9550,7 +9550,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 292,
     dateFinished: "",
-    coverImg: Image36332410,
+    // coverImg: Image36332410,
     goodreadsUrl: "https://www.goodreads.com/book/show/36332410",
   },
   {
@@ -9564,7 +9564,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 310,
     dateFinished: "",
-    coverImg: Image40280403,
+    // coverImg: Image40280403,
     goodreadsUrl: "https://www.goodreads.com/book/show/40280403",
   },
   {
@@ -9578,7 +9578,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 348,
     dateFinished: "",
-    coverImg: Image43895031,
+    // coverImg: Image43895031,
     goodreadsUrl: "https://www.goodreads.com/book/show/43895031",
   },
   {
@@ -9592,7 +9592,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 336,
     dateFinished: "",
-    coverImg: Image50789354,
+    // coverImg: Image50789354,
     goodreadsUrl: "https://www.goodreads.com/book/show/50789354",
   },
   {
@@ -9606,7 +9606,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 419,
     dateFinished: "2023/11/01",
-    coverImg: Image201127814,
+    // coverImg: Image201127814,
     goodreadsUrl: "https://www.goodreads.com/book/show/201127814",
   },
   {
@@ -9620,7 +9620,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 6680,
     dateFinished: "",
-    coverImg: Image18713259,
+    // coverImg: Image18713259,
     goodreadsUrl: "https://www.goodreads.com/book/show/18713259",
   },
   {
@@ -9634,7 +9634,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 260,
     dateFinished: "",
-    coverImg: Image428035,
+    // coverImg: Image428035,
     goodreadsUrl: "https://www.goodreads.com/book/show/428035",
   },
   {
@@ -9648,7 +9648,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 96,
     dateFinished: "",
-    coverImg: Image22219681,
+    // coverImg: Image22219681,
     goodreadsUrl: "https://www.goodreads.com/book/show/22219681",
   },
   {
@@ -9662,7 +9662,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 320,
     dateFinished: "",
-    coverImg: Image22219682,
+    // coverImg: Image22219682,
     goodreadsUrl: "https://www.goodreads.com/book/show/22219682",
   },
   {
@@ -9676,7 +9676,7 @@ const bookData: Book[] = [
     rating: 5,
     numberOfPages: 345,
     dateFinished: "2011/10/02",
-    coverImg: Image62111,
+    // coverImg: Image62111,
     goodreadsUrl: "https://www.goodreads.com/book/show/62111",
   },
   {
@@ -9690,7 +9690,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 355,
     dateFinished: "",
-    coverImg: Image29618814,
+    // coverImg: Image29618814,
     goodreadsUrl: "https://www.goodreads.com/book/show/29618814",
   },
   {
@@ -9704,7 +9704,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 409,
     dateFinished: "",
-    coverImg: Image36010402,
+    // coverImg: Image36010402,
     goodreadsUrl: "https://www.goodreads.com/book/show/36010402",
   },
   {
@@ -9718,7 +9718,7 @@ const bookData: Book[] = [
     rating: 2,
     numberOfPages: 278,
     dateFinished: "",
-    coverImg: Image43895127,
+    // coverImg: Image43895127,
     goodreadsUrl: "https://www.goodreads.com/book/show/43895127",
   },
   {
@@ -9732,7 +9732,7 @@ const bookData: Book[] = [
     rating: 4,
     numberOfPages: 517,
     dateFinished: "",
-    coverImg: Image61431922,
+    // coverImg: Image61431922,
     goodreadsUrl: "https://www.goodreads.com/book/show/61431922",
   },
   {
@@ -9746,7 +9746,7 @@ const bookData: Book[] = [
     rating: 1,
     numberOfPages: 640,
     dateFinished: "",
-    coverImg: Image90202302,
+    // coverImg: Image90202302,
     goodreadsUrl: "https://www.goodreads.com/book/show/90202302",
   },
   {
@@ -9760,7 +9760,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: 248,
     dateFinished: "",
-    coverImg: Image876034,
+    // coverImg: Image876034,
     goodreadsUrl: "https://www.goodreads.com/book/show/876034",
   },
   {
@@ -9774,7 +9774,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/10/10",
-    coverImg: Image32453022,
+    // coverImg: Image32453022,
     goodreadsUrl: "https://www.goodreads.com/book/show/32453022",
   },
   {
@@ -9788,7 +9788,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/10/10",
-    coverImg: Image32453028,
+    // coverImg: Image32453028,
     goodreadsUrl: "https://www.goodreads.com/book/show/32453028",
   },
   {
@@ -9802,7 +9802,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/10/10",
-    coverImg: Image32453036,
+    // coverImg: Image32453036,
     goodreadsUrl: "https://www.goodreads.com/book/show/32453036",
   },
   {
@@ -9816,7 +9816,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/10/10",
-    coverImg: Image42298979,
+    // coverImg: Image42298979,
     goodreadsUrl: "https://www.goodreads.com/book/show/42298979",
   },
   {
@@ -9830,7 +9830,7 @@ const bookData: Book[] = [
     rating: 3,
     numberOfPages: "",
     dateFinished: "2020/10/10",
-    coverImg: Image42433737,
+    // coverImg: Image42433737,
     goodreadsUrl: "https://www.goodreads.com/book/show/42433737",
   },
 ];
